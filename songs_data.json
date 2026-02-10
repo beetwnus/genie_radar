@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-10 13:13:32",
+    "updated_at": "2026-02-10 18:11:50",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "The Quiett",
+            "title": "AMBITION 2/10",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/232/944/87232944_1770344804735_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113789956",
+            "found_at": "2026-02-10 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "숀 (SHAUN)",
+            "title": "일기장",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/229/727/87229727_1770283346865_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113780201",
+            "found_at": "2026-02-10 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "Molly Yam & DIMO REX",
+            "title": "DIMOLLY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/229/476/87229476_1770457114349_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113779044",
+            "found_at": "2026-02-10 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "임한별",
+            "title": "다시, 별 아래",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/245/564/87245564_1770627714165_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113835284",
+            "found_at": "2026-02-10 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "예빛",
+            "title": "스프링 피버 OST Part 9",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/229/480/87229480_1770277601571_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113779041",
+            "found_at": "2026-02-10 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "김민울",
+            "title": "Urban City",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/244/969/87244969_1770622362581_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113833874",
+            "found_at": "2026-02-10 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "잠발레스 비스트 & 자카르타 프리덤 & 방콕 소울맨",
+            "title": "베일드 컵",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/920/87233920_1770626572778_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113794507",
+            "found_at": "2026-02-10 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "카이 (Kai)",
+            "title": "KAI ON MUSICAL PART.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/245/554/87245554_1770627560215_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113835250",
+            "found_at": "2026-02-10 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "Sondia",
+            "title": "첫 번째 남자 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/225/558/87225558_1770626583698_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113765579",
+            "found_at": "2026-02-10 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "양요섭",
+            "title": "Unloved Echo",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/228/537/87228537_1770257206513_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113774732",
+            "found_at": "2026-02-10 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "TWS (투어스)",
+            "title": "다시 만난 오늘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/243/322/87243322_1770595290838_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113830139",
+            "found_at": "2026-02-10 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "청하",
+            "title": "Save me",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/227/87233227_1770354435295_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113791703",
+            "found_at": "2026-02-10 18:11",
+            "is_tracked": false
+        },
         {
             "artist": "SUDI",
             "title": "오답",
