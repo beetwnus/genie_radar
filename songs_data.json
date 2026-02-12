@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-12 00:15:31",
+    "updated_at": "2026-02-12 13:07:30",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,238 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "MilliMax",
+            "title": "119",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/310/87255310_1770789103566_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113867712",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "Hey Unison (헤이유니즌)",
+            "title": "［나는 SOLO］ OST part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/244/495/87244495_1770614879962_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113832768",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "off the menu (오프더메뉴)",
+            "title": "Superpower",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/217/87233217_1770354390402_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113791677",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "노블레스 (Noblesse)",
+            "title": "같은 계절에 만나",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/215/742/87215742_1770017887325_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113728368",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "이지함",
+            "title": "Love before Me",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/249/056/87249056_1770717889379_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113846029",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "김수윤",
+            "title": "The World Is a Circle",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/230/170/87230170_1770779111860_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113781674",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "리피트 (Repeat)",
+            "title": "유형지 (feat. 김새롬)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/202/87250202_1770707810329_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113850643",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "won.e",
+            "title": "#00843D",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/244/650/87244650_1770617511771_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113833165",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "준성 (JunSung)",
+            "title": "Special Ballad",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/204/655/87204655_1769705528109_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113685786",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "이소정",
+            "title": "바람은 너에게서 불어와 X 이소정 (흑막 공작의 못난이 부인 OST)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/572/87233572_1770619259140_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113793521",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "DIVINE",
+            "title": "You & Me",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/243/945/87243945_1770620192919_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113831588",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "정민주",
+            "title": "전지적 겨울 시점",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/230/87233230_1770707234024_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113791746",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "마리슈",
+            "title": "파스텔",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/220/266/87220266_1770623616160_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113745346",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "GENRE (장르)",
+            "title": "우리의 끝은 어디일까",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/226/386/87226386_1770280888219_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113768227",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "LOVEONE (러브원)",
+            "title": "시간여행 Project",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/234/723/87234723_1770779124719_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113797676",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "오월오일 ( 五月五日 )",
+            "title": "Leaves",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/304/87233304_1770355903376_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113792072",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "이예은",
+            "title": "그대라는 노래를 부르면",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/224/833/87224833_1770186695793_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113762569",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "황민현",
+            "title": "HWANG MIN HYUN DIGITAL SINGLE 'Truth'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/253/554/87253554_1770768697479_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113861506",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "테이 (Tei)",
+            "title": "끝사랑",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/285/87250285_1770709898802_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113851002",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "여원",
+            "title": "Run it up",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/249/404/87249404_1770690747500_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113847312",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "blah",
+            "title": "Normal Life",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/245/556/87245556_1770717684723_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113835281",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "전지우",
+            "title": "JIWOO 1st EP '(EX)IST'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/291/87250291_1770710185303_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113851008",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "KOR KASH",
+            "title": "서인덕",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/243/709/87243709_1770716179498_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113831096",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "유키",
+            "title": "영화 '턴더스트릿' Special Track. 1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/249/058/87249058_1770686205199_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113846043",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "이세빈",
+            "title": "The Last Night",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/934/87233934_1770365855375_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113794519",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "LIT",
+            "title": "My time is LIT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/243/883/87243883_1770606700301_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113831476",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "idntt (아이덴티티)",
+            "title": "＜All I Need＞",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/366/87250366_1770712292349_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113851368",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "Miichi",
+            "title": "Stay by my side",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/245/609/87245609_1770628294036_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113835435",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "이진솔",
+            "title": "Eternal Light",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/245/385/87245385_1770626199136_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113834889",
+            "found_at": "2026-02-12 13:07",
+            "is_tracked": false
+        },
         {
             "artist": "벨 (KISS OF LIFE)",
             "title": "웹툰 '재혼 황후' OST Part. 1",
