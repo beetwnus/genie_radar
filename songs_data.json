@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-13 13:02:06",
+    "updated_at": "2026-02-13 18:01:36",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,78 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "황상준",
+            "title": "레이디 두아 (Soundtrack from the Netflix Series)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/234/227/87234227_1770370312806_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113795421",
+            "found_at": "2026-02-13 18:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "문수진 (Moon Sujin)",
+            "title": "you",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/249/386/87249386_1770718523395_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113847222",
+            "found_at": "2026-02-13 18:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "수엔 (Suen)",
+            "title": "In my room.",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/248/934/87248934_1770684735599_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113845713",
+            "found_at": "2026-02-13 18:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "아묻따밴드",
+            "title": "알고 있잖아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/254/926/87254926_1770784916008_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113866659",
+            "found_at": "2026-02-13 18:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "키드킹 (Kidd King)",
+            "title": "CAN'T STOP",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/215/87250215_1770708115909_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113850718",
+            "found_at": "2026-02-13 18:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "AVOKID (에이보키드)",
+            "title": "Unspoken Ache",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/231/87233231_1770354691661_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113791706",
+            "found_at": "2026-02-13 18:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "wizu",
+            "title": "Redbound",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/237/494/87237494_1770876893843_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113809146",
+            "found_at": "2026-02-13 18:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "글 (GLL)",
+            "title": "Moonlight",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/172/87255172_1770787631169_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113867276",
+            "found_at": "2026-02-13 18:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "TRIGER (트리거)",
+            "title": "Wake Up (웨이크업)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/023/87250023_1770779931017_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113849603",
+            "found_at": "2026-02-13 18:01",
+            "is_tracked": false
+        },
         {
             "artist": "hu57la",
             "title": "찰랑찰랑 (HOT)",
