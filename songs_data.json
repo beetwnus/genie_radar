@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-15 13:02:42",
+    "updated_at": "2026-02-15 17:46:31",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,142 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "최은빈",
+            "title": "은애하는 도적님아 OST Part 7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/244/967/87244967_1770622352117_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113833836",
+            "found_at": "2026-02-15 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "이아영",
+            "title": "차라리 그댈 몰랐던 그때로",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/244/496/87244496_1770614887983_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113832770",
+            "found_at": "2026-02-15 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "시온",
+            "title": "firefly",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/936/87255936_1770796314382_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113870320",
+            "found_at": "2026-02-15 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "소이에 (soye)",
+            "title": "Beautiful Days (Positively Yours X 소이에(soye))",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/253/834/87253834_1770771218942_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113862200",
+            "found_at": "2026-02-15 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "김요비",
+            "title": "슬프도록 눈부셨던",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/234/043/87234043_1770366760856_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113794771",
+            "found_at": "2026-02-15 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "박지후",
+            "title": "흐려진 얼굴",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/244/546/87244546_1770947707023_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113832916",
+            "found_at": "2026-02-15 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "LURU(루루)",
+            "title": "La La Song",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/185/87250185_1770789575258_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113850474",
+            "found_at": "2026-02-15 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "BDRM (베드룸)",
+            "title": "난 겁이 많은가 봐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/230/798/87230798_1770614147773_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113783470",
+            "found_at": "2026-02-15 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "sEODo BAND (서도밴드)",
+            "title": "독백 〈산울림 50주년 기념 프로젝트〉",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/037/87250037_1770703597410_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113849657",
+            "found_at": "2026-02-15 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "PERCENT",
+            "title": "오늘부터 인간입니다만 OST Part.6",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/243/542/87243542_1770599493089_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113830633",
+            "found_at": "2026-02-15 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "율 (YUL)",
+            "title": "눈물편지",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/243/936/87243936_1770622450977_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113831559",
+            "found_at": "2026-02-15 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "이상미(익스)",
+            "title": "언더커버 미쓰홍 OST Part.6",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/117/87255117_1770787011133_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113867117",
+            "found_at": "2026-02-15 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "조빈",
+            "title": "Buddha Hands Up_Prequel",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/244/002/87244002_1770607360973_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113831729",
+            "found_at": "2026-02-15 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "LUMIN",
+            "title": "Valentine",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/261/164/87261164_1770952040911_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113889603",
+            "found_at": "2026-02-15 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "강고은",
+            "title": "내 머릿속에서 나가줘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/930/87255930_1770796305497_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113870313",
+            "found_at": "2026-02-15 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "재경",
+            "title": "다시 너의 세상으로",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/249/442/87249442_1770789450990_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113847427",
+            "found_at": "2026-02-15 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "솜먕",
+            "title": "고백작전",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/244/248/87244248_1770689355453_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113832292",
+            "found_at": "2026-02-15 17:46",
+            "is_tracked": false
+        },
         {
             "artist": "노아주다 (noahjooda)",
             "title": "숨 쉬듯 노래할래",
