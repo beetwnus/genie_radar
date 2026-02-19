@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-19 00:08:21",
+    "updated_at": "2026-02-19 13:02:51",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,238 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "적란운",
+            "title": "Unknown",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/177/87250177_1770707278216_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113850470",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "다레",
+            "title": "Wintter",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/254/427/87254427_1770778307625_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113864392",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "뎁트 & entoy",
+            "title": "Aurora",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/229/212/87229212_1770271924572_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113777869",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "Uncrude",
+            "title": "Mystic",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/282/87255282_1770788520258_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113867613",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "Brick (브릭)",
+            "title": "끌려가",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/249/134/87249134_1770687143809_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113846307",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "태윤 (TAEYOON)",
+            "title": "어떤 그림",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/243/618/87243618_1770788083699_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113830844",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "Jimmy Brown",
+            "title": "Sunset Glow",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/245/685/87245685_1770630781267_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113835750",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "김찬호",
+            "title": "너에게 전하는 노래",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/249/222/87249222_1770688596292_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113846650",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "그네 & 이서한",
+            "title": "기적에 가까운 이야기 ~ 奇跡の物語 ~",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/372/87250372_1770797615200_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113851397",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤성기",
+            "title": "Shadow",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/921/87250921_1770794496971_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113853115",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "COII",
+            "title": "typing",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/980/87255980_1770874972657_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113870560",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "Cillian",
+            "title": "Wonder(원더)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/254/171/87254171_1770775293333_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113863450",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "FuturePeerClub",
+            "title": "Like you stole it",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/234/062/87234062_1770883897125_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113794837",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "마해담",
+            "title": "물음표",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/828/87250828_1770948050181_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113852861",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "프리멜로",
+            "title": "내 맘이 퐁당",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/010/87250010_1770797603672_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113849499",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "문소문",
+            "title": "낭만을 빌려주는 노인",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/215/703/87215703_1770948039401_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113728336",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "어반폴리",
+            "title": "울지 말아요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/244/391/87244391_1770775706452_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113832573",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "RUIN$",
+            "title": "트로이 목마",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/174/87250174_1770707264819_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113850239",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "아이보리 (Ivory)",
+            "title": "사랑하지말자",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/238/000/87238000_1770960765817_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113810975",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "KCM",
+            "title": "잊혀져가더라",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/941/87255941_1770796590549_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113870341",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤원",
+            "title": "내가 더 사랑하면 되는 거잖아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/403/87255403_1770790011800_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113868051",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "스카프 (SC4F)",
+            "title": "SUBWOOFER SOUL (Intro)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/249/712/87249712_1770883888172_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113848251",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "조성확 (IHWAK)",
+            "title": "Call It Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/992/87255992_1770798130557_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113870585",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "SINDY",
+            "title": "친밀한 리플리 OST Part.7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/256/109/87256109_1770874968541_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113871088",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "여지영",
+            "title": "ㄱ",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/229/149/87229149_1770948129519_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113777612",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "TYVE",
+            "title": "Wherever You Go",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/249/396/87249396_1770690725156_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113847246",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "그믐달",
+            "title": "셋째달＋",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/249/611/87249611_1770694303043_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113847910",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "차지연",
+            "title": "현역가왕3 준결승 1R 국민트롯대첩",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/260/618/87260618_1770947217774_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113887873",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "로즈아나 (Rosanna)",
+            "title": "노놀 VOL 78. NONOL Festa Compliation",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/473/87250473_1770787272945_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113851788",
+            "found_at": "2026-02-19 13:02",
+            "is_tracked": false
+        },
         {
             "artist": "Super Joy Club",
             "title": "어떻게 평화할까?",
