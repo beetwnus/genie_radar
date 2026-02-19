@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-19 13:02:51",
+    "updated_at": "2026-02-19 18:05:13",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "코다 브릿지 (CODA BRIDGE)",
+            "title": "Switch",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/038/87250038_1770703603075_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113849655",
+            "found_at": "2026-02-19 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "김기태",
+            "title": "별다를 거 없어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/248/935/87248935_1770684748801_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113845706",
+            "found_at": "2026-02-19 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "송하영 (프로미스나인)",
+            "title": "우주를 줄게 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/256/027/87256027_1770874983788_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113870772",
+            "found_at": "2026-02-19 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "황인욱",
+            "title": "너를 위해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/256/026/87256026_1770798498749_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113870770",
+            "found_at": "2026-02-19 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "식케이 (Sik-K)",
+            "title": "STAY on FIRE (feat. DEAN)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/254/186/87254186_1770775318888_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113863460",
+            "found_at": "2026-02-19 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "TOVE",
+            "title": "Love Bomba",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/583/87255583_1770792093683_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113868899",
+            "found_at": "2026-02-19 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "니브 (NIve)",
+            "title": "Blue Rose",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/228/998/87228998_1770948068725_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113776964",
+            "found_at": "2026-02-19 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "LIMZY",
+            "title": "ONDO",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/254/426/87254426_1770778302222_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113864387",
+            "found_at": "2026-02-19 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "소란 (SORAN)",
+            "title": "사과 하나를 그려",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/245/558/87245558_1770627690537_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113835278",
+            "found_at": "2026-02-19 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "이세준 (유리상자)",
+            "title": "Month Lee 2602",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/136/87250136_1770718071215_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113850062",
+            "found_at": "2026-02-19 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "백색소음",
+            "title": "Overdose",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/254/973/87254973_1770785513853_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113866754",
+            "found_at": "2026-02-19 18:05",
+            "is_tracked": false
+        },
         {
             "artist": "적란운",
             "title": "Unknown",
