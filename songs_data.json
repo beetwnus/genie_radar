@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-21 12:46:20",
+    "updated_at": "2026-02-21 17:44:22",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,118 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "송가인",
+            "title": "사랑아 사랑아 (from 사랑을 처방해 드립니다 OST)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/258/941/87258941_1770861094427_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113880894",
+            "found_at": "2026-02-21 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "베이스해머 (BassHammer) & ENDRUN",
+            "title": "Hammer Blaze",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/715/87255715_1770793912387_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113869471",
+            "found_at": "2026-02-21 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "TRADE L",
+            "title": "LOVE MAZE II",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/259/210/87259210_1770865941479_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113881959",
+            "found_at": "2026-02-21 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "김성규",
+            "title": "Over It",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/288/277/87288277_1771489923474_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113971444",
+            "found_at": "2026-02-21 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "벤",
+            "title": "찬란한 너의 계절에 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/254/176/87254176_1770947842133_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113863491",
+            "found_at": "2026-02-21 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "도유카 (doyouka)",
+            "title": "저 달이 뜨면 네가 떠올라",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/260/593/87260593_1770967888237_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113887779",
+            "found_at": "2026-02-21 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "Modern IVY",
+            "title": "Brown Eyes",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/417/87255417_1770790064932_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113868082",
+            "found_at": "2026-02-21 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "스티피 (STEEPY)",
+            "title": "OK (Feat. Sool J, Hamo)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/254/454/87254454_1770875818590_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113864625",
+            "found_at": "2026-02-21 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "박군",
+            "title": "땡잡았다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/239/87250239_1770713725768_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113850745",
+            "found_at": "2026-02-21 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "서은광 (비투비)",
+            "title": "오늘부터 인간입니다만 OST Part.7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/249/610/87249610_1770694297834_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113847912",
+            "found_at": "2026-02-21 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "I.M (아이엠) & 윤석 (YOONSEOK) & WOOKI & OF'F",
+            "title": "CODA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/374/87255374_1770789813488_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113867996",
+            "found_at": "2026-02-21 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "X:IN (엑신)",
+            "title": "Hyper",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/660/87255660_1770874992018_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113869221",
+            "found_at": "2026-02-21 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "성수진",
+            "title": "어떤가요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/409/87255409_1770790042736_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113868063",
+            "found_at": "2026-02-21 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "크래커 (CRACKER)",
+            "title": "1000/60",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/937/87255937_1770796321788_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113870321",
+            "found_at": "2026-02-21 17:44",
+            "is_tracked": false
+        },
         {
             "artist": "립나인 (LIPNINE)",
             "title": "겨울처럼",
