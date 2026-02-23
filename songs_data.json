@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-23 13:08:34",
+    "updated_at": "2026-02-23 18:11:44",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "IVE (아이브)",
+            "title": "REVIVE＋",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/225/87233225_1771579384466_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113986758",
+            "found_at": "2026-02-23 18:11",
+            "is_tracked": true
+        },
+        {
+            "artist": "Padi (페디)",
+            "title": "Press Winter",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/288/096/87288096_1771487492870_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113970969",
+            "found_at": "2026-02-23 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "NCT JNJM",
+            "title": "BOTH SIDES - The 1st Mini Album",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/293/025/87293025_1771575840419_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113987031",
+            "found_at": "2026-02-23 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "DAILY:DIRECTION",
+            "title": "FIRST:DELIVERY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/256/424/87256424_1770806801459_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113872447",
+            "found_at": "2026-02-23 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "도겸",
+            "title": "웹툰 '화산귀환' OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/258/862/87258862_1770859290999_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113880612",
+            "found_at": "2026-02-23 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "KHAN",
+            "title": "ALBATROSS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/300/867/87300867_1771816892346_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114012568",
+            "found_at": "2026-02-23 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "박지현",
+            "title": "MASTER VOICE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/246/037/87246037_1771570413916_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113836518",
+            "found_at": "2026-02-23 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "tomikyo & paiiinntt",
+            "title": "Locket",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/260/598/87260598_1770968881674_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113887789",
+            "found_at": "2026-02-23 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "유승범",
+            "title": "금지된 사랑",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/259/948/87259948_1770881580143_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113885061",
+            "found_at": "2026-02-23 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "류민희",
+            "title": "북극성",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/258/703/87258703_1770958639583_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113880104",
+            "found_at": "2026-02-23 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "길구 (길구봉구)",
+            "title": "짝사랑을 망치고 싶어 X 길구 (길구봉구)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/754/87250754_1770718891780_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113852679",
+            "found_at": "2026-02-23 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "최유리",
+            "title": "초봄",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/286/586/87286586_1771463814271_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113965701",
+            "found_at": "2026-02-23 18:11",
+            "is_tracked": false
+        },
         {
             "artist": "JazzyHan & LightLeaf",
             "title": "It Was Summer..",
