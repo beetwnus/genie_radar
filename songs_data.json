@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-24 13:01:48",
+    "updated_at": "2026-02-24 18:08:27",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "공원",
+            "title": "［0］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/292/930/87292930_1771577587059_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113986646",
+            "found_at": "2026-02-24 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "ChoCo1 & ChoCo2",
+            "title": "ChoCo La Familia",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/260/491/87260491_1770889891145_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113886853",
+            "found_at": "2026-02-24 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "허각",
+            "title": "미친 사랑의 노래",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/304/227/87304227_1771897069790_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114026218",
+            "found_at": "2026-02-24 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "예빛",
+            "title": "Traveler",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/262/451/87262451_1771807998751_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113893683",
+            "found_at": "2026-02-24 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "여한",
+            "title": "이제는 어떻게 사랑을 하나요 X BY CHANCE PROJECT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/301/271/87301271_1771828301508_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114014933",
+            "found_at": "2026-02-24 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "Wynn (윈)",
+            "title": "w.w.w",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/300/655/87300655_1771809104603_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114011272",
+            "found_at": "2026-02-24 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "12BH",
+            "title": "Better Days",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/292/718/87292718_1771827147426_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113986016",
+            "found_at": "2026-02-24 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "L1NCHi",
+            "title": "웹툰 '현실퀘스트' OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/291/264/87291264_1771552890863_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113981692",
+            "found_at": "2026-02-24 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "란 (Ran)",
+            "title": "눈 감고 그대를 그려요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/292/536/87292536_1771844149714_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113985483",
+            "found_at": "2026-02-24 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "ROYDO",
+            "title": "PRIME TIME",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/300/651/87300651_1771809095546_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114011260",
+            "found_at": "2026-02-24 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "40 (포티)",
+            "title": "HEARTBROKEN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/721/87255721_1771486871708_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113869538",
+            "found_at": "2026-02-24 18:08",
+            "is_tracked": false
+        },
         {
             "artist": "버나드 박",
             "title": "곁에 있어",
