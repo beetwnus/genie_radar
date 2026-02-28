@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-28 12:33:11",
+    "updated_at": "2026-02-28 17:40:20",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,110 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "jambino",
+            "title": "kamki",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/309/542/87309542_1771986764582_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114045232",
+            "found_at": "2026-02-28 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "스웨덴세탁소",
+            "title": "사랑을 낭비하면서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/291/386/87291386_1771554694302_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113982223",
+            "found_at": "2026-02-28 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "장범준",
+            "title": "월말 장범준 '2026년 2월' - PC방이나 다녔지",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/133/87314133_1772082998797_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114064876",
+            "found_at": "2026-02-28 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "JUNE",
+            "title": "NOTHING WITHOUT YOU",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/259/292/87259292_1772084380720_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114065082",
+            "found_at": "2026-02-28 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "이영지",
+            "title": "ROBOT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/317/222/87317222_1772163092851_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114078953",
+            "found_at": "2026-02-28 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "모임 별 (Byul.org)",
+            "title": "가장 고독한 나라 (The Loneliest Country)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/313/747/87313747_1772089603380_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114063442",
+            "found_at": "2026-02-28 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "세진",
+            "title": "마지막 눈은 아니였으면",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/311/501/87311501_1772009265585_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114052952",
+            "found_at": "2026-02-28 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "서자영",
+            "title": "찬란한 너의 계절에 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/311/323/87311323_1772171904448_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114052345",
+            "found_at": "2026-02-28 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "BRAZY",
+            "title": "RE:SET",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/309/163/87309163_1771983695188_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114044158",
+            "found_at": "2026-02-28 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "미도파",
+            "title": "Fosho",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/556/87314556_1772091414689_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114066927",
+            "found_at": "2026-02-28 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "박강수",
+            "title": "그때",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/305/524/87305524_1772017345282_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114031462",
+            "found_at": "2026-02-28 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "MIRO",
+            "title": "TIPSY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/310/940/87310940_1772002916223_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114051000",
+            "found_at": "2026-02-28 17:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "XEN",
+            "title": "Used to (feat. KIDO)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/304/765/87304765_1772011022923_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114027859",
+            "found_at": "2026-02-28 17:40",
+            "is_tracked": false
+        },
         {
             "artist": "두이",
             "title": "NLNL",
