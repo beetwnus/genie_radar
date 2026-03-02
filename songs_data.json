@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-02 12:57:58",
+    "updated_at": "2026-03-02 18:05:45",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,134 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "임세준",
+            "title": "Pray For God",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/309/780/87309780_1771989103666_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114046256",
+            "found_at": "2026-03-02 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "넬 (NELL)",
+            "title": "X : 3 / ?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/370/87314370_1772087492389_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114065830",
+            "found_at": "2026-03-02 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "김성규",
+            "title": "OFF THE MAP",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/288/277/87288277_1772157983225_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114076673",
+            "found_at": "2026-03-02 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "B.I",
+            "title": "BUZZIN (Feat. Coogie, GRAY)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/313/756/87313756_1772075196513_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114063495",
+            "found_at": "2026-03-02 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "수진",
+            "title": "아무도, 아무것도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/653/87314653_1772094398859_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114067551",
+            "found_at": "2026-03-02 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "KURO",
+            "title": "후회 비슷한 거라도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/311/083/87311083_1772169103300_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114051521",
+            "found_at": "2026-03-02 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "르누아 (LeNoir)",
+            "title": "주파수",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/313/183/87313183_1772064690602_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114060755",
+            "found_at": "2026-03-02 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "준서",
+            "title": "내 세상은 널 떠올리기에 바빠",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/705/87314705_1772095919410_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114067798",
+            "found_at": "2026-03-02 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "Greg (그렉)",
+            "title": "그날이 오늘이야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/304/883/87304883_1772090408874_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114028354",
+            "found_at": "2026-03-02 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "안예슬",
+            "title": "한마디",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/305/075/87305075_1772177278061_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114029222",
+            "found_at": "2026-03-02 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "김태리",
+            "title": "방과후 태리쌤 OST Part 1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/313/714/87313714_1772074307418_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114063296",
+            "found_at": "2026-03-02 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "Rich Iggy",
+            "title": "Z.O.O.G",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/313/761/87313761_1772075497093_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114063499",
+            "found_at": "2026-03-02 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "이적 & 정재일",
+            "title": "다시 쓰는 대한이 살았다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/129/87314129_1772082758403_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114064831",
+            "found_at": "2026-03-02 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "영재 (YOUNGJAE)",
+            "title": "미혼남녀의 효율적 만남 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/310/980/87310980_1772168185461_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114051254",
+            "found_at": "2026-03-02 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "방예담",
+            "title": "찬란한 너의 계절에 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/311/451/87311451_1772171920816_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114052808",
+            "found_at": "2026-03-02 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "정창룡",
+            "title": "너라는 꽃에 감사한다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/311/291/87311291_1772006556237_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114052291",
+            "found_at": "2026-03-02 18:05",
+            "is_tracked": false
+        },
         {
             "artist": "DáFF",
             "title": "사계",
