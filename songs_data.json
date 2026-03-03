@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-03 12:56:45",
+    "updated_at": "2026-03-03 18:00:09",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "오연하",
+            "title": "만약에 우리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/572/87314572_1772092290540_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114067055",
+            "found_at": "2026-03-03 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "김승민 & RYUL & 래원 (Layone) & OLNL (오르내림) & Cosmic Boy",
+            "title": "반틈",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/313/450/87313450_1772068609266_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114061722",
+            "found_at": "2026-03-03 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "EVERGLOW (에버글로우)",
+            "title": "CODE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/363/87314363_1772170751387_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114065811",
+            "found_at": "2026-03-03 18:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "TUNEXX (튜넥스)",
+            "title": "SET BY US ONLY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/619/87314619_1772093791020_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114067339",
+            "found_at": "2026-03-03 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "Sondia",
+            "title": "세이렌 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/630/87314630_1772093828717_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114067414",
+            "found_at": "2026-03-03 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "Big Ocean",
+            "title": "THE GREATEST BATTLE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/221/87314221_1772084192107_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114065127",
+            "found_at": "2026-03-03 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "가비엔제이 (Gavy NJ)",
+            "title": "The Gavy NJ : II",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/852/87314852_1772099533035_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114068470",
+            "found_at": "2026-03-03 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "박찬영",
+            "title": "머물던 순간들",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/310/718/87310718_1772156920142_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114049929",
+            "found_at": "2026-03-03 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "오묘 & 오연",
+            "title": "안녕 나의 우주 (오묘백반 005)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/306/125/87306125_1772506153648_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114034614",
+            "found_at": "2026-03-03 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "임세준",
+            "title": "Pray For God",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/309/780/87309780_1771989103666_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114046256",
+            "found_at": "2026-03-03 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "넬 (NELL)",
+            "title": "X : 3 / ?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/370/87314370_1772087492389_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114065830",
+            "found_at": "2026-03-03 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "김성규",
+            "title": "OFF THE MAP",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/288/277/87288277_1772157983225_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114076673",
+            "found_at": "2026-03-03 18:00",
+            "is_tracked": false
+        },
         {
             "artist": "SNAZZY (스네지)",
             "title": "Take A Ride",
