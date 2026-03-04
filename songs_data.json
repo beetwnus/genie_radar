@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-04 12:50:35",
+    "updated_at": "2026-03-04 17:57:40",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,118 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "YB (윤도현 밴드)",
+            "title": "산울림 50주년 기념 정규앨범 Vol. 3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/317/191/87317191_1772161890872_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114078632",
+            "found_at": "2026-03-04 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "WOODZ",
+            "title": "Archive. 1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/281/87250281_1772532092313_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114132648",
+            "found_at": "2026-03-04 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "유발이 (U.BAR.E)",
+            "title": "인디30",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/331/541/87331541_1772505091577_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114127598",
+            "found_at": "2026-03-04 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "정준일",
+            "title": "어떻게 사랑이 그래요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/317/517/87317517_1772176261162_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114081122",
+            "found_at": "2026-03-04 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "DeVita",
+            "title": "The Tree is Burning",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/331/192/87331192_1772500319396_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114126397",
+            "found_at": "2026-03-04 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "신용재 (2F)",
+            "title": "우리는 매일매일 OST Part.1 - 아마도 이건 나의 사랑의 시작인가봐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/310/919/87310919_1772094045091_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114050912",
+            "found_at": "2026-03-04 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "리디아 (Lydia)",
+            "title": "영화 '두껍아 두껍아' Special Track. 3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/305/611/87305611_1771918506536_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114031816",
+            "found_at": "2026-03-04 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "스무살",
+            "title": "분명, 그댈 좋아해요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/332/043/87332043_1772512591619_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114129236",
+            "found_at": "2026-03-04 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "김뮤지엄 (KIMMUSEUM)",
+            "title": "SAD 1ER CRU: After Everything is Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/331/470/87331470_1772503903241_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114127355",
+            "found_at": "2026-03-04 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "김종서",
+            "title": "Epilogue",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/317/984/87317984_1772600405886_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114083056",
+            "found_at": "2026-03-04 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "Marrakech",
+            "title": "22",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/313/419/87313419_1772507794520_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114061563",
+            "found_at": "2026-03-04 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "이규라",
+            "title": "난 행복해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/332/662/87332662_1772521352616_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114131456",
+            "found_at": "2026-03-04 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "RAPH4EL",
+            "title": "4/4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/332/707/87332707_1772583864935_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114131566",
+            "found_at": "2026-03-04 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "스카프 (SC4F)",
+            "title": "shoWWindoW",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/313/933/87313933_1772528263115_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114064113",
+            "found_at": "2026-03-04 17:57",
+            "is_tracked": false
+        },
         {
             "artist": "정윤 & aiai",
             "title": "crybaby",
