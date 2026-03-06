@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-06 12:51:20",
+    "updated_at": "2026-03-06 17:56:07",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,86 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "LAY BACK & A.TRAIN (에이트레인) & NUE (누에) & 서보경 & 이태강",
+            "title": "Every Little Thing",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/338/355/87338355_1772617892395_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114150581",
+            "found_at": "2026-03-06 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "아렌 (브라더스)",
+            "title": "보고 싶어요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/305/687/87305687_1771919526286_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114032262",
+            "found_at": "2026-03-06 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "도영 (DOYOUNG)",
+            "title": "월간남친 Part 1 (Soundtack from the Netflix Series)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/338/341/87338341_1772615193732_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114150501",
+            "found_at": "2026-03-06 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "김나영",
+            "title": "세상이 그대를 속일지라도 (영화 '넘버원' X 김나영)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/341/942/87341942_1772692444868_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114162504",
+            "found_at": "2026-03-06 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "최수호",
+            "title": "큰거온다 (JERIDE Remix)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/301/458/87301458_1771832540239_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114016308",
+            "found_at": "2026-03-06 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "오왠 (O.WHEN)",
+            "title": "작은 사랑",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/340/516/87340516_1772673776605_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114157877",
+            "found_at": "2026-03-06 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "정세운",
+            "title": "샤이닝 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/341/947/87341947_1772692597995_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114162527",
+            "found_at": "2026-03-06 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "Blue.D",
+            "title": "Perfect Love (feat. BE'O)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/340/454/87340454_1772673099394_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114157668",
+            "found_at": "2026-03-06 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "SIM2",
+            "title": "Sound Cloud",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/086/991/264/86991264_1772707494278_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114165066",
+            "found_at": "2026-03-06 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "제니 (JENNIE)",
+            "title": "Ruby (The Complete Collection)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/038/87344038_1772761632514_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114170338",
+            "found_at": "2026-03-06 17:56",
+            "is_tracked": true
+        },
         {
             "artist": "김하온 (HAON) & Nosun & Raf Sandou & Marv & 정준혁",
             "title": "쇼미더머니 12 Episode 1",
