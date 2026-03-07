@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-07 12:39:50",
+    "updated_at": "2026-03-07 17:42:48",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "HANZ & 권인서",
+            "title": "그리워 그리워서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/342/206/87342206_1772697106186_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114163605",
+            "found_at": "2026-03-07 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "로시 (Rothy)",
+            "title": "샤이닝 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/497/87344497_1772765813870_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114171769",
+            "found_at": "2026-03-07 17:42",
+            "is_tracked": true
+        },
+        {
+            "artist": "정수민",
+            "title": "찬란한 너의 계절에 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/341/849/87341849_1772777084234_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114162131",
+            "found_at": "2026-03-07 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "OSUM (오썸)",
+            "title": "수면티켓",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/341/899/87341899_1772691997633_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114162243",
+            "found_at": "2026-03-07 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "이지민",
+            "title": "넌 내꺼 넌 내 남자",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/337/931/87337931_1772705241598_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114149124",
+            "found_at": "2026-03-07 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "이지호 & 마현권",
+            "title": "난장이가 쏘아올린 작은 공",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/332/937/87332937_1772526994500_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114132470",
+            "found_at": "2026-03-07 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "리진",
+            "title": "나의 모든 날들이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/343/996/87343996_1772758911651_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114170089",
+            "found_at": "2026-03-07 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "한경일",
+            "title": "어느새 봄날은 가고",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/340/465/87340465_1772673127309_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114157688",
+            "found_at": "2026-03-07 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "임찬",
+            "title": "바람같은 청춘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/517/87344517_1772766093739_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114171825",
+            "found_at": "2026-03-07 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "LAY BACK & A.TRAIN (에이트레인) & NUE (누에) & 서보경 & 이태강",
+            "title": "Every Little Thing",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/338/355/87338355_1772617892395_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114150581",
+            "found_at": "2026-03-07 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "아렌 (브라더스)",
+            "title": "보고 싶어요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/305/687/87305687_1771919526286_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114032262",
+            "found_at": "2026-03-07 17:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "도영 (DOYOUNG)",
+            "title": "월간남친 Part 1 (Soundtack from the Netflix Series)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/338/341/87338341_1772615193732_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114150501",
+            "found_at": "2026-03-07 17:42",
+            "is_tracked": false
+        },
         {
             "artist": "BORAN (보란)",
             "title": "Delulu",
