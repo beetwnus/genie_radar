@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-09 13:02:07",
+    "updated_at": "2026-03-09 18:06:26",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "순순희 (기태)",
+            "title": "이별은 멀었죠 (2026)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/342/318/87342318_1772700709759_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114164065",
+            "found_at": "2026-03-09 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤하 (YOUNHA)",
+            "title": "윤하 리메이크 앨범 '써브캐릭터 원'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/207/064/87207064_1772788347139_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114176710",
+            "found_at": "2026-03-09 18:06",
+            "is_tracked": true
+        },
+        {
+            "artist": "온유 (ONEW)",
+            "title": "TOUGH LOVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/345/123/87345123_1772773892582_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114173543",
+            "found_at": "2026-03-09 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "ALLDAY PROJECT",
+            "title": "I DON'T BARGAIN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/345/476/87345476_1772779292036_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114174836",
+            "found_at": "2026-03-09 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "KickFlip (킥플립)",
+            "title": "My First Kick",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/780/87344780_1772773900722_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114172459",
+            "found_at": "2026-03-09 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "소향",
+            "title": "My Little New Diary. Part 3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/058/87344058_1772768734044_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114170469",
+            "found_at": "2026-03-09 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "임도혁",
+            "title": "물들어 (2026)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/332/930/87332930_1772688708795_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114132452",
+            "found_at": "2026-03-09 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "NouerA (누에라)",
+            "title": "POP IT LIKE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/345/986/87345986_1772785054011_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114176192",
+            "found_at": "2026-03-09 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "석매튜 (ZEROBASEONE) & 김태래 (ZEROBASEONE) & 박건욱 (ZEROBASEONE)",
+            "title": "방과후 태리쌤 OST Part 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/342/270/87342270_1772699496941_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114163915",
+            "found_at": "2026-03-09 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "아샤트리",
+            "title": "그래 늦지 않았어 (2026 여자 Ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/341/032/87341032_1772680772311_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114159341",
+            "found_at": "2026-03-09 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "스윗소로우 (SWEET SORROW)",
+            "title": "PALM",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/342/244/87342244_1772698292940_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114163783",
+            "found_at": "2026-03-09 18:06",
+            "is_tracked": false
+        },
         {
             "artist": "Mingginyu (밍기뉴)",
             "title": "방과후 태리쌤 OST Part 3",
