@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-11 00:13:38",
+    "updated_at": "2026-03-11 12:52:47",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,238 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "ROSESIA (로즈시아)",
+            "title": "B.O.M",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/345/461/87345461_1772778711915_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114174719",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "소각소각",
+            "title": "궤적",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/346/196/87346196_1772787102001_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114176733",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "천단비",
+            "title": "긴 잠",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/710/87356710_1773044523805_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114207701",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "KODI GREEN",
+            "title": "SOS (Feat. Sonny zero)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/310/701/87310701_1771999917696_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114049849",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "뎁트",
+            "title": "봄의 언어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/360/450/87360450_1773191106922_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114217511",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "015B",
+            "title": "The Legacy 24",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/360/784/87360784_1773110492425_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114219163",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "홍지윤",
+            "title": "현역가왕3 결승 2차 현역의 노래",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/362/300/87362300_1773134814096_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114224322",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "Osshun Gum",
+            "title": "Lifestyle",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/400/87356400_1773120043848_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114206490",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "Felicity (펠리시티)",
+            "title": "Upside Down",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/318/87356318_1773037050275_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114205885",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "Cozycat (코지캣)",
+            "title": "살얼음",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/362/458/87362458_1773136707135_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114224717",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "심각한 개구리",
+            "title": "내 곁에 있어줘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/546/87356546_1773127548701_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114207080",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "도비비 (Dovlvl)",
+            "title": "청순응(青適應)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/718/87344718_1773050513079_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114172305",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "Rakon",
+            "title": "Same Boy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/227/87344227_1773118723515_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114171170",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "류니콘",
+            "title": "낭만혁명가",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/340/899/87340899_1773121896007_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114158972",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "노네 (none)",
+            "title": "귀찮아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/421/87356421_1773039392144_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114206624",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "모닝커피 (Morning Coffee)",
+            "title": "다정하고 매정했던",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/355/598/87355598_1773121914351_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114202807",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "ALBN (앨빈)",
+            "title": "Convergent Revolution",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/360/788/87360788_1773110516616_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114219173",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "Under",
+            "title": "So Much",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/332/211/87332211_1773020524831_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114129793",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "베이블루 아카데미",
+            "title": "BLUEming",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/381/87344381_1772764386087_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114171478",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "임현식 (비투비)",
+            "title": "세이렌 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/441/87356441_1773039723394_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114206724",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "CAMO",
+            "title": "말해줘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/355/986/87355986_1773189918271_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114204291",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "민수",
+            "title": "Go for Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/085/87344085_1772768747052_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114170670",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "Dragon Pony (드래곤포니)",
+            "title": "RUN RUN RUN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/453/87356453_1773040022901_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114206750",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "안녕하신가영",
+            "title": "우리는 사랑이 돼요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/341/728/87341728_1773031859197_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114161783",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "송이한",
+            "title": "우리는 매일매일 OST Part.2 – One And Only Warmth",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/333/515/87333515_1772705616399_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114134358",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "소이에 (soye)",
+            "title": "눈꽃",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/355/902/87355902_1773024102792_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114203954",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "김푸름",
+            "title": "늦잠",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/342/180/87342180_1773020835887_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114163520",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "송지우(Song ziu)",
+            "title": "SM:ALL ROOM Season 01",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/451/87356451_1773040011464_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114206739",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "jdin",
+            "title": "Love Recap",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/355/675/87355675_1773017492155_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114203017",
+            "found_at": "2026-03-11 12:52",
+            "is_tracked": false
+        },
         {
             "artist": "던말릭 (DON MALIK) & Hash Swan",
             "title": "AMBITION 3/10",
