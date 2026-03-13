@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-13 12:54:41",
+    "updated_at": "2026-03-13 17:56:08",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,78 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Gemini (제미나이)",
+            "title": "AA (Alone Again)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/858/87356858_1773047535416_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114208253",
+            "found_at": "2026-03-13 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "적재",
+            "title": "신이랑 법률사무소 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/362/349/87362349_1773135392513_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114224499",
+            "found_at": "2026-03-13 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "SOLE (쏠)",
+            "title": "샤이닝 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/004/87372004_1773293829076_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114254741",
+            "found_at": "2026-03-13 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "빈센트블루",
+            "title": "I'm not cold",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/365/599/87365599_1773193600897_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114234036",
+            "found_at": "2026-03-13 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "크루셜스타 (CRUCiAL STAR)",
+            "title": "Radish",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/367/474/87367474_1773217611197_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114241010",
+            "found_at": "2026-03-13 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "JEY",
+            "title": "If you do",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/367/548/87367548_1773219698090_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114241466",
+            "found_at": "2026-03-13 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "뉴진스님 & SunB & Sean Park & 이신재 (Jason)",
+            "title": "Turn It Up Louder",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/336/475/87336475_1772588803347_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114143069",
+            "found_at": "2026-03-13 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "지우",
+            "title": "STAY IN THE MIRROR",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/360/976/87360976_1773192994005_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114219780",
+            "found_at": "2026-03-13 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "블루 스마일",
+            "title": "Highlight",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/064/87372064_1773294400237_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114254869",
+            "found_at": "2026-03-13 17:56",
+            "is_tracked": false
+        },
         {
             "artist": "노아주다 (noahjooda)",
             "title": "Rapper's Love Song",
