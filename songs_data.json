@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-16 13:24:38",
+    "updated_at": "2026-03-16 18:14:41",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "음율",
+            "title": "마음의 형태 (With You)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/375/471/87375471_1773361893060_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114265258",
+            "found_at": "2026-03-16 18:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "정석",
+            "title": "차마 말 못하고, 끝내 전하지 못 한 것들",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/361/145/87361145_1773113792107_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114220277",
+            "found_at": "2026-03-16 18:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "AB6IX (에이비식스)",
+            "title": "SEVEN : CRIMSON HORIZON",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/925/87372925_1773383216536_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114257577",
+            "found_at": "2026-03-16 18:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "ALL(H)OURS (올아워즈)",
+            "title": "NO DOUBT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/023/87372023_1773294124270_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114254807",
+            "found_at": "2026-03-16 18:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "민니 (MINNIE)",
+            "title": "세이렌 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/375/503/87375503_1773362501920_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114265418",
+            "found_at": "2026-03-16 18:14",
+            "is_tracked": true
+        },
+        {
+            "artist": "이효리",
+            "title": "내 마음이 몽글몽글 - 몽글상담소 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/460/87372460_1773300779397_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114256061",
+            "found_at": "2026-03-16 18:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "coa white",
+            "title": "babyblue (feat. kioskdoll)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/367/301/87367301_1773215589138_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114240511",
+            "found_at": "2026-03-16 18:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "장수빈",
+            "title": "No way A way (NWAW)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/337/331/87337331_1773020537741_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114146886",
+            "found_at": "2026-03-16 18:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "ADYNE",
+            "title": "너는 어떻게 살아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/385/279/87385279_1773637600023_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114294648",
+            "found_at": "2026-03-16 18:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "케이준 (K Jun)",
+            "title": "SEAT BELT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/734/87356734_1773194728317_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114207810",
+            "found_at": "2026-03-16 18:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "홍이삭",
+            "title": "방과후 태리쌤 OST Part 4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/365/634/87365634_1773193953994_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114234092",
+            "found_at": "2026-03-16 18:14",
+            "is_tracked": false
+        },
         {
             "artist": "DD! (디디)",
             "title": "영원이라는 곳에서 만나",
