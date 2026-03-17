@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-17 13:01:48",
+    "updated_at": "2026-03-17 18:08:45",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "윙 (WING)",
+            "title": "Phenomenon",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/366/056/87366056_1773199897420_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114235990",
+            "found_at": "2026-03-17 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "임지수",
+            "title": "클라이맥스 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/375/472/87375472_1773361898073_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114265259",
+            "found_at": "2026-03-17 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "프로미스나인",
+            "title": "월간남친 Part 2 (Soundtrack from the Netflix Series)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/385/780/87385780_1773646900106_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114296375",
+            "found_at": "2026-03-17 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "경서예지 & 이주단",
+            "title": "사랑했나봐(2026)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/389/290/87389290_1773711189034_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114305863",
+            "found_at": "2026-03-17 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "안다영",
+            "title": "진실에게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/361/629/87361629_1773480297675_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114222040",
+            "found_at": "2026-03-17 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "딘딘 (DINDIN) & 조현영 (레인보우)",
+            "title": "이다락 프로젝트Ⅱ Pt.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/389/297/87389297_1773711205211_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114305879",
+            "found_at": "2026-03-17 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "YENA (최예나)",
+            "title": "캐치 캐치 (Sped Up)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/384/854/87384854_1773628296803_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114293662",
+            "found_at": "2026-03-17 18:08",
+            "is_tracked": true
+        },
+        {
+            "artist": "이젤 (EJel)",
+            "title": "우리는 매일매일 OST Part.3 – 사실은 말이야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/368/174/87368174_1773369511613_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114243621",
+            "found_at": "2026-03-17 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "huka",
+            "title": "잇뽕",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/384/863/87384863_1773629200569_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114293743",
+            "found_at": "2026-03-17 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "Jeremy Que$t",
+            "title": "SWAROVSKI",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/384/719/87384719_1773713232003_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114293261",
+            "found_at": "2026-03-17 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "Rude John",
+            "title": "Night Drive",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/893/87372893_1773651666349_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114257483",
+            "found_at": "2026-03-17 18:08",
+            "is_tracked": false
+        },
+        {
+            "artist": "STRITZ",
+            "title": "HOPE (WE GOT THIS!)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/385/282/87385282_1773637890507_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114294658",
+            "found_at": "2026-03-17 18:08",
+            "is_tracked": false
+        },
         {
             "artist": "강희수",
             "title": "안녕, 많이 사랑한 그대",
