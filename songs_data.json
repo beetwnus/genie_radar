@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-17 00:16:32",
+    "updated_at": "2026-03-17 13:01:48",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,238 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "강희수",
+            "title": "안녕, 많이 사랑한 그대",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/361/795/87361795_1773123712837_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114222577",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "안재우",
+            "title": "서로의 이름 세 글자도 모르는 게 좋았을 거 같아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/226/87372226_1773296884118_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114255390",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "off the menu (오프더메뉴)",
+            "title": "Concrete Valley",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/384/861/87384861_1773628902323_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114293723",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "효진 (온앤오프)",
+            "title": "LOWKEY US Vol.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/375/697/87375697_1773393191801_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114266147",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "LEON (딥상어)",
+            "title": "VIENNA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/862/87372862_1773641189591_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114257398",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "미리",
+            "title": "스근한 발라드 ep.1 너만을 위한 고백",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/386/056/87386056_1773653797545_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114297227",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "임세준",
+            "title": "Walk",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/365/569/87365569_1773657802131_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114233910",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "이츠허밍",
+            "title": "I Love You Berry Much!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/505/87372505_1773641108567_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114256199",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "keemsunho",
+            "title": "Lily",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/636/87372636_1773303092579_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114256596",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "FEBCHO & B Yung",
+            "title": "Stylish",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/384/688/87384688_1773624104720_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114293134",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "별은",
+            "title": "사랑해 악마 OST X 별은",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/384/684/87384684_1773636656124_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114293128",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "태유",
+            "title": "너무 예쁜 그녀",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/360/817/87360817_1773110870901_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114219232",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "송선",
+            "title": "Prism of Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/384/791/87384791_1773626804676_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114293482",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "최준성 (Jun S)",
+            "title": "가짜사랑",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/385/637/87385637_1773644257818_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114296000",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "아포네 (Ahfoné)",
+            "title": "wantu2stay",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/389/210/87389210_1773710792696_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114305685",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "SHINDRUM",
+            "title": "리듬.",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/361/864/87361864_1773480283500_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114222846",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "CLOUDIAN (클라우디안)",
+            "title": "Faded Night",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/371/160/87371160_1773629493407_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114252057",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "drewboi",
+            "title": "Marshmallow",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/149/87372149_1773310850448_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114255109",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "카페모카",
+            "title": "잠도 오지 않는 밤 네 생각에",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/236/87356236_1773308225589_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114205517",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "경래",
+            "title": "나도 사랑이 처음이라서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/373/266/87373266_1773480289578_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114258545",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "음율",
+            "title": "마음의 형태 (With You)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/375/471/87375471_1773361893060_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114265258",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "정석",
+            "title": "차마 말 못하고, 끝내 전하지 못 한 것들",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/361/145/87361145_1773113792107_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114220277",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "AB6IX (에이비식스)",
+            "title": "SEVEN : CRIMSON HORIZON",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/925/87372925_1773383216536_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114257577",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "ALL(H)OURS (올아워즈)",
+            "title": "NO DOUBT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/023/87372023_1773294124270_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114254807",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "이효리",
+            "title": "내 마음이 몽글몽글 - 몽글상담소 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/460/87372460_1773300779397_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114256061",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "coa white",
+            "title": "babyblue (feat. kioskdoll)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/367/301/87367301_1773215589138_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114240511",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "장수빈",
+            "title": "No way A way (NWAW)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/337/331/87337331_1773020537741_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114146886",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "ADYNE",
+            "title": "너는 어떻게 살아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/385/279/87385279_1773637600023_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114294648",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "케이준 (K Jun)",
+            "title": "SEAT BELT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/734/87356734_1773194728317_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114207810",
+            "found_at": "2026-03-17 13:01",
+            "is_tracked": false
+        },
         {
             "artist": "민니 (MINNIE)",
             "title": "세이렌 OST Part.3",
