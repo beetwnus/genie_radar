@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-18 13:05:45",
+    "updated_at": "2026-03-18 18:11:17",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Untell (언텔) & YLN Foreign & 캄보 (KAMBO)",
+            "title": "CASH IN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/362/289/87362289_1773134795283_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114224287",
+            "found_at": "2026-03-18 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "음율",
+            "title": "바람잡이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/385/027/87385027_1773631893904_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114294095",
+            "found_at": "2026-03-18 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "LATENCY (레이턴시)",
+            "title": "LATE O' CLOCK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/691/87390691_1773736899297_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114310472",
+            "found_at": "2026-03-18 18:11",
+            "is_tracked": true
+        },
+        {
+            "artist": "인스턴트 로맨틱 플로어 (Instant Romantic Floor)",
+            "title": "베프",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/384/817/87384817_1773714207043_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114293552",
+            "found_at": "2026-03-18 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "RYUL",
+            "title": "문제",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/386/040/87386040_1773652713276_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114297127",
+            "found_at": "2026-03-18 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "이진솔",
+            "title": "from. Sagittarius",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/384/994/87384994_1773630735360_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114294027",
+            "found_at": "2026-03-18 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "정소연 (Jung Soyeon)",
+            "title": "그대에게 불러봐요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/686/87390686_1773736322042_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114310459",
+            "found_at": "2026-03-18 18:11",
+            "is_tracked": true
+        },
+        {
+            "artist": "Pagaehun (박태훈)",
+            "title": "OoAA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/380/87390380_1773729399909_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114309509",
+            "found_at": "2026-03-18 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "백시온",
+            "title": "IN BLOOM : 개화",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/389/435/87389435_1773713514069_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114306386",
+            "found_at": "2026-03-18 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "Cafrii (카프리)",
+            "title": "Modern",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/368/181/87368181_1773369931879_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114243652",
+            "found_at": "2026-03-18 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "isur",
+            "title": "6 : 0 0",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/362/990/87362990_1773726174209_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114226519",
+            "found_at": "2026-03-18 18:11",
+            "is_tracked": false
+        },
         {
             "artist": "KANGHYUK",
             "title": "Zzz드르렁",
