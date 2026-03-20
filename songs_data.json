@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-20 12:57:05",
+    "updated_at": "2026-03-20 17:57:58",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "최성",
+            "title": "black.",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/400/016/87400016_1773898292609_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114345680",
+            "found_at": "2026-03-20 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "수빈",
+            "title": "샤이닝 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/400/488/87400488_1773904651454_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114347051",
+            "found_at": "2026-03-20 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "cosmosy",
+            "title": "Chance ~ 사랑이라 말하기 전에 ~",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/385/538/87385538_1773643005197_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114295657",
+            "found_at": "2026-03-20 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "방예담",
+            "title": "화양연화 pt.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/400/507/87400507_1773904911469_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114347105",
+            "found_at": "2026-03-20 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "장들레",
+            "title": "곰곰이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/386/002/87386002_1773908839270_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114297015",
+            "found_at": "2026-03-20 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "영민",
+            "title": "Still Here",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/400/698/87400698_1773906506465_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114347598",
+            "found_at": "2026-03-20 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "B.A.S.E & JERIDE & FROG",
+            "title": "INITIAL MUSIC x JUNG Ent. Collaboration Album Vol.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/389/664/87389664_1773799123365_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114307129",
+            "found_at": "2026-03-20 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "한경일",
+            "title": "이대로 날 버려두지 마",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/486/87390486_1773822055829_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114309955",
+            "found_at": "2026-03-20 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "THE LAST LIVE",
+            "title": "Summertime",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/398/703/87398703_1773880937147_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114340704",
+            "found_at": "2026-03-20 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "김여운(KimYeoeun)",
+            "title": "우리가 다시 만나는 그 날이 오면",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/386/276/87386276_1773816881631_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114297905",
+            "found_at": "2026-03-20 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "이아직 (eeajik)",
+            "title": "폐성",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/386/007/87386007_1773654316254_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114297061",
+            "found_at": "2026-03-20 17:57",
+            "is_tracked": false
+        },
         {
             "artist": "방탄소년단",
             "title": "ARIRANG",
