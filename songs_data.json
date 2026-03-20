@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-20 00:08:29",
+    "updated_at": "2026-03-20 12:57:05",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,246 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "방탄소년단",
+            "title": "ARIRANG",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/403/492/87403492_1773961891741_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114356078",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "NOWIMYOUNG (나우아임영) & Royal 44",
+            "title": "쇼미더머니 12 Episode 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/399/146/87399146_1773886611279_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114342270",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "신정유 & 우지한",
+            "title": "언제나 다시 만나 OST Part. 3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/376/87390376_1773729116477_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114309496",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "O.O.O (오오오)",
+            "title": "그럼에도 불구해서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/385/999/87385999_1773812057533_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114297011",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "인코드마피아 & 정상수 & 2Key",
+            "title": "지키리 (Remix)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/386/355/87386355_1773816874838_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114298143",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "배다해",
+            "title": "여운； 스며들어 네 곁에 머무는 노래",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/371/933/87371933_1773803695559_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114254555",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "Eric Minz & drewboi",
+            "title": "LIKE IT LIKE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/395/475/87395475_1773814040907_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114327530",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "SYXY＋SMUZ",
+            "title": "Never Sad, Don't Cry",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/618/87390618_1773735466085_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114310295",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "아도레 (adore)",
+            "title": "kismet (25)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/674/87390674_1773905492842_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114310397",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "Bump2Soul",
+            "title": "Bump2's",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/311/499/87311499_1772009257523_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114052941",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "타르트",
+            "title": "따뜻한 너의 마음처럼",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/456/87390456_1773818534043_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114309893",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "카진 (KAJIN)",
+            "title": "힘든 날에도 네 생각이나",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/400/684/87400684_1773906431424_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114347566",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "Pidalso (피달소)",
+            "title": "piano and me",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/362/050/87362050_1773480476738_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114223545",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "구공공",
+            "title": "뭐하냐고 물어봐줘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/389/357/87389357_1773712326616_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114306077",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "가엘 (에코비)",
+            "title": "비 내리는 날에는",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/389/662/87389662_1773799096892_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114307126",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "빈 (VIN)",
+            "title": "Love Me Love Me",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/398/697/87398697_1773880908795_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114340666",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "혜진 (HEZIIN)",
+            "title": "봄 향기 속에서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/371/891/87371891_1773729202679_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114254491",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "썹 (Ssup)",
+            "title": "Love and Breakup",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/382/749/87382749_1773886488097_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114287626",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "PATEKO (파테코) & Kid Wine",
+            "title": "Patek on Wine 1.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/304/87390304_1773729111602_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114309178",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "수퍼비 (SUPERBEE)",
+            "title": "Came Back to Seoul",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/395/920/87395920_1773819410769_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114328930",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "네이비쿼카 (NavyQuokka)",
+            "title": "컬러링",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/391/257/87391257_1773749506100_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114312351",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "뉴챔프 & Nsb (함승보)",
+            "title": "Fauda",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/673/87390673_1773802174504_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114310395",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "키드킹 (Kidd King)",
+            "title": "FOR ME",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/395/931/87395931_1773819445046_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114328958",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "마이티 마우스 (Mighty Mouth)",
+            "title": "랄랄라 (Feat. 민영 (BBGIRLS))",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/395/864/87395864_1773818921407_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114328763",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "PARAMETER",
+            "title": "ETCH",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/389/655/87389655_1773798968316_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114307046",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "니브 (NIve)",
+            "title": "봄, 길을 걸어요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/326/87356326_1773218582777_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114205974",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "개비온미 Gabby Onme",
+            "title": "HEART'S RACING",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/393/965/87393965_1773798108134_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114321684",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "HYOI & Ai BANCO",
+            "title": "ITW",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/365/539/87365539_1773314052271_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114233753",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "스티피 (STEEPY)",
+            "title": "Timbs Girl (Feat. 24Chill)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/368/792/87368792_1773651560863_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114245436",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "Wool",
+            "title": "다른 시간",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/385/888/87385888_1773648693879_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114296753",
+            "found_at": "2026-03-20 12:57",
+            "is_tracked": false
+        },
         {
             "artist": "LATENCY (레이턴시)",
             "title": "LATE O' CLOCK",
