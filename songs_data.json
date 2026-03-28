@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-28 00:06:01",
+    "updated_at": "2026-03-28 13:02:43",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,238 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "체츠베리 (ChatsBerry)",
+            "title": "UNDERTOW",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/416/706/87416706_1774319490979_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114397943",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "Brick (브릭)",
+            "title": "신이랑 법률사무소 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/416/769/87416769_1774320690717_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114398165",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "jisokuryClub",
+            "title": "a plumber",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/417/281/87417281_1774341239111_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114399992",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "강전한",
+            "title": "그대가 있기에",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/412/887/87412887_1774516412846_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114385485",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "서이브 (SEO EVE)",
+            "title": "당근이 싫어 (No Carrots)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/416/750/87416750_1774320134218_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114398082",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "립나인 (LIPNINE)",
+            "title": "마지막까지",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/417/227/87417227_1774592340011_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114399785",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "김용빈",
+            "title": "금타는 금요일 PART14",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/428/636/87428636_1774513890936_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114439392",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "시연",
+            "title": "좋아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/418/590/87418590_1774517561254_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114404918",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "성리",
+            "title": "무명전설 ［유명선발전 TOP5］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/432/445/87432445_1774579033677_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114453770",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "NECTA",
+            "title": "GIRLHOOD",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/399/907/87399907_1774589177671_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114345221",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "단월",
+            "title": "어디든 좋아(EMOTION TRACK)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/422/620/87422620_1774406206991_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114418376",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "공정환",
+            "title": "윤택TV OST 시즌1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/423/425/87423425_1774416713373_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114421687",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "ZANMARI(잔마리)",
+            "title": "Bling Bling",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/412/580/87412580_1774319251912_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114384417",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "아이디아(idea)",
+            "title": "마리와 별난 아빠들 OST Part.24",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/417/743/87417743_1774581912067_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114401720",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "꿈의 궁전",
+            "title": "난 원래 안아팠어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/411/234/87411234_1774592333374_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114379647",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "조권",
+            "title": "Like I Do",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/422/761/87422761_1774408293431_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114418841",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "키드밀리 (Kid Milli)",
+            "title": "LOVESICK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/423/518/87423518_1774592090387_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114422103",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "데이브레이크 (Daybreak)",
+            "title": "drip_DA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/417/862/87417862_1774338432863_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114401978",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "트웰브(TWLV)",
+            "title": "MY FALL",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/412/616/87412616_1774235512230_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114384527",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "김현철",
+            "title": "인디30",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/427/119/87427119_1774492890515_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114434375",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "태민 (TAEMIN)",
+            "title": "Long Way Home",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/428/353/87428353_1774511249912_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114438673",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "EK",
+            "title": "YOU GOOD?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/417/790/87417790_1774431717732_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114401829",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "노아주다 (noahjooda) & Polodared",
+            "title": "바라는 대로",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/428/177/87428177_1774509098347_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114438052",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "COOMO",
+            "title": "GO AWAY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/405/844/87405844_1774261218107_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114363371",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "김푸름",
+            "title": "샤이닝 OST Part.7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/428/200/87428200_1774509465727_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114438159",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "이정석",
+            "title": "어른이 되면",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/423/336/87423336_1774415592353_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114421205",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "Raf Sandou",
+            "title": "쇼미더머니 12 Semi Final",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/426/953/87426953_1774491110083_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114433893",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "Charlie Puth",
+            "title": "Whatever's Clever!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/416/425/87416425_1774315322074_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114396992",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "Central Cee",
+            "title": "ALL ROADS LEAD HOME",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/431/798/87431798_1774568798063_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114451178",
+            "found_at": "2026-03-28 13:02",
+            "is_tracked": false
+        },
         {
             "artist": "Hearts2Hearts (하츠투하츠) & Silly Silky (실리실키)",
             "title": "iScreaM Vol.39 : RUDE! Remixes",
