@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-29 13:19:53",
+    "updated_at": "2026-03-29 17:52:47",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,126 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "태용 (TAEYONG) & 해찬 (HAECHAN)",
+            "title": "대한민국에서 건물주 되는 법 OST Part 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/417/272/87417272_1774330295161_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114399933",
+            "found_at": "2026-03-29 17:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "장혜진 & 조째즈",
+            "title": "신의 한 수",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/423/922/87423922_1774423910878_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114423788",
+            "found_at": "2026-03-29 17:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "homezone",
+            "title": "바람이지만",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/428/381/87428381_1774511539224_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114438734",
+            "found_at": "2026-03-29 17:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "이솔로몬",
+            "title": "닥터신 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/422/510/87422510_1774592362845_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114417841",
+            "found_at": "2026-03-29 17:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "CLOSE YOUR EYES (클로즈 유어 아이즈)",
+            "title": "미혼남녀의 효율적 만남 OST Part.6",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/412/595/87412595_1774319259327_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114384441",
+            "found_at": "2026-03-29 17:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "하은 (포맨) & 윤요셉",
+            "title": "마치 어제 일만 같아서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/428/288/87428288_1774510392231_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114438474",
+            "found_at": "2026-03-29 17:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "이아영",
+            "title": "추억이 될까봐 X BY CHANCE PROJECT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/423/797/87423797_1774422395926_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114423258",
+            "found_at": "2026-03-29 17:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "ARCHYPE",
+            "title": "AMBER",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/416/752/87416752_1774320137721_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114398105",
+            "found_at": "2026-03-29 17:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "067",
+            "title": "LA LA LA (웹툰 '연애리뷰' OST)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/417/946/87417946_1774339056898_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114402207",
+            "found_at": "2026-03-29 17:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "하모 (hamo)",
+            "title": "지옥유랑선",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/418/030/87418030_1774582526761_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114402439",
+            "found_at": "2026-03-29 17:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "박지현",
+            "title": "사는 게 다 (from 사랑을 처방해 드립니다 OST)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/418/113/87418113_1774342304872_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114402921",
+            "found_at": "2026-03-29 17:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "부활",
+            "title": "Where Is Here",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/423/688/87423688_1774420290320_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114422785",
+            "found_at": "2026-03-29 17:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "보라미유",
+            "title": "미혼남녀의 효율적 만남 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/405/490/87405490_1774319254818_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114362005",
+            "found_at": "2026-03-29 17:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "도끼 (Dok2) & 이하이",
+            "title": "You & Me",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/416/748/87416748_1774320130756_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114398080",
+            "found_at": "2026-03-29 17:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "나예 (가비엔제이)",
+            "title": "여신들을 위하여: 다프네를 위하여 OST Page.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/428/373/87428373_1774511310896_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114438718",
+            "found_at": "2026-03-29 17:52",
+            "is_tracked": false
+        },
         {
             "artist": "NiceKatchy",
             "title": "Damn",
