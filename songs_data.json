@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-30 13:33:00",
+    "updated_at": "2026-03-30 18:39:56",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "장한음",
+            "title": "DAYDREAM",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/433/419/87433419_1774838610174_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114457644",
+            "found_at": "2026-03-30 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "원필 (DAY6)",
+            "title": "Unpiltered",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/433/182/87433182_1774589491037_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114456586",
+            "found_at": "2026-03-30 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "아이린 (IRENE)",
+            "title": "Biggest Fan - The 1st Album",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/428/662/87428662_1774514221183_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114439485",
+            "found_at": "2026-03-30 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "DOKO (도코)",
+            "title": "날 버린건 너잖아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/423/812/87423812_1774422697276_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114423329",
+            "found_at": "2026-03-30 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "씨야 (SeeYa)",
+            "title": "그럼에도, 우린",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/432/036/87432036_1774574026167_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114452511",
+            "found_at": "2026-03-30 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "이우",
+            "title": "미룬 이별",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/423/805/87423805_1774422426680_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114423282",
+            "found_at": "2026-03-30 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "viceversa & 언텔 (untell)",
+            "title": "YACHA FREESTYLE (Prod. Justy)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/427/592/87427592_1774500551473_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114436143",
+            "found_at": "2026-03-30 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "여은",
+            "title": "다시는 오지 않을 내 사람아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/417/349/87417349_1774431727218_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114400336",
+            "found_at": "2026-03-30 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "홀린 (HLIN)",
+            "title": "한숨 (Emo Ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/416/348/87416348_1774591053066_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114396763",
+            "found_at": "2026-03-30 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "9F",
+            "title": "봄사랑 (SPRING BREEZE)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/432/037/87432037_1774574036222_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114452513",
+            "found_at": "2026-03-30 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "글 (GLL)",
+            "title": "KBS DRAMA ［붉은진주］ OST PART2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/417/574/87417574_1774581976029_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114401224",
+            "found_at": "2026-03-30 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "위재연",
+            "title": "조금만 기다려줘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/418/220/87418220_1774592395762_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114403257",
+            "found_at": "2026-03-30 18:39",
+            "is_tracked": false
+        },
         {
             "artist": "던말릭 (DON MALIK)",
             "title": "303",
