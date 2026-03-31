@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-31 13:19:10",
+    "updated_at": "2026-03-31 18:13:49",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,118 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Kep1er (케플러)",
+            "title": "CRACK CODE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/433/713/87433713_1774597914680_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114458846",
+            "found_at": "2026-03-31 18:13",
+            "is_tracked": true
+        },
+        {
+            "artist": "나나 (NANA)",
+            "title": "클라이맥스 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/427/063/87427063_1774492334473_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114434200",
+            "found_at": "2026-03-31 18:13",
+            "is_tracked": true
+        },
+        {
+            "artist": "미노이 (meenoi)",
+            "title": "ring...＜3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/442/439/87442439_1774838491623_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114491082",
+            "found_at": "2026-03-31 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "정세운",
+            "title": "Love in the Margins",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/443/698/87443698_1774862559538_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114494913",
+            "found_at": "2026-03-31 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "리제 (이지혜)",
+            "title": "세이렌 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/442/866/87442866_1774848992690_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114492529",
+            "found_at": "2026-03-31 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "cosmosy",
+            "title": "~ of the world ~",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/423/332/87423332_1774415538154_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114421198",
+            "found_at": "2026-03-31 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤종신",
+            "title": "2026 월간 윤종신 Repair 3월호",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/447/054/87447054_1774923098781_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114505373",
+            "found_at": "2026-03-31 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "장범준",
+            "title": "월말 장범준 '2026년 3월' - 점점",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/443/690/87443690_1774862555263_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114494893",
+            "found_at": "2026-03-31 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "아넌딜라이트 (Anandelight)",
+            "title": "GOD'S TIME",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/433/428/87433428_1774919035312_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114457703",
+            "found_at": "2026-03-31 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "프리티브라운",
+            "title": "너만 바라 봄",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/417/463/87417463_1774431730958_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114400826",
+            "found_at": "2026-03-31 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "Janet Suhh (자넷서)",
+            "title": "LOW BATTERY CLUB",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/423/510/87423510_1774417980739_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114422091",
+            "found_at": "2026-03-31 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "이라온",
+            "title": "발신인",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/405/382/87405382_1774850451719_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114361489",
+            "found_at": "2026-03-31 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "HOON",
+            "title": "WTFisgoingon",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/442/438/87442438_1774838490497_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114491079",
+            "found_at": "2026-03-31 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "Seiren 8 & FRIDAYYY",
+            "title": "GO",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/433/710/87433710_1774849333081_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114458839",
+            "found_at": "2026-03-31 18:13",
+            "is_tracked": false
+        },
         {
             "artist": "권재학",
             "title": "사랑이라 이걸 사랑이라 정할래",
