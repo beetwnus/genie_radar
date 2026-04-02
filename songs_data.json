@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-02 13:13:37",
+    "updated_at": "2026-04-02 18:10:47",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "IOHBOY (아이오보이)",
+            "title": "NWU",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/447/055/87447055_1774923092351_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114505374",
+            "found_at": "2026-04-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "ASH ISLAND",
+            "title": "BURN PART.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/453/907/87453907_1775029960841_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114528108",
+            "found_at": "2026-04-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "한로로",
+            "title": "애증",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/427/925/87427925_1775033784397_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114437249",
+            "found_at": "2026-04-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "KHAN",
+            "title": "Stay In My Lane",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/452/645/87452645_1775011311568_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114523236",
+            "found_at": "2026-04-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "unofficialboyy & YOONNOSUKE",
+            "title": "AFTERPARTY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/564/87448564_1774943190750_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114510004",
+            "found_at": "2026-04-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "연시아",
+            "title": "너를 닮은 멜로디",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/449/047/87449047_1774949245302_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114511485",
+            "found_at": "2026-04-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "전소민",
+            "title": "SOMIN 1st EP 'UNVEIL'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/453/905/87453905_1775029968008_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114528101",
+            "found_at": "2026-04-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "루빈",
+            "title": "This is what you waiting for?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/447/162/87447162_1775022549020_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114505737",
+            "found_at": "2026-04-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "SLAY (슬레이)",
+            "title": "나타나 줘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/453/912/87453912_1775029984716_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114528123",
+            "found_at": "2026-04-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "호륜",
+            "title": "우리 봄",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/563/87448563_1774942975936_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114510003",
+            "found_at": "2026-04-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "Lou Film",
+            "title": "Let me love you",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/452/405/87452405_1775037701039_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114522096",
+            "found_at": "2026-04-02 18:10",
+            "is_tracked": false
+        },
         {
             "artist": "YOUTH",
             "title": "SPRING",
