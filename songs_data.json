@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-03 00:10:59",
+    "updated_at": "2026-04-03 13:15:42",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,238 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Tray B",
+            "title": "쇼미더머니 12 Final",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/457/422/87457422_1775097106323_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114540663",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "용훈 (ONEWE)",
+            "title": "언제나 다시 만나 OST Part. 5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/452/912/87452912_1775014318203_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114524121",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "DPR IAN",
+            "title": "The Show",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/454/127/87454127_1775034425581_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114529506",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "Lov3rboi",
+            "title": "popular loner",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/453/626/87453626_1775025702575_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114527061",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "이민우 (M)",
+            "title": "WONDER U",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/442/445/87442445_1774924446155_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114491102",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "민지운 (Min Jiwoon)",
+            "title": "Feel It Too",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/458/826/87458826_1775122043132_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114546002",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "전미도",
+            "title": "벗 (왕과 사는 남자 OST)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/454/442/87454442_1775100349543_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114530516",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "YEIN",
+            "title": "Everything Is A Cycle",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/427/734/87427734_1775098039997_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114436601",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": true
+        },
+        {
+            "artist": "Kohway & Nieah (니아)",
+            "title": "PING (feat. PAAK)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/446/690/87446690_1775110909516_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114504009",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "수빈",
+            "title": "샤이닝 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/458/646/87458646_1775118991074_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114545391",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "전수경",
+            "title": "SPRING",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/454/018/87454018_1775032318859_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114528849",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "금잔디",
+            "title": "아무런 말도 하지마",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/453/287/87453287_1775097134489_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114525569",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "ISHA (이샤)",
+            "title": "F the Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/922/87448922_1775094103411_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114511105",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "세아",
+            "title": "그날의 온기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/427/654/87427654_1775119260800_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114436418",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "OVN (오븐)",
+            "title": "good evening, everyone",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/442/581/87442581_1775034293497_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114491658",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "싸비 (XAVII)",
+            "title": "초파리 (fruit fly)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/458/503/87458503_1775115140425_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114544628",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "KIRI (키리)",
+            "title": "orange caramel.exe",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/453/511/87453511_1775100230906_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114526588",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "메이린 (Meilin)",
+            "title": "너에게로 가는 길",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/440/807/87440807_1775174397062_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114484430",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "홍강사",
+            "title": "요란한 남자",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/447/203/87447203_1775034288496_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114505841",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "IOHBOY (아이오보이)",
+            "title": "NWU",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/447/055/87447055_1774923092351_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114505374",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "ASH ISLAND",
+            "title": "BURN PART.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/453/907/87453907_1775029960841_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114528108",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "한로로",
+            "title": "애증",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/427/925/87427925_1775033784397_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114437249",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "KHAN",
+            "title": "Stay In My Lane",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/452/645/87452645_1775011311568_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114523236",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "unofficialboyy & YOONNOSUKE",
+            "title": "AFTERPARTY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/564/87448564_1774943190750_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114510004",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "연시아",
+            "title": "너를 닮은 멜로디",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/449/047/87449047_1774949245302_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114511485",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "전소민",
+            "title": "SOMIN 1st EP 'UNVEIL'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/453/905/87453905_1775029968008_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114528101",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "루빈",
+            "title": "This is what you waiting for?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/447/162/87447162_1775022549020_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114505737",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "SLAY (슬레이)",
+            "title": "나타나 줘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/453/912/87453912_1775029984716_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114528123",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "호륜",
+            "title": "우리 봄",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/563/87448563_1774942975936_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114510003",
+            "found_at": "2026-04-03 13:15",
+            "is_tracked": false
+        },
         {
             "artist": "몬스타엑스",
             "title": "Unfold",
