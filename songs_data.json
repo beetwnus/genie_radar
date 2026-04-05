@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-05 13:20:44",
+    "updated_at": "2026-04-05 17:55:27",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,126 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "전유진",
+            "title": "나의 사랑 나의 운명 (from 사랑을 처방해 드립니다 OST)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/461/483/87461483_1775183490687_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114555406",
+            "found_at": "2026-04-05 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "Untell (언텔) & YLN Foreign & 캄보 (KAMBO)",
+            "title": "I AM REMIX",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/461/585/87461585_1775186502591_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114555923",
+            "found_at": "2026-04-05 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "floryy",
+            "title": "사랑이었어 X POST PROJECT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/462/025/87462025_1775199191747_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114557330",
+            "found_at": "2026-04-05 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "범진",
+            "title": "미혼남녀의 효율적 만남 OST Part.7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/042/87448042_1775100253987_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114508475",
+            "found_at": "2026-04-05 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "이소정",
+            "title": "니가 다 망친거야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/461/974/87461974_1775198918310_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114557182",
+            "found_at": "2026-04-05 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "김한결",
+            "title": "그날의 너",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/458/864/87458864_1775122919918_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114546154",
+            "found_at": "2026-04-05 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "김제훈",
+            "title": "넌 나의 봄이었다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/433/189/87433189_1775098049280_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114456633",
+            "found_at": "2026-04-05 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "자정",
+            "title": "눈부시게 빛나는 봄이야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/461/987/87461987_1775198975185_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114557232",
+            "found_at": "2026-04-05 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "정서주",
+            "title": "봄 꽃놀이가요 (from 사랑을 처방해 드립니다 OST)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/452/441/87452441_1775008307968_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114522278",
+            "found_at": "2026-04-05 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "Royal 44",
+            "title": "Checkmate",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/454/079/87454079_1775033495022_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114529291",
+            "found_at": "2026-04-05 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "마크툽 (Maktub)",
+            "title": "내가 죽으려고 생각한 것은 僕ぼくが死しのうと思おもったのは",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/025/87448025_1775100252457_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114508419",
+            "found_at": "2026-04-05 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "모브닝 (MOVNING)",
+            "title": "표류일기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/462/014/87462014_1775199178767_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114557293",
+            "found_at": "2026-04-05 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "이주연",
+            "title": "Noise in Sync - Theme Song",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/461/959/87461959_1775198845307_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114557156",
+            "found_at": "2026-04-05 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "모유진",
+            "title": "내 안에 호수",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/461/447/87461447_1775182290583_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114555218",
+            "found_at": "2026-04-05 17:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "조문근",
+            "title": "사악한 공작 영애의 우울 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/356/87448356_1775113273443_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114509550",
+            "found_at": "2026-04-05 17:55",
+            "is_tracked": false
+        },
         {
             "artist": "JEMINN",
             "title": "이 봄이 지나가고 (feat.Yany)",
