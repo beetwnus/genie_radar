@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-07 13:19:39",
+    "updated_at": "2026-04-07 18:16:21",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "AKMU (악뮤)",
+            "title": "개화",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/471/134/87471134_1775454694305_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114585406",
+            "found_at": "2026-04-07 18:16",
+            "is_tracked": true
+        },
+        {
+            "artist": "버벌진트 (Verbal Jint)",
+            "title": "갈비찜과 찜갈비의 차이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/457/363/87457363_1775095896907_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114540391",
+            "found_at": "2026-04-07 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "일레인",
+            "title": "클라이맥스 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/470/688/87470688_1775441498711_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114584136",
+            "found_at": "2026-04-07 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "동해 (DONGHAE)",
+            "title": "Good Day (Feat.박재범, 1iL)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/470/667/87470667_1775440611696_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114584007",
+            "found_at": "2026-04-07 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "다영 (DAYOUNG)",
+            "title": "What's a girl to do",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/471/569/87471569_1775463400225_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114586852",
+            "found_at": "2026-04-07 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "리뎀션즈",
+            "title": "small talk with a ghost",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/470/757/87470757_1775443292480_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114584259",
+            "found_at": "2026-04-07 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "Para",
+            "title": "Ola",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/470/828/87470828_1775445090592_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114584505",
+            "found_at": "2026-04-07 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "영파씨 (YOUNG POSSE)",
+            "title": "we don't go to bed tonight",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/471/594/87471594_1775463695304_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114586924",
+            "found_at": "2026-04-07 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "변진섭",
+            "title": "미스김 라일락",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/450/123/87450123_1775204913038_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114515025",
+            "found_at": "2026-04-07 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "wizu",
+            "title": "세미오틱스",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/462/282/87462282_1775457230627_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114558375",
+            "found_at": "2026-04-07 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "채보훈 (CHAE BOHOON)",
+            "title": "주륵주륵",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/458/248/87458248_1775185222246_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114543798",
+            "found_at": "2026-04-07 18:16",
+            "is_tracked": false
+        },
         {
             "artist": "ROSESIA (로즈시아)",
             "title": "What's love?",
