@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-09 13:21:20",
+    "updated_at": "2026-04-09 18:34:24",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "릴보이 (lIlBOI) & pH-1 & Woodie Gochild & BIG Naughty (서동현)",
+            "title": "PURPLE TAPE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/473/87475473_1775545899965_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114598819",
+            "found_at": "2026-04-09 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "화사 (HWASA)",
+            "title": "So Cute",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/481/426/87481426_1775649113805_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114619216",
+            "found_at": "2026-04-09 18:34",
+            "is_tracked": true
+        },
+        {
+            "artist": "양정모",
+            "title": "여기는 어딜까",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/508/87475508_1775547094300_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114598984",
+            "found_at": "2026-04-09 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "소향",
+            "title": "My Little New Diary. Part 4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/474/481/87474481_1775641136405_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114595492",
+            "found_at": "2026-04-09 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "정창룡",
+            "title": "이 사람과 결혼합니다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/490/87475490_1775546793730_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114598954",
+            "found_at": "2026-04-09 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "Otis Lim",
+            "title": "(Let me go) Nana",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/707/87475707_1775551359164_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114599617",
+            "found_at": "2026-04-09 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "정홍일",
+            "title": "Your Light",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/483/907/87483907_1775698677322_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114628090",
+            "found_at": "2026-04-09 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "LOVEONE (러브원)",
+            "title": "UNICA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/474/371/87474371_1775526413477_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114595203",
+            "found_at": "2026-04-09 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "KOREANGROOVE",
+            "title": "HORMONES",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/144/87475144_1775538700922_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114597706",
+            "found_at": "2026-04-09 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "조규찬",
+            "title": "KBS DRAMA ［붉은진주］ OST PART3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/471/670/87471670_1775638663907_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114587219",
+            "found_at": "2026-04-09 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "KISU",
+            "title": "Numbers",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/376/719/87376719_1773385897445_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114269919",
+            "found_at": "2026-04-09 18:34",
+            "is_tracked": false
+        },
         {
             "artist": "Anyma & 리사 (LISA)",
             "title": "Bad Angel",
