@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-11 13:03:58",
+    "updated_at": "2026-04-11 17:56:45",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,86 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Skinny Brown",
+            "title": "힘 좀 빼",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/943/87484943_1775715160374_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114631328",
+            "found_at": "2026-04-11 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "이민혁",
+            "title": "나의 모든 밤을 줄게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/480/177/87480177_1775628705429_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114614944",
+            "found_at": "2026-04-11 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "1415",
+            "title": "이번 생은 망한 것만 같아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/471/104/87471104_1775617749791_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114585306",
+            "found_at": "2026-04-11 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "최정윤",
+            "title": "너무 힘들게 생각하지 마",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/478/667/87478667_1775610724243_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114609778",
+            "found_at": "2026-04-11 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "모어 (more)",
+            "title": "이게 사랑이라면",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/129/87484129_1775701675477_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114628972",
+            "found_at": "2026-04-11 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "KiiiKiii (키키)",
+            "title": "21세기 대군부인 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/811/87484811_1775713596338_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114630864",
+            "found_at": "2026-04-11 17:56",
+            "is_tracked": true
+        },
+        {
+            "artist": "민지운 (Min Jiwoon)",
+            "title": "대한민국에서 건물주 되는 법 OST Part 3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/186/87484186_1775703123669_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114629115",
+            "found_at": "2026-04-11 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "NAEWON",
+            "title": "멀어지나봐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/485/042/87485042_1775729519370_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114631615",
+            "found_at": "2026-04-11 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "MoonMean",
+            "title": "I Am Mean",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/476/563/87476563_1775798284910_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114603029",
+            "found_at": "2026-04-11 17:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "미라쿠도",
+            "title": "2026 월간 미라쿠도 4화",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/479/095/87479095_1775712885768_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114611207",
+            "found_at": "2026-04-11 17:56",
+            "is_tracked": false
+        },
         {
             "artist": "노아주다 (noahjooda) & hu57la",
             "title": "살아 (Goodbye)",
