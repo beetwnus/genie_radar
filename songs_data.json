@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-13 13:49:05",
+    "updated_at": "2026-04-13 18:55:41",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,110 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "MODYSSEY (모디세이)",
+            "title": "1.Got Hooked: An Addictive Symphony",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/488/652/87488652_1775802419004_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114644995",
+            "found_at": "2026-04-13 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "투모로우바이투게더",
+            "title": "7TH YEAR: 가시덤불에 잠시 바람이 멈췄을 때",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/497/962/87497962_1776039090665_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114674151",
+            "found_at": "2026-04-13 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "도겸X승관 (SEVENTEEN)",
+            "title": "Feel Me",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/480/315/87480315_1775630504486_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114615421",
+            "found_at": "2026-04-13 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "PLAVE",
+            "title": "Caligo Pt.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/457/396/87457396_1775806368742_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114645000",
+            "found_at": "2026-04-13 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "기리보이",
+            "title": "묵비권",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/100/87484100_1775701592176_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114628887",
+            "found_at": "2026-04-13 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "아일릿 (ILLIT)",
+            "title": "Bubee (Korean Ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/169/87498169_1776045101740_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114674921",
+            "found_at": "2026-04-13 18:55",
+            "is_tracked": true
+        },
+        {
+            "artist": "강균성 (노을) & 김장훈",
+            "title": "Honey",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/865/87484865_1775714190921_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114631058",
+            "found_at": "2026-04-13 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "Agenda",
+            "title": "goodbye (feat. h3hyeon)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/485/100/87485100_1775729530475_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114631885",
+            "found_at": "2026-04-13 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "DNA",
+            "title": "Stronger",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/136/87484136_1775701903655_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114628983",
+            "found_at": "2026-04-13 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "KIMKIPYØ",
+            "title": "CHECK OUT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/485/580/87485580_1775725645148_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114633302",
+            "found_at": "2026-04-13 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "지윤호",
+            "title": "전화하지 말아요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/480/180/87480180_1775803448483_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114614949",
+            "found_at": "2026-04-13 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "나윤권",
+            "title": "차마",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/788/87484788_1775729523207_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114630740",
+            "found_at": "2026-04-13 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "김연지",
+            "title": "구두",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/859/87484859_1775713949204_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114631026",
+            "found_at": "2026-04-13 18:55",
+            "is_tracked": false
+        },
         {
             "artist": "최인경",
             "title": "느린 날",
