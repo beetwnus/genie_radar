@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-15 13:32:00",
+    "updated_at": "2026-04-15 18:38:10",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,86 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "BE BOYS",
+            "title": "BE:2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/507/455/87507455_1776217957767_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114702705",
+            "found_at": "2026-04-15 18:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "ifeye (이프아이)",
+            "title": "As if",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/499/080/87499080_1776067891262_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114678201",
+            "found_at": "2026-04-15 18:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "보라미유",
+            "title": "clover #4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/013/87503013_1776147722080_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114689306",
+            "found_at": "2026-04-15 18:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "우디 (Woody)",
+            "title": "두 사람 : Wish＋ Ep. 03",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/208/87503208_1776149574201_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114689920",
+            "found_at": "2026-04-15 18:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "손태진",
+            "title": "봄의 약속",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/502/218/87502218_1776136910497_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114687108",
+            "found_at": "2026-04-15 18:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "아일 (I'll)",
+            "title": "Cloud Il",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/488/87475488_1776157508696_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114598941",
+            "found_at": "2026-04-15 18:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "강인 (KANGIN)",
+            "title": "LOVE IS PAIN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/502/207/87502207_1776136294530_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114686981",
+            "found_at": "2026-04-15 18:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "뉘뉘 (NUITNUIT)",
+            "title": "가져가세요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/489/018/87489018_1776130605060_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114646305",
+            "found_at": "2026-04-15 18:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "HITGS (힛지스)",
+            "title": "Things We Dream: Vol.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/173/87503173_1776149202928_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114689790",
+            "found_at": "2026-04-15 18:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "조성확 (IHWAK)",
+            "title": "너의 밤은 어때?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/224/87498224_1776143317531_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114675219",
+            "found_at": "2026-04-15 18:38",
+            "is_tracked": false
+        },
         {
             "artist": "Scon",
             "title": "너에게 반해",
