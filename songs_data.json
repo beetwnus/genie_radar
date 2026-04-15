@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-15 00:19:39",
+    "updated_at": "2026-04-15 13:32:00",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,238 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Scon",
+            "title": "너에게 반해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/916/87498916_1776065256134_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114677728",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "이선희",
+            "title": "이제야 사랑이 보이네",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/411/87498411_1776161114337_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114676042",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "YEAHWEARE (예위아) & 언텔 (untell) & Rohann",
+            "title": "ELEVATOR",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/673/87498673_1776060409641_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114677023",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "뎁트",
+            "title": "Nomad Land",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/502/216/87502216_1776160335119_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114687044",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "DEONTE (디온테)",
+            "title": "말해줘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/248/87498248_1776048690780_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114675418",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "솔희 (SOHLHEE)",
+            "title": "stay",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/185/87503185_1776149253057_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114689837",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "015B",
+            "title": "The Legacy 25",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/502/880/87502880_1776145602947_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114688802",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "heyden",
+            "title": "My End.",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/499/088/87499088_1776067901885_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114678212",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "615",
+            "title": "이사를 가요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/806/87498806_1776131670070_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114677495",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "add9",
+            "title": "YOUTH",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/501/982/87501982_1776131224669_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114686117",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "roon",
+            "title": "상흔과 치유의 블렌드",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/487/905/87487905_1776048839838_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114641342",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "웨더보트",
+            "title": "Rectangle",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/502/212/87502212_1776136605819_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114686999",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "USEDBOY",
+            "title": "우주정복",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/480/435/87480435_1775713872771_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114615855",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "요카 (YOKA)",
+            "title": "청춘관",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/474/517/87474517_1776220982349_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114595613",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "엔젤노이즈",
+            "title": "나를 찾지 마",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/461/785/87461785_1776071745081_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114556575",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "안솔희",
+            "title": "멀어진 시간 속에",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/152/87475152_1775805980689_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114597746",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "라온필",
+            "title": "불빛 아래서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/258/87475258_1775542306146_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114598090",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "DAIV",
+            "title": "DIVE WITH US",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/569/87498569_1776140120111_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114676570",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "소수빈",
+            "title": "유미의 세포들 시즌3 OST Part 1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/233/87498233_1776047509025_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114675236",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "DXMON (다이몬)",
+            "title": "HYPER LINK: Vol.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/052/87498052_1776041228153_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114674417",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "우원재 (Woo)",
+            "title": "mp3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/499/059/87499059_1776067294899_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114678114",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "Kid Wine & 휘 (HWII)",
+            "title": "키휘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/103/87498103_1776042690871_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114674574",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "이예린",
+            "title": "네버네버랜드",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/488/414/87488414_1776075119215_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114643774",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "하림",
+            "title": "달리기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/499/030/87499030_1776067064197_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114678018",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "오션 (5tion)",
+            "title": "그대 편이에요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/488/449/87488449_1775797595922_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114644086",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "한경일",
+            "title": "그대 곁이면 어디든지 좋아요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/171/87498171_1776132947728_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114674924",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "미우",
+            "title": "heavy hearted",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/488/674/87488674_1775803891499_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114645082",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "LUAMEL (루아멜)",
+            "title": "Desert Wanderer",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/488/300/87488300_1775791598729_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114643056",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "Sumsher (숨셔)",
+            "title": "뭐?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/921/87484921_1775729533833_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114631255",
+            "found_at": "2026-04-15 13:32",
+            "is_tracked": false
+        },
         {
             "artist": "HEYOON (혜윤) & Lou Garcia",
             "title": "seriously unserious",
