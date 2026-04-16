@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-16 13:37:45",
+    "updated_at": "2026-04-16 18:40:39",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,126 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "휘인 (Whee In)",
+            "title": "adagio",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/502/088/87502088_1776132716332_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114686354",
+            "found_at": "2026-04-16 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "노건",
+            "title": "봄날은 온다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/305/87503305_1776150725199_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114690250",
+            "found_at": "2026-04-16 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "소유 (SOYOU)",
+            "title": "See through",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/488/485/87488485_1776300660344_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114644299",
+            "found_at": "2026-04-16 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "cosmosy",
+            "title": "Silence ~ body & soul ~",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/479/828/87479828_1775625111079_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114613907",
+            "found_at": "2026-04-16 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "탑현",
+            "title": "까만안경",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/509/270/87509270_1776241626455_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114708978",
+            "found_at": "2026-04-16 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "김뮤지엄 (KIMMUSEUM)",
+            "title": "3월33일",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/507/527/87507527_1776218801455_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114702988",
+            "found_at": "2026-04-16 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "이원석 (데이브레이크) & 써니힐",
+            "title": "눈이 마주치는 순간",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/508/841/87508841_1776236679783_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114707748",
+            "found_at": "2026-04-16 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "어라이즈 (ARISE)",
+            "title": "RE:BOOT EP.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/507/380/87507380_1776217295752_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114702472",
+            "found_at": "2026-04-16 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "경서 (경서예지)",
+            "title": "첫 번째 편지",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/504/730/87504730_1776218252664_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114694462",
+            "found_at": "2026-04-16 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "박혜경",
+            "title": "꿈은 녹지 않아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/488/859/87488859_1776071965370_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114645751",
+            "found_at": "2026-04-16 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "이병찬",
+            "title": "우리 우주로",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/509/351/87509351_1776242272810_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114709201",
+            "found_at": "2026-04-16 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "뉴챔프 & Nsb (함승보)",
+            "title": "Mercy is dead",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/507/524/87507524_1776239883426_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114702982",
+            "found_at": "2026-04-16 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "babyselects & Cash Cow Music & sn7 & ycs",
+            "title": "bbs Asia Underground Cypher 2026",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/315/87503315_1776150740814_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114690264",
+            "found_at": "2026-04-16 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "1000° (천도)",
+            "title": "FIX IT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/193/87498193_1776160597372_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114675015",
+            "found_at": "2026-04-16 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "EUNSAN",
+            "title": "Try Again",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/507/335/87507335_1776216758714_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114702291",
+            "found_at": "2026-04-16 18:40",
+            "is_tracked": false
+        },
         {
             "artist": "SUMMER CAKE (썸머케익)",
             "title": "Weakness",
