@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-19 23:53:38",
+    "updated_at": "2026-04-20 13:48:22",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -149,244 +149,156 @@
     ],
     "songs": [
         {
+            "artist": "신인류",
+            "title": "유미의 세포들 시즌3 OST Part 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/016/87512016_1776317505300_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114720060",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "다양성",
+            "title": "300만 광년",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/403/87512403_1776331892617_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114721481",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "아도레 (adore)",
+            "title": "r a i n (26)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/310/87512310_1776407167865_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114720991",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "손승연",
+            "title": "1등들 Final Episode",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/500/302/87500302_1776099127713_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114681273",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "islwav",
+            "title": "FLY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/511/769/87511769_1776309094315_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114719209",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤재현",
+            "title": "2nd mov",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/514/653/87514653_1776387113548_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114728290",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "MILLENNIUM",
+            "title": "ULTRA HEAVEN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/515/647/87515647_1776402694040_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114730958",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "tomikyo",
+            "title": "숨",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/499/057/87499057_1776160618095_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114678099",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "MOLiP(몰입)",
+            "title": "Thirsty",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/515/523/87515523_1776400337244_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114730704",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "Thru",
+            "title": "Movie boy (feat. AVN(에이븐))",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/516/009/87516009_1776409308774_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114732138",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "어반폴리",
+            "title": "다시 만나도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/508/386/87508386_1776413198097_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114706018",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "Avii Garde",
+            "title": "Somewhere I Can't Stay",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/508/385/87508385_1776306798501_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114706017",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "한경일",
+            "title": "마지막 배려",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/736/87484736_1776304161400_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114630588",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "March 12",
+            "title": "Here We Go X 청춘시티즌",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/506/857/87506857_1776246546118_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114700912",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "JIJI",
+            "title": "나를 기억해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/502/387/87502387_1776409528771_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114687547",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "이람",
+            "title": "한마디 정도는",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/523/583/87523583_1776650492475_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114753786",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "EJO",
+            "title": "Pieces",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/485/025/87485025_1776403180030_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114631541",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "노네 (none)",
+            "title": "빛이 돼줄게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/509/365/87509365_1776242297390_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114709248",
+            "found_at": "2026-04-20 13:48",
+            "is_tracked": false
+        },
+        {
             "artist": "Apink (에이핑크)",
             "title": "15th Season",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/716/87503716_1776155508884_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114691298",
             "found_at": "2026-04-19 18:00",
             "is_tracked": true
-        },
-        {
-            "artist": "아샤트리",
-            "title": "사랑은 그렇게 오더군요",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/511/768/87511768_1776309090878_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114719207",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "김민석 (멜로망스)",
-            "title": "모두가 자신의 무가치함과 싸우고 있다 OST Part.1",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/515/697/87515697_1776403362073_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114731051",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "남규리",
-            "title": "사랑의 인사 2026",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/515/889/87515889_1776405692694_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114731686",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "MW:MEU (뮤)",
-            "title": "Paper Plane",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/637/87503637_1776154949026_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114691103",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "차우주",
-            "title": "EUPHORIA",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/515/244/87515244_1776396136585_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114729888",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "먼데이 키즈",
-            "title": "너와 나는 이제 남이니까",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/515/570/87515570_1776401197936_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114730837",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "심아론",
-            "title": "닥터신 OST Part.5",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/009/87512009_1776405980804_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114720045",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "재경",
-            "title": "고백",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/920/87498920_1776160614982_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114677750",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "MY:RAKL",
-            "title": "느려도 괜찮아",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/511/520/87511520_1776303698879_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114718472",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "4diem",
-            "title": "SF",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/507/696/87507696_1776314519694_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114703583",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "김희재",
-            "title": "별보다 예쁜 당신 (from 사랑을 처방해 드립니다 OST Part 7)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/509/395/87509395_1776243108389_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114709416",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "그리오 (GRIO)",
-            "title": "TINY",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/110/87512110_1776321092255_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114720438",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "RIIZE",
-            "title": "21세기 대군부인 OST Part.4",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/515/567/87515567_1776400914442_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114730822",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "디에이드 (The Ade)",
-            "title": "아릿하다, 너라는 기억은",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/514/915/87514915_1776390999511_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114728913",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "아우릴고트 (OUREALGOAT)",
-            "title": "간격",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/511/518/87511518_1776303690927_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114718469",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "듀스 (DEUX)",
-            "title": "또 하루",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/215/021/87215021_1776314958684_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113725353",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "니브 (NIve)",
-            "title": "mono thinking.",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/517/87475517_1776403149566_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114599014",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "장희원",
-            "title": "inspiration: 괜찮아",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/515/891/87515891_1776405702868_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114731689",
-            "found_at": "2026-04-19 18:00",
-            "is_tracked": false
-        },
-        {
-            "artist": "김시원",
-            "title": "왜 너만 몰라?",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/511/649/87511649_1776306690777_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114718881",
-            "found_at": "2026-04-19 13:36",
-            "is_tracked": false
-        },
-        {
-            "artist": "김미정 & 노르웨이 숲",
-            "title": "NEON",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/248/785/87248785_1776231612007_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114691038",
-            "found_at": "2026-04-19 13:36",
-            "is_tracked": false
-        },
-        {
-            "artist": "jisokuryClub",
-            "title": "Green Mango",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/507/642/87507642_1776306796059_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114703330",
-            "found_at": "2026-04-19 13:36",
-            "is_tracked": false
-        },
-        {
-            "artist": "이짜나 (ZZANA)",
-            "title": "기세",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/499/021/87499021_1776160612120_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114677998",
-            "found_at": "2026-04-19 13:36",
-            "is_tracked": false
-        },
-        {
-            "artist": "아우라 (AOORA) & FRIDAYYY",
-            "title": "afro house",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/862/87503862_1776411442463_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114691756",
-            "found_at": "2026-04-19 13:36",
-            "is_tracked": false
-        },
-        {
-            "artist": "Seiren (세이렌)",
-            "title": "522 (SEE)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/511/488/87511488_1776306092276_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114718215",
-            "found_at": "2026-04-19 13:36",
-            "is_tracked": false
-        },
-        {
-            "artist": "남경운",
-            "title": "Jenny",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/823/87498823_1776403156887_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114677561",
-            "found_at": "2026-04-19 13:36",
-            "is_tracked": false
-        },
-        {
-            "artist": "심소정",
-            "title": "꿈결처럼(Like a dream)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/515/137/87515137_1776394927711_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114729565",
-            "found_at": "2026-04-19 13:36",
-            "is_tracked": false
-        },
-        {
-            "artist": "하이야트 (Haiyatt)",
-            "title": "Save my World",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/535/87512535_1776338195558_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114721694",
-            "found_at": "2026-04-19 13:36",
-            "is_tracked": false
-        },
-        {
-            "artist": "Acid L (애시드 엘)",
-            "title": "길 끝",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/515/237/87515237_1776396103816_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114729880",
-            "found_at": "2026-04-19 13:36",
-            "is_tracked": false
-        },
-        {
-            "artist": "UGWC (언위클)",
-            "title": "Soulmate",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/907/87503907_1776391246002_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114691854",
-            "found_at": "2026-04-19 13:36",
-            "is_tracked": false
         },
         {
             "artist": "규빈 (GYUBIN)",
