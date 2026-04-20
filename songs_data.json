@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-20 13:48:22",
+    "updated_at": "2026-04-20 18:57:19",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "NCT WISH",
+            "title": "Ode to Love - The 1st Album",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/192/87498192_1776410905204_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114675006",
+            "found_at": "2026-04-20 18:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "EVNNE (이븐)",
+            "title": "뱉어 (Backtalk)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/157/87512157_1776323491685_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114720655",
+            "found_at": "2026-04-20 18:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "CORTIS (코르티스)",
+            "title": "REDRED",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/523/176/87523176_1776640291157_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114752666",
+            "found_at": "2026-04-20 18:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "소유 (SOYOU)",
+            "title": "허수아비 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/390/87512390_1776329512953_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114721453",
+            "found_at": "2026-04-20 18:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "동해 (DONGHAE)",
+            "title": "ALIVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/470/667/87470667_1776645596749_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114730558",
+            "found_at": "2026-04-20 18:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "neu(노이/ノイ)",
+            "title": "Inspiration",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/507/082/87507082_1776405052883_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114701568",
+            "found_at": "2026-04-20 18:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "이지훈",
+            "title": "괜찮은 사람",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/516/024/87516024_1776409604245_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114732218",
+            "found_at": "2026-04-20 18:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "키드킹 (Kidd King)",
+            "title": "I CAN'T BELIEVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/515/989/87515989_1776408704934_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114732069",
+            "found_at": "2026-04-20 18:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "OSSH",
+            "title": "Drunk Memory",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/515/227/87515227_1776395837325_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114729809",
+            "found_at": "2026-04-20 18:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "란 (Ran)",
+            "title": "수많은 사람 중에 그대뿐이었어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/508/404/87508404_1776413317769_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114706062",
+            "found_at": "2026-04-20 18:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "아샤트리",
+            "title": "사랑은 그렇게 오더군요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/511/768/87511768_1776309090878_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114719207",
+            "found_at": "2026-04-20 18:57",
+            "is_tracked": false
+        },
         {
             "artist": "신인류",
             "title": "유미의 세포들 시즌3 OST Part 2",
