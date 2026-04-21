@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-21 13:34:58",
+    "updated_at": "2026-04-21 18:43:29",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "한 (Stray Kids)",
+            "title": "유미의 세포들 시즌3 OST Part 3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/356/87512356_1776328290835_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114721198",
+            "found_at": "2026-04-21 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "안태규 (Dragon Pony)",
+            "title": "포켓몬스터 | 라이징 어게인",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/516/083/87516083_1776412297468_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114732556",
+            "found_at": "2026-04-21 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "B1A4",
+            "title": "SET",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/523/702/87523702_1776653498917_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114754188",
+            "found_at": "2026-04-21 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "이날치",
+            "title": "떴다 저 가마귀",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/502/846/87502846_1776678838681_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114688696",
+            "found_at": "2026-04-21 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "UNCHILD",
+            "title": "We Are UNCHILD",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/939/87524939_1776677210355_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114758334",
+            "found_at": "2026-04-21 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "CLOSE YOUR EYES (클로즈 유어 아이즈)",
+            "title": "OVEREXPOSED",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/523/522/87523522_1776649291554_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114753655",
+            "found_at": "2026-04-21 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "박찬영",
+            "title": "서투른 계절",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/258/87503258_1776647918371_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114690104",
+            "found_at": "2026-04-21 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "안신애",
+            "title": "Best Before",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/931/87524931_1776676932955_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114758308",
+            "found_at": "2026-04-21 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "도유카 (doyouka)",
+            "title": "Around (작전명 순정 X 도유카)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/357/87524357_1776668190587_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114756397",
+            "found_at": "2026-04-21 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "이동현 (리엘)",
+            "title": "풍경",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/555/87503555_1776153692818_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114690859",
+            "found_at": "2026-04-21 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "DANY",
+            "title": "luvr (demo ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/063/87512063_1776405059389_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114720230",
+            "found_at": "2026-04-21 18:43",
+            "is_tracked": false
+        },
         {
             "artist": "FRankly (프랭클리)",
             "title": "Paper Chase",
@@ -938,14 +1026,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/174/615/87174615_1768981914292_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113552314",
             "found_at": "2026-01-22 17:46",
-            "is_tracked": true
-        },
-        {
-            "artist": "화사 (HWASA)",
-            "title": "프로젝트 Y (Original Motion Picture Soundtrack)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/164/475/87164475_1768894350753_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113512089",
-            "found_at": "2026-01-21 17:46",
             "is_tracked": true
         }
     ]
