@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-22 13:33:51",
+    "updated_at": "2026-04-22 18:42:18",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "김재환",
+            "title": "지금 데리러 갈게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/216/87512216_1776324693392_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114720790",
+            "found_at": "2026-04-22 18:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "볼빨간사춘기",
+            "title": "Find You",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/530/293/87530293_1776757904419_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114774352",
+            "found_at": "2026-04-22 18:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "리즈 (IVE)",
+            "title": "첫 눈 그날처럼 (from 오늘도 매진했습니다 OST Part 1)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/528/728/87528728_1776735740033_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114769655",
+            "found_at": "2026-04-22 18:42",
+            "is_tracked": true
+        },
+        {
+            "artist": "담이",
+            "title": "담이의 봄",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/148/87524148_1776664302970_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114755639",
+            "found_at": "2026-04-22 18:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "공기남",
+            "title": "별을 바라보는 밤",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/515/671/87515671_1776758506962_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114731012",
+            "found_at": "2026-04-22 18:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "현서 (HYUN SEO) & 박다혜",
+            "title": "미안해서 미안해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/530/124/87530124_1776755824401_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114773873",
+            "found_at": "2026-04-22 18:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "노블레스 (Noblesse)",
+            "title": "시절 인연",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/142/87524142_1776738618038_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114755594",
+            "found_at": "2026-04-22 18:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "정우",
+            "title": "영화 짱구 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/516/187/87516187_1776413852807_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114732856",
+            "found_at": "2026-04-22 18:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "븨븨에스",
+            "title": "$TAY THE NIGHT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/528/888/87528888_1776737495977_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114770273",
+            "found_at": "2026-04-22 18:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "이너 가든",
+            "title": "Inner Garden",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/530/278/87530278_1776757612578_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114774307",
+            "found_at": "2026-04-22 18:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "빅윌이와 밤밤이",
+            "title": "Down 4 Da Night",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/156/87524156_1776664319323_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114755659",
+            "found_at": "2026-04-22 18:42",
+            "is_tracked": false
+        },
         {
             "artist": "PANEB",
             "title": "사랑이라는 단 하나의 이유로",
@@ -930,14 +1018,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/168/712/87168712_1769068751954_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113528918",
             "found_at": "2026-01-24 12:06",
-            "is_tracked": true
-        },
-        {
-            "artist": "Hebi",
-            "title": "Become",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/174/615/87174615_1768981914292_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113552314",
-            "found_at": "2026-01-22 17:46",
             "is_tracked": true
         }
     ]
