@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-22 00:20:02",
+    "updated_at": "2026-04-22 13:33:51",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,246 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "PANEB",
+            "title": "사랑이라는 단 하나의 이유로",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/111/87512111_1776321097179_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114720441",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "유림",
+            "title": "호기심",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/146/87524146_1776664305772_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114755636",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "김오키 (KIMOKI)",
+            "title": "혐오",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/515/877/87515877_1776741988235_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114731611",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "Olivia Marsh (올리비아 마쉬)",
+            "title": "Paraglider",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/523/546/87523546_1776758501960_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114753701",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "DOKO (도코)",
+            "title": "잘 지냈나요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/404/87512404_1776823170941_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114721482",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "새빛",
+            "title": "지고 피다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/390/87524390_1776739145535_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114756462",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "유해준",
+            "title": "사랑했고 사랑한다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/530/283/87530283_1776757623569_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114774332",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "조은세 & 이민혁",
+            "title": "사랑으로",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/155/87524155_1776664307967_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114755652",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "태유",
+            "title": "너랑 걷는 이 거리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/398/87512398_1776330092373_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114721469",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "레몬시티 (Lemon City)",
+            "title": "Strawberry Kiss",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/689/87524689_1776754651869_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114757497",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "Anonymous Artists (어나니머스 아티스트) & INVIZ",
+            "title": "ARTIST. INVIZ (인비즈)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/528/707/87528707_1776735423046_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114769611",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "TOVE",
+            "title": "Babe,Do You?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/530/117/87530117_1776755828455_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114773857",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "이글루베이 (igloobay)",
+            "title": "지구소설(地球小說)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/523/794/87523794_1776755977744_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114754515",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "그네 & 라윤",
+            "title": "그날은 아직 봄이 아니었다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/431/87475431_1776761822558_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114598747",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "길미",
+            "title": "사악한 공작 영애의 우울 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/125/87524125_1776738582653_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114755522",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "H:SEAN",
+            "title": "EVOL 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/523/524/87523524_1776649297903_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114753661",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "성수진",
+            "title": "이별이 또 나를 배신해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/523/919/87523919_1776675404267_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114754860",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "페퍼민트",
+            "title": "우린 뭔가 특별해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/502/702/87502702_1776653477445_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114688308",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "우싸이드 (Woo-Side)",
+            "title": "OSAKA FLOW",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/520/020/87520020_1776661841691_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114744031",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "한 (Stray Kids)",
+            "title": "유미의 세포들 시즌3 OST Part 3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/356/87512356_1776328290835_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114721198",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "안태규 (Dragon Pony)",
+            "title": "포켓몬스터 | 라이징 어게인",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/516/083/87516083_1776412297468_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114732556",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "B1A4",
+            "title": "SET",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/523/702/87523702_1776653498917_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114754188",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "이날치",
+            "title": "떴다 저 가마귀",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/502/846/87502846_1776678838681_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114688696",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "UNCHILD",
+            "title": "We Are UNCHILD",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/939/87524939_1776677210355_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114758334",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "CLOSE YOUR EYES (클로즈 유어 아이즈)",
+            "title": "OVEREXPOSED",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/523/522/87523522_1776649291554_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114753655",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "박찬영",
+            "title": "서투른 계절",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/258/87503258_1776647918371_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114690104",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "안신애",
+            "title": "Best Before",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/931/87524931_1776676932955_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114758308",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "도유카 (doyouka)",
+            "title": "Around (작전명 순정 X 도유카)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/357/87524357_1776668190587_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114756397",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "이동현 (리엘)",
+            "title": "풍경",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/555/87503555_1776153692818_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114690859",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "DANY",
+            "title": "luvr (demo ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/063/87512063_1776826040743_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114720230",
+            "found_at": "2026-04-22 13:33",
+            "is_tracked": false
+        },
         {
             "artist": "Apink (에이핑크)",
             "title": "15th Season",
