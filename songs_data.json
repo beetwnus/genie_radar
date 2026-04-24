@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-24 13:42:25",
+    "updated_at": "2026-04-24 18:44:07",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "거미 (GUMMY) & 승관",
+            "title": "봄처럼 넌",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/337/87524337_1776667906646_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114756355",
+            "found_at": "2026-04-24 18:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "한로로",
+            "title": "21세기 대군부인 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/539/843/87539843_1776914820517_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114809738",
+            "found_at": "2026-04-24 18:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "진엘 (브라더스)",
+            "title": "너의 손을 잡고",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/530/478/87530478_1776760321138_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114775142",
+            "found_at": "2026-04-24 18:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "ILHOON",
+            "title": "closet",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/410/87512410_1776332495066_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114721495",
+            "found_at": "2026-04-24 18:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "소란 (SORAN)",
+            "title": "딜리버리(Delivery)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/539/847/87539847_1776914827961_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114809745",
+            "found_at": "2026-04-24 18:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "미교",
+            "title": "노놀 VOL 86. 미교 ' 좋아졌나봐 '",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/514/633/87514633_1776936700333_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114728189",
+            "found_at": "2026-04-24 18:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "박창근",
+            "title": "기다려온 날들이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/539/418/87539418_1776908496867_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114807448",
+            "found_at": "2026-04-24 18:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "니브 (NIve) & 한림 (Hanlim)",
+            "title": "UND",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/494/87498494_1776819415647_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114676332",
+            "found_at": "2026-04-24 18:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "0WAVE",
+            "title": "love me like i do",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/534/559/87534559_1776820666086_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114788407",
+            "found_at": "2026-04-24 18:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "노아코스트 (Noa Coast)",
+            "title": "다 괜찮아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/535/008/87535008_1776933886525_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114790039",
+            "found_at": "2026-04-24 18:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "강현우",
+            "title": "받아줘 내 고백",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/541/021/87541021_1776932794850_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114813838",
+            "found_at": "2026-04-24 18:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "강지원 (Kangziwon)",
+            "title": "Ordinary Ever After",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/529/209/87529209_1776742909837_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114771156",
+            "found_at": "2026-04-24 18:44",
+            "is_tracked": false
+        },
         {
             "artist": "Michael Jackson",
             "title": "Michael: Songs From The Motion Picture",
