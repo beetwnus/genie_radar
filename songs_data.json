@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-25 13:21:46",
+    "updated_at": "2026-04-25 18:04:59",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "pH-1",
+            "title": "Different Summer (Band Ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/530/286/87530286_1776757937000_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114774336",
+            "found_at": "2026-04-25 18:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "유연석",
+            "title": "신이랑 법률사무소 OST Part.7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/535/177/87535177_1776827567911_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114790520",
+            "found_at": "2026-04-25 18:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "LUCY",
+            "title": "모두가 자신의 무가치함과 싸우고 있다 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/540/871/87540871_1776931292580_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114813324",
+            "found_at": "2026-04-25 18:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "WOODZ",
+            "title": "21세기 대군부인 OST Part.6",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/539/857/87539857_1776914878445_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114809792",
+            "found_at": "2026-04-25 18:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "Dion",
+            "title": "TRICKY LOVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/545/788/87545788_1777012014831_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114830825",
+            "found_at": "2026-04-25 18:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "SW:C (스윗치)",
+            "title": "2nd Digital Single Album : BORN TO MOVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/535/863/87535863_1776852367539_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114793024",
+            "found_at": "2026-04-25 18:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "김재민",
+            "title": "은밀한 감사 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/534/917/87534917_1776824532256_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114789637",
+            "found_at": "2026-04-25 18:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "이우",
+            "title": "내게도 봄이 왔다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/539/864/87539864_1776914906678_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114809818",
+            "found_at": "2026-04-25 18:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "Nudeboi Seo (누드보이 서)",
+            "title": "내 Area",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/919/87524919_1777004129733_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114758279",
+            "found_at": "2026-04-25 18:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "THE LAST LIVE",
+            "title": "Soluna",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/534/309/87534309_1776818526841_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114787484",
+            "found_at": "2026-04-25 18:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "김경현",
+            "title": "부활",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/529/133/87529133_1776928959217_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114771021",
+            "found_at": "2026-04-25 18:04",
+            "is_tracked": false
+        },
         {
             "artist": "미미",
             "title": "Pop Pink Apple",
