@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-26 13:46:06",
+    "updated_at": "2026-04-26 18:05:34",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,134 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "순순희 (기태) & 백예슬",
+            "title": "떠나가요, 떠나지마요 : 시대를 초월한 마음",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/535/285/87535285_1776828917957_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114790934",
+            "found_at": "2026-04-26 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "은별",
+            "title": "우리들에게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/536/740/87536740_1776846739395_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114796473",
+            "found_at": "2026-04-26 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "태연 (TAEYEON)",
+            "title": "모두가 자신의 무가치함과 싸우고 있다 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/545/008/87545008_1776999110650_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114827854",
+            "found_at": "2026-04-26 18:05",
+            "is_tracked": true
+        },
+        {
+            "artist": "이보람 (씨야)",
+            "title": "결혼할까요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/539/859/87539859_1776914900600_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114809802",
+            "found_at": "2026-04-26 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "악월",
+            "title": "악당들의 후원자가 되었다 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/516/065/87516065_1776922499886_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114732473",
+            "found_at": "2026-04-26 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "주현미",
+            "title": "연정 (Duet with 김범룡)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/528/616/87528616_1777004313943_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114769298",
+            "found_at": "2026-04-26 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "LIMZY",
+            "title": "스며",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/534/672/87534672_1776822416279_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114788861",
+            "found_at": "2026-04-26 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "M1NU",
+            "title": "닥터신 OST Part.7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/536/015/87536015_1777017893165_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114793574",
+            "found_at": "2026-04-26 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "Eddie and the Bricks",
+            "title": "Pure",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/536/506/87536506_1776844299592_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114795637",
+            "found_at": "2026-04-26 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "란영",
+            "title": "넌 나의 봄이야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/541/031/87541031_1776932870236_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114813859",
+            "found_at": "2026-04-26 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "Marv & PAAK",
+            "title": "Voo Doo",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/545/604/87545604_1777008996383_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114830195",
+            "found_at": "2026-04-26 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "큐빈",
+            "title": "난 아마도 난",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/529/804/87529804_1776929574139_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114772953",
+            "found_at": "2026-04-26 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "pH-1",
+            "title": "Different Summer (Band Ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/530/286/87530286_1776757937000_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114774336",
+            "found_at": "2026-04-26 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "유연석",
+            "title": "신이랑 법률사무소 OST Part.7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/535/177/87535177_1776827567911_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114790520",
+            "found_at": "2026-04-26 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "LUCY",
+            "title": "모두가 자신의 무가치함과 싸우고 있다 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/540/871/87540871_1776931292580_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114813324",
+            "found_at": "2026-04-26 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "WOODZ",
+            "title": "21세기 대군부인 OST Part.6",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/539/857/87539857_1776914878445_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114809792",
+            "found_at": "2026-04-26 18:05",
+            "is_tracked": false
+        },
         {
             "artist": "LIT & WillsBife",
             "title": "Just come see me",
@@ -802,14 +930,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/191/282/87191282_1769416907156_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113621412",
             "found_at": "2026-01-27 17:47",
-            "is_tracked": true
-        },
-        {
-            "artist": "KiiiKiii (키키)",
-            "title": "Delulu Pack",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/178/787/87178787_1769390200508_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113568760",
-            "found_at": "2026-01-26 17:48",
             "is_tracked": true
         }
     ]
