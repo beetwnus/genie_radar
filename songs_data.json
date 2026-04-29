@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-29 14:07:28",
+    "updated_at": "2026-04-29 19:04:26",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Keyveatz",
+            "title": "Key Beats",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/554/759/87554759_1777258296108_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114857572",
+            "found_at": "2026-04-29 19:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "류민희",
+            "title": "비오니까",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/554/675/87554675_1777255903015_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114857156",
+            "found_at": "2026-04-29 19:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "LUCY",
+            "title": "Childish",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/559/461/87559461_1777345898596_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114874843",
+            "found_at": "2026-04-29 19:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "CRAVITY",
+            "title": "ReDeFINE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/562/115/87562115_1777372974289_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114881569",
+            "found_at": "2026-04-29 19:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "박지훈",
+            "title": "RE:FLECT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/555/206/87555206_1777340136633_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114859725",
+            "found_at": "2026-04-29 19:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "수빈 & 태현 & 투모로우바이투게더",
+            "title": "I Love You I Love You too (from 오늘도 매진했습니다 OST Part 4)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/559/444/87559444_1777345593696_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114874807",
+            "found_at": "2026-04-29 19:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "소유 (SOYOU)",
+            "title": "Off Hours",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/536/127/87536127_1777259190687_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114793939",
+            "found_at": "2026-04-29 19:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "양다일",
+            "title": "그녀",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/562/081/87562081_1777372907862_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114881526",
+            "found_at": "2026-04-29 19:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "유주 (YUJU)",
+            "title": "첫사랑은 저주다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/529/962/87529962_1777373271477_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114773530",
+            "found_at": "2026-04-29 19:04",
+            "is_tracked": true
+        },
+        {
+            "artist": "이브 (Eve)",
+            "title": "마녀의 몬스터 (feat. 줄리엣)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/540/533/87540533_1776927124327_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114812387",
+            "found_at": "2026-04-29 19:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "blueberryclub",
+            "title": "is blue",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/545/301/87545301_1777003916811_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114828952",
+            "found_at": "2026-04-29 19:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "강고은",
+            "title": "마치 사랑처럼",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/561/360/87561360_1777365393646_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114879830",
+            "found_at": "2026-04-29 19:04",
+            "is_tracked": false
+        },
         {
             "artist": "y:L (와이엘)",
             "title": "Dear.",
@@ -906,14 +1002,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/194/837/87194837_1769501494511_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113640837",
             "found_at": "2026-01-30 12:50",
-            "is_tracked": true
-        },
-        {
-            "artist": "수안 (SWAN) (PURPLE KISS)",
-            "title": "영화 '즐거운 나의 집' Special Track. 5",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/193/151/87193151_1769475133634_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113632091",
-            "found_at": "2026-01-29 17:59",
             "is_tracked": true
         }
     ]
