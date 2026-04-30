@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-30 14:10:58",
+    "updated_at": "2026-04-30 19:05:22",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,142 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "아일릿(ILLIT)",
+            "title": "MAMIHLAPINATAPAI",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/567/808/87567808_1777456326075_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114900451",
+            "found_at": "2026-04-30 19:05",
+            "is_tracked": true
+        },
+        {
+            "artist": "지소울 (GSoul)",
+            "title": "Symphony",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/544/371/87544371_1776990706118_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114825342",
+            "found_at": "2026-04-30 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "CIKI",
+            "title": "2.0 REBIRTH",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/540/323/87540323_1776922891233_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114811581",
+            "found_at": "2026-04-30 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "실리카겔",
+            "title": "S G T A P E - 03",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/560/410/87560410_1777444440422_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114877432",
+            "found_at": "2026-04-30 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "숀 (SHAUN)",
+            "title": "LAST PAGE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/559/092/87559092_1777342602212_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114873630",
+            "found_at": "2026-04-30 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "용용 (YongYong)",
+            "title": "R o c k s t a r_D",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/555/388/87555388_1777340140433_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114860466",
+            "found_at": "2026-04-30 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "장범준",
+            "title": "월말 장범준 '2026년 4월' - 어느날 우연히",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/513/87566513_1777438308089_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114895991",
+            "found_at": "2026-04-30 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "로이킴",
+            "title": "너와는 (With You) (from 오늘도 매진했습니다 OST Part 5)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/565/613/87565613_1777425733298_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114892485",
+            "found_at": "2026-04-30 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "전건호",
+            "title": "이 별 (전건호 X 룰루랄라 프렌즈 2)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/567/476/87567476_1777451819169_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114899164",
+            "found_at": "2026-04-30 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "허성현 (rosy)",
+            "title": "stormy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/546/353/87546353_1777448472938_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114832484",
+            "found_at": "2026-04-30 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "황인욱",
+            "title": "널 닮은 그녀가",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/534/87566534_1777438616749_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114896039",
+            "found_at": "2026-04-30 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "켄(KEN) & 윤석 (YOONSEOK)",
+            "title": "Radio",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/554/344/87554344_1777246899474_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114856294",
+            "found_at": "2026-04-30 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "토마스쿡 (thomascook)",
+            "title": "인디30",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/561/787/87561787_1777369603294_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114880787",
+            "found_at": "2026-04-30 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "임세준",
+            "title": "Anything",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/520/015/87520015_1777432357655_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114744015",
+            "found_at": "2026-04-30 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "손예지",
+            "title": "허기진 마음은 끝없이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/530/060/87530060_1777343069354_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114773680",
+            "found_at": "2026-04-30 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "MOVIN (무빈)",
+            "title": "어질어질 love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/539/398/87539398_1776908228207_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114807312",
+            "found_at": "2026-04-30 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "EL RUNE",
+            "title": "Right or Wrong",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/544/911/87544911_1777440606764_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114827514",
+            "found_at": "2026-04-30 19:05",
+            "is_tracked": false
+        },
         {
             "artist": "ELLY & LUCKSMITH",
             "title": "LUCKSMITH VOL.1",
@@ -890,14 +1026,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/191/444/87191444_1769583680554_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113622053",
             "found_at": "2026-02-01 17:45",
-            "is_tracked": true
-        },
-        {
-            "artist": "채령 (ITZY)",
-            "title": "오늘부터 인간입니다만 OST Part.4",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/194/881/87194881_1769503021253_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113641211",
-            "found_at": "2026-01-30 17:55",
             "is_tracked": true
         }
     ]
