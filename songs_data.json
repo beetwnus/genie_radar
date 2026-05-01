@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-01 14:21:54",
+    "updated_at": "2026-05-01 18:42:35",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,78 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "더베인 (THE VANE)",
+            "title": "뽑기 인형 〈산울림 50주년 기념 프로젝트〉",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/168/87566168_1777433491061_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114894762",
+            "found_at": "2026-05-01 18:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "현성",
+            "title": "Afterglow",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/560/656/87560656_1777357897312_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114878120",
+            "found_at": "2026-05-01 18:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "소수빈",
+            "title": "21세기 대군부인 OST Part.7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/538/87566538_1777438613013_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114896044",
+            "found_at": "2026-05-01 18:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "차학연(N) & 공원",
+            "title": "로맨스의 절댓값 OST Part 3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/558/517/87558517_1777333627959_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114871500",
+            "found_at": "2026-05-01 18:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "kursor",
+            "title": "Love is Over",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/202/87566202_1777434393579_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114894915",
+            "found_at": "2026-05-01 18:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "TimeFeveR (타임피버)",
+            "title": "한숨도 못 잤어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/560/747/87560747_1777358542366_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114878255",
+            "found_at": "2026-05-01 18:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "최윤영",
+            "title": "슬픔 속에 봄비 내리고.. 눈 감으면 그리운 날에 (feat. 이영원)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/565/353/87565353_1777452936384_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114891531",
+            "found_at": "2026-05-01 18:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "Neo",
+            "title": "Selfie (feat. Notxerius)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/555/419/87555419_1777340149171_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114860599",
+            "found_at": "2026-05-01 18:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "마야",
+            "title": "오십춘기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/554/751/87554751_1777365754676_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114857555",
+            "found_at": "2026-05-01 18:42",
+            "is_tracked": false
+        },
         {
             "artist": "Lady Gaga & Doechii",
             "title": "The Devil Wears Prada 2 (Music From The Motion Picture)",
