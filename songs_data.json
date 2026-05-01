@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-01 00:46:19",
+    "updated_at": "2026-05-01 14:21:54",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,238 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Lady Gaga & Doechii",
+            "title": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/572/824/87572824_1777598191072_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114917860",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "Madonna & Sabrina Carpenter",
+            "title": "Bring Your Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/558/247/87558247_1777330011750_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114870657",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "puffitboi (퍼핏보이)",
+            "title": "DIANA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/565/915/87565915_1777429891474_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114893932",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "Maroon 5",
+            "title": "Heroine",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/302/87566302_1777599692503_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114895353",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "려진",
+            "title": "Your Favorite",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/561/203/87561203_1777363908258_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114879436",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "YUNHWAY (윤훼이)",
+            "title": "GO LOW",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/559/086/87559086_1777342298383_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114873619",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "악토버 (OCTOBER)",
+            "title": "Soft Hours",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/555/468/87555468_1777340144122_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114860733",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "STAR IS BORN 출연자",
+            "title": "STAR IS BORN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/559/87566559_1777438639723_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114896121",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "J.Fla",
+            "title": "All The Days I Loved You",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/559/555/87559555_1777347092961_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114875105",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "초록불꽃소년단",
+            "title": "그 아이가 떠나갔다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/535/801/87535801_1777452922075_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114792837",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "김길중",
+            "title": "비애한생",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/201/87566201_1777434390948_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114894914",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "Rakon",
+            "title": "Lazy Song",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/555/258/87555258_1777515688995_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114859960",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "아울러 (OWLER)",
+            "title": "Deep Dive",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/559/096/87559096_1777342597170_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114873669",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "청요일",
+            "title": "사쿠라 완구점",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/545/092/87545092_1777535786770_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114828265",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "Anonymous Artists (어나니머스 아티스트) & 옐론 (Yellon)",
+            "title": "ARTIST. 옐론 (Yellon)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/565/610/87565610_1777425703925_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114892430",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "지영훈",
+            "title": "Don't Think Twice",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/559/088/87559088_1777342300419_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114873621",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "이한",
+            "title": "사랑한 만큼 아프다는 말",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/560/934/87560934_1777449064189_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114878692",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "일상의 효정",
+            "title": "霖 장마",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/539/553/87539553_1777452932948_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114808298",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "개똥 (류진)",
+            "title": "개똥 버리지 마세요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/545/873/87545873_1777441470161_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114831105",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "지소울 (GSoul)",
+            "title": "Symphony",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/544/371/87544371_1776990706118_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114825342",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "CIKI",
+            "title": "2.0 REBIRTH",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/540/323/87540323_1776922891233_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114811581",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "실리카겔",
+            "title": "S G T A P E - 03",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/560/410/87560410_1777444440422_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114877432",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "숀 (SHAUN)",
+            "title": "LAST PAGE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/559/092/87559092_1777342602212_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114873630",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "용용 (YongYong)",
+            "title": "R o c k s t a r_D",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/555/388/87555388_1777340140433_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114860466",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "장범준",
+            "title": "월말 장범준 '2026년 4월' - 어느날 우연히",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/513/87566513_1777438308089_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114895991",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "로이킴",
+            "title": "너와는 (With You) (from 오늘도 매진했습니다 OST Part 5)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/565/613/87565613_1777425733298_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114892485",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "전건호",
+            "title": "이 별 (전건호 X 룰루랄라 프렌즈 2)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/567/476/87567476_1777451819169_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114899164",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "허성현 (rosy)",
+            "title": "stormy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/546/353/87546353_1777448472938_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114832484",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "황인욱",
+            "title": "널 닮은 그녀가",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/534/87566534_1777438616749_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114896039",
+            "found_at": "2026-05-01 14:21",
+            "is_tracked": false
+        },
         {
             "artist": "아일릿(ILLIT)",
             "title": "MAMIHLAPINATAPAI",
