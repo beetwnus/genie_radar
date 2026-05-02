@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-02 00:08:22",
+    "updated_at": "2026-05-02 13:43:32",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,246 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "eJe",
+            "title": "Lead Me to the Rock",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/561/483/87561483_1777366318703_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114880081",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "엘더 얼그레이",
+            "title": "home",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/561/103/87561103_1777362783141_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114879203",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "OurR (아월)",
+            "title": "소국",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/565/498/87565498_1777446021541_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114891892",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "박연",
+            "title": "참 이상해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/559/097/87559097_1777342594229_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114873671",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "김용빈",
+            "title": "금타는 금요일 PART19",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/570/697/87570697_1777512699420_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114910905",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "A-1000",
+            "title": "Anywhere",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/541/046/87541046_1776933170655_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114813909",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "오 윤",
+            "title": "마음 한 장",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/554/596/87554596_1777535800857_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114856894",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "허진호",
+            "title": "그만 전화해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/567/473/87567473_1777451813183_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114899157",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "TAEO",
+            "title": "Dungeon Tape",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/553/869/87553869_1777536168499_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114853944",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "서은",
+            "title": "Like a stain",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/555/028/87555028_1777453115132_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114858714",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "홍경민",
+            "title": "다시, 지금…",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/555/462/87555462_1777345938607_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114860718",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "유연석",
+            "title": "신이랑 법률사무소 OST Special All Track",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/106/87566106_1777432354049_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114894526",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "ASCENDER",
+            "title": "Gobble Up",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/177/87566177_1777535407230_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114894824",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "라쏘 (Lasso)",
+            "title": "사랑해 악마 OST X 라쏘(Lasso)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/545/898/87545898_1777428398226_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114831184",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "jay glock",
+            "title": "맹수",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/545/954/87545954_1777449112274_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114831329",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "2o25F (이오이오프)",
+            "title": "가보지 못한 골목길을 (나태주시노래창작음악제 대상 수상곡)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/562/989/87562989_1777515696913_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114883678",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "변송균",
+            "title": "가족사진",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/555/326/87555326_1777515695697_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114860156",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "차유진 (Eugene Cha)",
+            "title": "Heavy Rain",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/562/148/87562148_1777455761088_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114881657",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "heesney",
+            "title": "shopaholic",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/559/551/87559551_1777539372681_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114875062",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "더베인 (THE VANE)",
+            "title": "뽑기 인형 〈산울림 50주년 기념 프로젝트〉",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/168/87566168_1777433491061_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114894762",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "현성",
+            "title": "Afterglow",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/560/656/87560656_1777357897312_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114878120",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "소수빈",
+            "title": "21세기 대군부인 OST Part.7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/538/87566538_1777438613013_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114896044",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "차학연(N) & 공원",
+            "title": "로맨스의 절댓값 OST Part 3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/558/517/87558517_1777333627959_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114871500",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "kursor",
+            "title": "Love is Over",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/202/87566202_1777434393579_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114894915",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "TimeFeveR (타임피버)",
+            "title": "한숨도 못 잤어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/560/747/87560747_1777358542366_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114878255",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "최윤영",
+            "title": "슬픔 속에 봄비 내리고.. 눈 감으면 그리운 날에 (feat. 이영원)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/565/353/87565353_1777452936384_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114891531",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "Neo",
+            "title": "Selfie (feat. Notxerius)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/555/419/87555419_1777340149171_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114860599",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "마야",
+            "title": "오십춘기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/554/751/87554751_1777365754676_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114857555",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "Lady Gaga & Doechii",
+            "title": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/572/824/87572824_1777598191072_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114917860",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "Madonna & Sabrina Carpenter",
+            "title": "Bring Your Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/558/247/87558247_1777330011750_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114870657",
+            "found_at": "2026-05-02 13:43",
+            "is_tracked": false
+        },
         {
             "artist": "아일릿(ILLIT)",
             "title": "MAMIHLAPINATAPAI",
