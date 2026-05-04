@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-04 14:21:27",
+    "updated_at": "2026-05-04 19:17:30",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,134 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "아이오아이 (I.O.I)",
+            "title": "웃으며 안녕 (Recorded in 2016) (Prod.진영)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/103/87566103_1777432297657_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114894511",
+            "found_at": "2026-05-04 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "BABYMONSTER",
+            "title": "춤 (CHOOM)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/583/370/87583370_1777849894482_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114950634",
+            "found_at": "2026-05-04 19:17",
+            "is_tracked": true
+        },
+        {
+            "artist": "민기 (ATEEZ)",
+            "title": "NOVA (Feat. 개코, Royal 44)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/529/660/87529660_1776750122174_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114772544",
+            "found_at": "2026-05-04 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "CORTIS (코르티스)",
+            "title": "GREENGREEN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/523/176/87523176_1777873825509_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114752666",
+            "found_at": "2026-05-04 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "NAZE (네이즈)",
+            "title": "NAZE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/561/567/87561567_1777367234171_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114880328",
+            "found_at": "2026-05-04 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "매드 클라운 (Mad Clown)",
+            "title": "수고했어 봄 (feat. siso(시소))",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/571/851/87571851_1777530752288_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114914623",
+            "found_at": "2026-05-04 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "1DB (원디비)",
+            "title": "어느새",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/568/619/87568619_1777466010384_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114902991",
+            "found_at": "2026-05-04 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "가비엔제이 (Gavy NJ)",
+            "title": "이별했대",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/570/705/87570705_1777512727854_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114910930",
+            "found_at": "2026-05-04 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "숙희",
+            "title": "잘 지내고 있겠지",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/158/87566158_1777535410165_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114894734",
+            "found_at": "2026-05-04 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "정창룡",
+            "title": "왜 너 때문에 눈물이 나는데",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/567/749/87567749_1777455457797_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114900286",
+            "found_at": "2026-05-04 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "장수빈",
+            "title": "티키티키 (Tiki Tiki)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/540/240/87540240_1777453163384_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114811229",
+            "found_at": "2026-05-04 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "won.e",
+            "title": "WHY WHY WHY (웹툰 '정글쥬스' OST)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/565/596/87565596_1777425401116_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114892347",
+            "found_at": "2026-05-04 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "한경일",
+            "title": "너를 닮은 바람이 불어와",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/570/700/87570700_1777512731830_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114910922",
+            "found_at": "2026-05-04 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "J.cob (제이콥)",
+            "title": "Trust It",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/537/690/87537690_1777277931264_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114799484",
+            "found_at": "2026-05-04 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "혜민",
+            "title": "Oops",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/555/509/87555509_1777541003829_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114860873",
+            "found_at": "2026-05-04 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "노블(Novl)",
+            "title": "Nvll",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/545/131/87545131_1777013759572_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114828383",
+            "found_at": "2026-05-04 19:17",
+            "is_tracked": false
+        },
         {
             "artist": "DáFF",
             "title": "상처받을래",
