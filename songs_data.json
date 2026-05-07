@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-07 14:17:24",
+    "updated_at": "2026-05-07 19:18:04",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "PATEKO (파테코)",
+            "title": "졸음쉼터 (feat. Gist, 준 (JUNE))",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/584/761/87584761_1777885898286_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114955067",
+            "found_at": "2026-05-07 19:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "전상근",
+            "title": "밤, 바다 (전상근 X 트립뮤직)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/593/910/87593910_1778047896877_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114981363",
+            "found_at": "2026-05-07 19:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "나연 (TWICE)",
+            "title": "괜찮아 사랑이니까 (from 오늘도 매진했습니다 OST Part 7)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/592/626/87592626_1778031690839_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114977429",
+            "found_at": "2026-05-07 19:18",
+            "is_tracked": true
+        },
+        {
+            "artist": "신예영 & 순순희 & 전건호 & 예린 (YERIN)",
+            "title": "All For You (신예영, 순순희, 전건호, 예린 (YERIN) X 룰루랄라 프렌즈 2)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/594/271/87594271_1778053936416_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114982340",
+            "found_at": "2026-05-07 19:18",
+            "is_tracked": true
+        },
+        {
+            "artist": "YUHZ (유어즈)",
+            "title": "Orange Record",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/594/190/87594190_1778052421526_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114982154",
+            "found_at": "2026-05-07 19:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "이지함",
+            "title": "작은서랍(memory)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/571/589/87571589_1778121556939_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114913565",
+            "found_at": "2026-05-07 19:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "한해 & 문세윤",
+            "title": "비행기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/594/182/87594182_1778052411347_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114982120",
+            "found_at": "2026-05-07 19:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "유영현",
+            "title": "BEST COLLECTION",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/877/87566877_1777887499889_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114897195",
+            "found_at": "2026-05-07 19:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "chicken97",
+            "title": "Bali bbali",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/540/369/87540369_1776923791407_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114811792",
+            "found_at": "2026-05-07 19:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "정바스 (J.BASS)",
+            "title": "summer border",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/592/451/87592451_1778029963103_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114976923",
+            "found_at": "2026-05-07 19:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "추승엽",
+            "title": "위험해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/939/87566939_1777523969263_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114897335",
+            "found_at": "2026-05-07 19:18",
+            "is_tracked": false
+        },
         {
             "artist": "SUDI",
             "title": "Easy Maybe",
