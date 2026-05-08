@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-08 13:35:43",
+    "updated_at": "2026-05-08 18:48:37",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,118 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Gist & 수엔 (Suen)",
+            "title": "수상한 사이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/594/194/87594194_1778052690831_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114982163",
+            "found_at": "2026-05-08 18:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "키드밀리 (Kid Milli) & Raf Sandou & JEFFREY WHITE & MASON HOME",
+            "title": "MAINSTREAM",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/594/608/87594608_1778058391026_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114983305",
+            "found_at": "2026-05-08 18:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "BE'O (비오)",
+            "title": "미워",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/598/899/87598899_1778144501724_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114998674",
+            "found_at": "2026-05-08 18:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "ILHOON",
+            "title": "Devil Can Wait",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/572/467/87572467_1777882228380_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114916595",
+            "found_at": "2026-05-08 18:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "Tiffany Young",
+            "title": "Summer's Not Over",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/597/511/87597511_1778122052381_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114993629",
+            "found_at": "2026-05-08 18:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "스텔라이브",
+            "title": "STAR TRAIL",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/593/695/87593695_1778044592327_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114980478",
+            "found_at": "2026-05-08 18:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "샘킴 (SAM KIM)",
+            "title": "21세기 대군부인 OST Part.9",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/598/916/87598916_1778144547131_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114998704",
+            "found_at": "2026-05-08 18:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "BewhY (비와이)",
+            "title": "SOUTHSIDE FREESTYLE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/598/742/87598742_1778142099054_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114998221",
+            "found_at": "2026-05-08 18:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "YLN Foreign",
+            "title": "MAMBA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/594/576/87594576_1778142476620_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114983268",
+            "found_at": "2026-05-08 18:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "건지 (GUNJI)",
+            "title": "나를 안아줘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/598/849/87598849_1778143608687_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114998543",
+            "found_at": "2026-05-08 18:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "GEMBIT(잼빗)",
+            "title": "NEW ERA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/594/206/87594206_1778130679823_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114982188",
+            "found_at": "2026-05-08 18:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "타임브릿지",
+            "title": "지금 아니면 하지 못할 고백이 있어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/594/199/87594199_1778134816031_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114982175",
+            "found_at": "2026-05-08 18:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "스무수퍼 (SMUSUPER)",
+            "title": "PLATANUS SONGS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/537/758/87537758_1777277970922_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114799690",
+            "found_at": "2026-05-08 18:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "keemsunho",
+            "title": "유명인",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/597/518/87597518_1778122066137_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114993653",
+            "found_at": "2026-05-08 18:48",
+            "is_tracked": false
+        },
         {
             "artist": "DEAN & Anderson .Paak",
             "title": "Aftertaste (from Original Motion Picture Soundtrack K-POPS!)",
@@ -890,22 +1002,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/225/87233225_1770354427282_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113791695",
             "found_at": "2026-02-09 18:16",
-            "is_tracked": true
-        },
-        {
-            "artist": "웬디 (WENDY)",
-            "title": "오늘부터 인간입니다만 OST Part.5",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/215/054/87215054_1770000527961_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113725507",
-            "found_at": "2026-02-07 17:45",
-            "is_tracked": true
-        },
-        {
-            "artist": "케이시 (Kassy)",
-            "title": "언더커버 미쓰홍 OST Part.5",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/000/87233000_1770347860028_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113790481",
-            "found_at": "2026-02-07 17:45",
             "is_tracked": true
         }
     ]
