@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-10 14:18:45",
+    "updated_at": "2026-05-10 18:36:45",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,86 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "TRADE L & Nosun & MilliMax (밀리맥스)",
+            "title": "AMBITION 5/10",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/601/987/87601987_1778206298728_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115009992",
+            "found_at": "2026-05-10 18:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "훈훈하다",
+            "title": "말 없이 사라진 너",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/598/041/87598041_1778131932081_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114995778",
+            "found_at": "2026-05-10 18:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "도영 (DOYOUNG)",
+            "title": "은밀한 감사 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/598/316/87598316_1778135200337_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114996661",
+            "found_at": "2026-05-10 18:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "데이먼스 이어 (Damons year)",
+            "title": "모두가 자신의 무가치함과 싸우고 있다 OST Part.6",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/474/87602474_1778220392372_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115012063",
+            "found_at": "2026-05-10 18:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "BIG Naughty (서동현)",
+            "title": "Still Freestylin'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/163/87602163_1778209595049_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115010479",
+            "found_at": "2026-05-10 18:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "KURO & 태비 (Taeb2)",
+            "title": "다시 돌아간다고 해도 널",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/594/364/87594364_1778130692044_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114982636",
+            "found_at": "2026-05-10 18:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "이다능",
+            "title": "비밀 일기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/598/723/87598723_1778221314637_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114998121",
+            "found_at": "2026-05-10 18:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "Munch King",
+            "title": "YASAKA (弥栄)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/594/821/87594821_1778064090997_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114984042",
+            "found_at": "2026-05-10 18:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "추혁진",
+            "title": "엎어치나 메치나",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/374/87602374_1778216795340_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115011505",
+            "found_at": "2026-05-10 18:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "체리베리 (CherryBerry)",
+            "title": "내가 그리울 때",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/560/658/87560658_1778140699266_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114878122",
+            "found_at": "2026-05-10 18:36",
+            "is_tracked": false
+        },
         {
             "artist": "정윤 & 레나 (LENA)",
             "title": "no cat home",
@@ -898,14 +978,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/206/771/87206771_1770706831793_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113694441",
             "found_at": "2026-02-11 18:09",
-            "is_tracked": true
-        },
-        {
-            "artist": "IVE (아이브)",
-            "title": "REVIVE＋",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/225/87233225_1770354427282_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113791695",
-            "found_at": "2026-02-09 18:16",
             "is_tracked": true
         }
     ]
