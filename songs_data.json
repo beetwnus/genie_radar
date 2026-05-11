@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-11 14:48:40",
+    "updated_at": "2026-05-11 20:22:04",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "aespa",
+            "title": "WDA (Whole Different Animal) (Feat. G-DRAGON)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/777/87602777_1778228544483_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115013212",
+            "found_at": "2026-05-11 20:22",
+            "is_tracked": true
+        },
+        {
+            "artist": "H//PE Princess (하입프린세스)",
+            "title": "Stolen (KR ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/598/856/87598856_1778143935417_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114998562",
+            "found_at": "2026-05-11 20:22",
+            "is_tracked": false
+        },
+        {
+            "artist": "NMIXX",
+            "title": "Heavy Serenade",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/559/009/87559009_1778234658689_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114873244",
+            "found_at": "2026-05-11 20:22",
+            "is_tracked": true
+        },
+        {
+            "artist": "BOYNEXTDOOR",
+            "title": "똑똑똑",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/610/755/87610755_1778456492322_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115034973",
+            "found_at": "2026-05-11 20:22",
+            "is_tracked": false
+        },
+        {
+            "artist": "민기 (ATEEZ)",
+            "title": "FIX OFF Desire Project : ORIGIN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/555/445/87555445_1777275181558_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114860678",
+            "found_at": "2026-05-11 20:22",
+            "is_tracked": false
+        },
+        {
+            "artist": "비",
+            "title": "Feel It (너야)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/174/87602174_1778209655612_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115010500",
+            "found_at": "2026-05-11 20:22",
+            "is_tracked": false
+        },
+        {
+            "artist": "DORI",
+            "title": "Violet",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/631/87566631_1778140748691_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114896398",
+            "found_at": "2026-05-11 20:22",
+            "is_tracked": false
+        },
+        {
+            "artist": "강아솔",
+            "title": "아주르스프링 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/790/87602790_1778228561159_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115013267",
+            "found_at": "2026-05-11 20:22",
+            "is_tracked": false
+        },
+        {
+            "artist": "IÖN",
+            "title": "AREA X",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/408/87602408_1778475402535_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115011684",
+            "found_at": "2026-05-11 20:22",
+            "is_tracked": false
+        },
+        {
+            "artist": "J.fool & C.Swag & 비니위니 (BinnyWeeny)",
+            "title": "BRAKE Remix (feat. Minbroskii, 키츠요지, Chaboom, 노아차(NOIDEACHILD))",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/525/879/87525879_1778221363505_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114761105",
+            "found_at": "2026-05-11 20:22",
+            "is_tracked": false
+        },
+        {
+            "artist": "KOLO ZUANI",
+            "title": "French Fries",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/584/795/87584795_1778221357338_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114955234",
+            "found_at": "2026-05-11 20:22",
+            "is_tracked": false
+        },
         {
             "artist": "Lo-Five",
             "title": "Lo-Five Vol.1",
