@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-12 01:30:27",
+    "updated_at": "2026-05-12 14:21:02",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,230 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "예은",
+            "title": "기억의 향기 (Scent of Memories)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/611/373/87611373_1778476297455_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115037442",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "박해수",
+            "title": "허수아비 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/598/780/87598780_1778142752685_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114998316",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "구원찬",
+            "title": "렘수면 (Feat. g0nny (거니))",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/593/939/87593939_1778484171538_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114981478",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "전건호 & 이아영 & 김예찬",
+            "title": "기쁜 우리 좋은 날 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/612/073/87612073_1778487113467_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115040047",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "DEW (듀)",
+            "title": "Lovely",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/610/756/87610756_1778456495104_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115034974",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "015B",
+            "title": "New Edition 71",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/610/973/87610973_1778463423348_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115035802",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "신현지",
+            "title": "신현지 1st Album ＜두드림＞",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/611/800/87611800_1778484160499_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115039203",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "CrazAngel (크레이즈엔젤)",
+            "title": "Picasso",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/598/423/87598423_1778217219260_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114997138",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "옛그리움 (Old Yearning)",
+            "title": "화양연화",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/594/880/87594880_1778475901030_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114984147",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "로웰 스트레이트 (Lowell Straight)",
+            "title": "Tana.",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/610/910/87610910_1778461904160_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115035600",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "PS영준",
+            "title": "Soft Gravity",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/597/509/87597509_1778235957912_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114993572",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "밈 (mim)",
+            "title": "너는 떠나고 나는 남아서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/560/172/87560172_1778206785090_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114876762",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "원종혁",
+            "title": "사랑이야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/753/87602753_1778486806450_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115013096",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "미지니",
+            "title": "미뤄둬",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/594/471/87594471_1778484305009_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114982853",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "YJIN (와이진)",
+            "title": "Me Chama",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/545/214/87545214_1778485925870_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114828608",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "배우리",
+            "title": "햇살에 담아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/597/129/87597129_1778228876626_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114992379",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "H//PE Princess (하입프린세스)",
+            "title": "Stolen (KR ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/598/856/87598856_1778143935417_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114998562",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "BOYNEXTDOOR",
+            "title": "똑똑똑",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/610/755/87610755_1778456492322_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115034973",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "민기 (ATEEZ)",
+            "title": "FIX OFF Desire Project : ORIGIN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/555/445/87555445_1777275181558_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114860678",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "비",
+            "title": "Feel It (너야)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/174/87602174_1778209655612_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115010500",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "DORI",
+            "title": "Violet",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/631/87566631_1778140748691_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114896398",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "강아솔",
+            "title": "아주르스프링 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/790/87602790_1778228561159_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115013267",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "IÖN & DJ co.kr",
+            "title": "AREA X",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/408/87602408_1778475402535_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115011684",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "J.fool & C.Swag & 비니위니 (BinnyWeeny)",
+            "title": "BRAKE Remix (feat. Minbroskii, 키츠요지, Chaboom, 노아차(NOIDEACHILD))",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/525/879/87525879_1778221363505_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114761105",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "KOLO ZUANI",
+            "title": "French Fries",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/584/795/87584795_1778221357338_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114955234",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "Lo-Five",
+            "title": "Lo-Five Vol.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/598/044/87598044_1778131934785_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114995783",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "김미정",
+            "title": "Is Loving You a Crime?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/598/341/87598341_1778136690709_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114996742",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "유승우",
+            "title": "풍선",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/597/173/87597173_1778139733163_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114992523",
+            "found_at": "2026-05-12 14:21",
+            "is_tracked": false
+        },
         {
             "artist": "aespa",
             "title": "WDA (Whole Different Animal) (Feat. G-DRAGON)",
