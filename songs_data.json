@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-13 14:32:05",
+    "updated_at": "2026-05-13 19:36:46",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,118 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "FLARE U (플레어 유)",
+            "title": "YOUTH ERROR",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/448/87602448_1778219490637_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115011900",
+            "found_at": "2026-05-13 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "WOOAH (우아)",
+            "title": "WXW(Wish With W)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/610/904/87610904_1778461898396_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115035565",
+            "found_at": "2026-05-13 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "진영 (GOT7)",
+            "title": "Said & Done",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/617/149/87617149_1778570519827_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115056092",
+            "found_at": "2026-05-13 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "헤이즈 (Heize)",
+            "title": "I see you (from 오늘도 매진했습니다 OST Part 8)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/615/339/87615339_1778550392113_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115050422",
+            "found_at": "2026-05-13 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "양지은",
+            "title": "석양",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/644/87602644_1778572841339_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115012598",
+            "found_at": "2026-05-13 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "스무살",
+            "title": "럽럽럽",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/616/403/87616403_1778562396946_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115053478",
+            "found_at": "2026-05-13 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "HYNN (박혜원)",
+            "title": "주인공 연습",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/617/144/87617144_1778570532575_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115056085",
+            "found_at": "2026-05-13 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "차우 (Chawoo)",
+            "title": "p o o m",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/614/516/87614516_1778541097000_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115048069",
+            "found_at": "2026-05-13 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "NOWZ (나우즈)",
+            "title": "Us",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/617/127/87617127_1778570242947_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115056055",
+            "found_at": "2026-05-13 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "정훈",
+            "title": "DON'T HOLD IT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/593/449/87593449_1778635152860_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114979446",
+            "found_at": "2026-05-13 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "뉘뉘 (NUITNUIT)",
+            "title": "소음 (小音)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/616/469/87616469_1778571451251_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115053736",
+            "found_at": "2026-05-13 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "이세준 (유리상자)",
+            "title": "동그란 무지개",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/598/524/87598524_1778480711484_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114997378",
+            "found_at": "2026-05-13 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "Eternal Return",
+            "title": "불꽃 (2026 대한민국 이스포츠 리그 - 이터널 리턴 주제가)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/615/322/87615322_1778550100553_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115050353",
+            "found_at": "2026-05-13 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "김우도",
+            "title": "사랑결핍",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/612/257/87612257_1778556439188_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115040622",
+            "found_at": "2026-05-13 19:36",
+            "is_tracked": false
+        },
         {
             "artist": "윤석원",
             "title": "사랑이라오",
@@ -898,14 +1010,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/206/863/87206863_1770945585300_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113694799",
             "found_at": "2026-02-14 12:51",
-            "is_tracked": true
-        },
-        {
-            "artist": "로시 (Rothy) & 하은 (포맨)",
-            "title": "우주를 줄게 OST Part.2",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/249/106/87249106_1770718000399_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113846258",
-            "found_at": "2026-02-12 18:07",
             "is_tracked": true
         }
     ]
