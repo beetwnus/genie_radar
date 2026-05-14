@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-14 01:23:28",
+    "updated_at": "2026-05-14 14:30:24",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,246 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Placebo Junkies",
+            "title": "wayout",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/564/87602564_1778223091612_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115012326",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "위수 (WISUE)",
+            "title": "to.",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/618/719/87618719_1778718668747_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115060588",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "Olivia Marsh (올리비아 마쉬)",
+            "title": "Paraglider",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/611/507/87611507_1778484877840_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115037944",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "Free-Champ",
+            "title": "UNFOLD",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/625/137/87625137_1778666791082_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115079929",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "정소연 (Jung Soyeon)",
+            "title": "너뿐이야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/894/87602894_1778230345293_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115013628",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": true
+        },
+        {
+            "artist": "결 (KYUL)",
+            "title": "위로받고 싶지 않아요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/593/668/87593668_1778665876740_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114980404",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "레터 플로우",
+            "title": "우편물 보관함 Episode. 17",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/625/008/87625008_1778665026135_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115079542",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "Potty Monkey",
+            "title": "Bounce",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/615/325/87615325_1778550107679_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115050364",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "제인팝",
+            "title": "블루 마블",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/203/87602203_1778668274831_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115010543",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "Anonymous Artists (어나니머스 아티스트) & Tmlm",
+            "title": "ARTIST. Tmlm",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/625/042/87625042_1778665670742_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115079670",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "젬마 (JEMMA) & 영원희 (Young Wonhee)",
+            "title": ".99",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/610/898/87610898_1778491912962_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115035539",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "성리",
+            "title": "무명전설 ［결승 2차 인생 명곡］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/622/909/87622909_1778639490987_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115072482",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "타카피 (T.A.-COPY)",
+            "title": "이모",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/591/87602591_1778477549707_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115012480",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "livininyourdream",
+            "title": "낙화(落花)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/584/083/87584083_1777873290627_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114953163",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "클린코튼",
+            "title": "통화중",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/593/453/87593453_1778039808728_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114979458",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "나아람",
+            "title": "Like My Pain",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/599/114/87599114_1778481121850_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114999484",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "페퍼민트",
+            "title": "늦게 알게 돼서 더 아픈 거야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/571/737/87571737_1778552840970_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114914153",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "Komah Jay (코마제이)",
+            "title": "아 진짜 좋아한다고",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/617/282/87617282_1778638693517_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115056509",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "최우진",
+            "title": "인생이더라",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/610/911/87610911_1778655885381_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115035604",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "Toru",
+            "title": "Toru3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/593/397/87593397_1778665912843_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114979290",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "FLARE U (플레어 유)",
+            "title": "YOUTH ERROR",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/448/87602448_1778219490637_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115011900",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "WOOAH (우아)",
+            "title": "WXW(Wish With W)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/610/904/87610904_1778461898396_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115035565",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "진영 (GOT7)",
+            "title": "Said & Done",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/617/149/87617149_1778570519827_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115056092",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "헤이즈 (Heize)",
+            "title": "I see you (from 오늘도 매진했습니다 OST Part 8)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/615/339/87615339_1778550392113_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115050422",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "양지은",
+            "title": "석양",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/644/87602644_1778572841339_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115012598",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "스무살",
+            "title": "럽럽럽",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/616/403/87616403_1778562396946_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115053478",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "HYNN (박혜원)",
+            "title": "주인공 연습",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/617/144/87617144_1778570532575_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115056085",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "차우 (Chawoo)",
+            "title": "p o o m",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/614/516/87614516_1778541097000_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115048069",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "NOWZ (나우즈)",
+            "title": "Us",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/617/127/87617127_1778570242947_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115056055",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "정훈",
+            "title": "DON'T HOLD IT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/593/449/87593449_1778635152860_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114979446",
+            "found_at": "2026-05-14 14:30",
+            "is_tracked": false
+        },
         {
             "artist": "aespa",
             "title": "WDA (Whole Different Animal) (Feat. G-DRAGON)",
