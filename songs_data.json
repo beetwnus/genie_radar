@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-16 01:00:32",
+    "updated_at": "2026-05-16 14:06:15",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,238 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "노아주다 (noahjooda) & hu57la",
+            "title": "봉숭아꽃",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/624/791/87624791_1778662293305_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115078957",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "이구이 (IGWI)",
+            "title": "플랫슈즈",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/623/853/87623853_1778651496276_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115075915",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "김용빈",
+            "title": "금타는 금요일 PART21",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/632/311/87632311_1778822502871_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115107058",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "제이세라 (J-Cera)",
+            "title": "여기서 기다릴께",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/623/136/87623136_1778641899326_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115073431",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "WOODZ",
+            "title": "21세기 대군부인 OST Special",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/628/636/87628636_1778730100595_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115093128",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "여은",
+            "title": "그리움이 밀려오는 이 밤",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/616/980/87616980_1778638961875_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115055493",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "oftn (오픈)",
+            "title": "Sunflower",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/623/134/87623134_1778641894805_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115073429",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "19990619",
+            "title": "비행기 모드",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/695/87602695_1778765683189_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115012860",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "COME (컴)",
+            "title": "Entwine",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/625/625/87625625_1778808496024_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115081213",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "단월",
+            "title": "Love poem",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/628/358/87628358_1778724733783_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115091919",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "누고(Nugo)",
+            "title": "나만 준비 못 한 이별",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/628/390/87628390_1778725328013_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115092018",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "사운드힐즈",
+            "title": "춘곤증",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/624/436/87624436_1778765694843_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115077919",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "마션 (Martian) & 김난니",
+            "title": "Nannie on Mars 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/610/987/87610987_1778806283305_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115035857",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "지베뉴 (Zivenew)",
+            "title": "파란",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/617/654/87617654_1778813537788_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115057552",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "온재은",
+            "title": "파란눈 소녀",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/612/443/87612443_1778664417762_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115041302",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "SØHJ (서현정)",
+            "title": "Deep Blue Dive",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/623/113/87623113_1778808707422_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115073374",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "나이삭",
+            "title": "PERSONA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/625/588/87625588_1778723296202_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115081126",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "범호 (BUMHO)",
+            "title": "Magenta",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/617/336/87617336_1778666138079_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115056669",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "다운헬 (Downhell)",
+            "title": "Shadow Rhapsody",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/612/086/87612086_1778657488437_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115040097",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "데일로그 (Dailog)",
+            "title": "Cantabile",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/616/948/87616948_1778567718877_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115055357",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "니즈 (NIIZ)",
+            "title": "여행 〈take me anywhere〉",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/615/042/87615042_1778547117577_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115049319",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "변우석",
+            "title": "21세기 대군부인 OST Part.11",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/628/469/87628469_1778726794881_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115092395",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "K2 (김성면)",
+            "title": "삶의 중심에서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/611/557/87611557_1778725731451_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115038172",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "엠씨더맥스 (M.C the MAX)",
+            "title": "A Boy From The Moon (2026)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/628/462/87628462_1778726554549_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115092378",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "소향",
+            "title": "My Little New Diary. Part 5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/611/566/87611566_1778550926193_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115038201",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "기프트 (GIFT)",
+            "title": "원더풀스 (Soundtrack from the Netflix Series)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/617/000/87617000_1778568413300_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115055633",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "wave to earth",
+            "title": "heaven and hell",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/597/121/87597121_1778117013893_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114992339",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "Aneuk(아늑)",
+            "title": "Darling",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/628/397/87628397_1778725593741_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115092057",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "니브 (NIve)",
+            "title": "May, be",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/510/87602510_1778763569831_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115012146",
+            "found_at": "2026-05-16 14:06",
+            "is_tracked": false
+        },
         {
             "artist": "FIFTY FIFTY",
             "title": "STARSTRUCK",
