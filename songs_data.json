@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-17 14:29:16",
+    "updated_at": "2026-05-17 18:38:43",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,70 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "박다혜",
+            "title": "너의 이름을",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/615/545/87615545_1778577432813_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115050981",
+            "found_at": "2026-05-17 18:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "경서",
+            "title": "어느 멋진 도망 OST '말 대신'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/629/342/87629342_1778745162584_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115095901",
+            "found_at": "2026-05-17 18:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "#안녕",
+            "title": "내사람 (2026)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/629/093/87629093_1778742404245_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115095234",
+            "found_at": "2026-05-17 18:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "이규라",
+            "title": "눈부신 눈물",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/632/286/87632286_1778822502497_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115106988",
+            "found_at": "2026-05-17 18:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "JERO",
+            "title": "DND",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/623/753/87623753_1778670573663_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115075463",
+            "found_at": "2026-05-17 18:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "그리즐리 (Grizzly)",
+            "title": "내 알고리즘은 망했나 봐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/628/593/87628593_1778729209280_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115093050",
+            "found_at": "2026-05-17 18:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "RYE",
+            "title": "Daydream",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/628/195/87628195_1778722892615_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115091300",
+            "found_at": "2026-05-17 18:38",
+            "is_tracked": false
+        },
+        {
+            "artist": "위시 (WISH)",
+            "title": "GENEROUS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/617/625/87617625_1778666935884_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115057463",
+            "found_at": "2026-05-17 18:38",
+            "is_tracked": false
+        },
         {
             "artist": "노사연",
             "title": "온도",
