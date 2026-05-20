@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-20 01:41:18",
+    "updated_at": "2026-05-20 14:55:49",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,246 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "가비",
+            "title": "Bromm, Taki",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/629/068/87629068_1778740291151_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115095099",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "마인드유",
+            "title": "우리가 헤어진 이유를 아나요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/628/349/87628349_1778724711404_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115091787",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "리사 & 민서 (MINSEO) & 벤 & 정예원 (YEWON)",
+            "title": "SBS 골 때리는 그녀들 리부트 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/632/484/87632484_1778812017374_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115107509",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "0siggy",
+            "title": "UNDERGROUND",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/286/87641286_1779083790426_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115136312",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "뎁트",
+            "title": "Raining",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/640/927/87640927_1779184249003_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115134525",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "Whiteusedsocks",
+            "title": "TAKE IT AWAY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/629/063/87629063_1778825197773_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115095087",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "김신의",
+            "title": "It's OK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/633/485/87633485_1779151294312_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115111103",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "Jvde",
+            "title": "Break of Dawn",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/659/87646659_1779180695335_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115155640",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "SOIN (서인)",
+            "title": "Keyring",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/624/566/87624566_1778660572302_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115078240",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "YOONYOUNG (윤영)",
+            "title": "YOYO - The 1st Single Album",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/149/87646149_1779172890751_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115153980",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "청솔",
+            "title": "봄의 아이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/496/87646496_1779182506801_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115155120",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "Ambid Jack",
+            "title": "수선화",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/639/889/87639889_1779096579674_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115130834",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "더 라임",
+            "title": "오늘은 좀 괜찮아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/632/485/87632485_1778812016368_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115107510",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "노르웨이 숲",
+            "title": "SHINE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/645/059/87645059_1779155494758_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115149206",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "박기홍",
+            "title": "SUN&MOON",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/244/87646244_1779174127311_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115154255",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "감성단속반",
+            "title": "찬란한 인생(Brilliant Life)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/205/87646205_1779173814588_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115154125",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤예준",
+            "title": "그뿐이야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/499/87641499_1779159449533_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115137326",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "소히 (Sorri)",
+            "title": "침묵하던 나무속에",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/624/889/87624889_1779160007954_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115079183",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "그루 (groo)",
+            "title": "사랑해 악마 OST X 그루 (groo)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/644/761/87644761_1779238193526_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115148110",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "아이오아이 (I.O.I)",
+            "title": "I.O.I 3rd MINI ALBUM ［I.O.I : LOOP］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/617/571/87617571_1778574852112_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115057327",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "JACE COLE",
+            "title": "Thank You for the Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/628/241/87628241_1778723530856_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115091480",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "Balming Tiger",
+            "title": "Gongbu",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/845/87641845_1779151223802_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115138674",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "한동근",
+            "title": "배역",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/640/793/87640793_1779066693441_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115134174",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "xikers (싸이커스)",
+            "title": "ROUTE ZERO : The ORA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/866/87641866_1779093994605_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115138743",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "Big Ocean",
+            "title": "Make it up to you",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/640/997/87640997_1779073306875_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115134786",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "MJ (써니사이드) & 레이나",
+            "title": "들켜라 내 마음",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/859/87641859_1779093714637_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115138729",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "김나경",
+            "title": "우린 왜 안 맞을까",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/350/87641350_1779085591638_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115136655",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "일레인",
+            "title": "그러다 보면",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/727/87641727_1779091290623_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115137981",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "BREEZE & XTC PROJECT",
+            "title": "We Don't Stop (Lights Go On)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/629/077/87629077_1778829706902_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115095133",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "강민정",
+            "title": "잃을 것 많은 마음",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/666/87602666_1779072257824_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115012726",
+            "found_at": "2026-05-20 14:55",
+            "is_tracked": false
+        },
         {
             "artist": "ITZY (있지)",
             "title": "Motto",
