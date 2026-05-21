@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-21 14:59:57",
+    "updated_at": "2026-05-21 20:26:45",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,126 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "BIG Naughty (서동현)",
+            "title": "노브레인 30주년 Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/348/87646348_1779340378282_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115154675",
+            "found_at": "2026-05-21 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "셔누 X 형원 (몬스타엑스)",
+            "title": "LOVE ME",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/651/573/87651573_1779255411410_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115173292",
+            "found_at": "2026-05-21 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "보라미유",
+            "title": "뜨거운 태양 아래",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/181/87646181_1779267355007_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115154088",
+            "found_at": "2026-05-21 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "펀치 (Punch)",
+            "title": "아름다운 날들이여 사랑스런 눈동자여 (from 오늘도 매진했습니다 OST Part 11)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/650/455/87650455_1779242203843_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115169009",
+            "found_at": "2026-05-21 20:26",
+            "is_tracked": true
+        },
+        {
+            "artist": "KOREANGROOVE",
+            "title": "니나노",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/640/934/87640934_1779070298593_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115134552",
+            "found_at": "2026-05-21 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "순순희",
+            "title": "참 다행이야 (순순희 X 룰루랄라 프렌즈 2)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/651/997/87651997_1779261816618_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115175201",
+            "found_at": "2026-05-21 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "효정 (오마이걸)",
+            "title": "Purple Note",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/651/575/87651575_1779255398062_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115173300",
+            "found_at": "2026-05-21 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "LINA (리나)",
+            "title": "Push It Away",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/640/933/87640933_1779070294495_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115134550",
+            "found_at": "2026-05-21 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "RYUL",
+            "title": "Sign",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/388/87641388_1779086795170_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115136864",
+            "found_at": "2026-05-21 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "THE SSYNDROME (더씬드롬)",
+            "title": "별빛이 머무는 곳 (My First Love)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/651/559/87651559_1779255166178_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115173260",
+            "found_at": "2026-05-21 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "ROYDO",
+            "title": "너를 잊는 법",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/115/87641115_1779079307735_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115135545",
+            "found_at": "2026-05-21 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "WOO",
+            "title": "Unlock",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/617/480/87617480_1779154667490_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115057016",
+            "found_at": "2026-05-21 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "빈세진 (BINSEJIN)",
+            "title": "Mosquito Flow",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/652/270/87652270_1779266502502_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115176442",
+            "found_at": "2026-05-21 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "KOZ (코즈)",
+            "title": "RIDE ON",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/665/87646665_1779258816092_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115155699",
+            "found_at": "2026-05-21 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "ZENITH(제니스)",
+            "title": "CROSSPOINT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/628/463/87628463_1779245277836_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115092380",
+            "found_at": "2026-05-21 20:26",
+            "is_tracked": false
+        },
         {
             "artist": "Neidi (네이디)",
             "title": "seoul.exe",
@@ -898,14 +1018,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/211/87255211_1770787984579_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113867357",
             "found_at": "2026-02-21 12:46",
-            "is_tracked": true
-        },
-        {
-            "artist": "Hearts2Hearts (하츠투하츠)",
-            "title": "RUDE!",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/287/901/87287901_1771485100205_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113970278",
-            "found_at": "2026-02-20 17:57",
             "is_tracked": true
         }
     ]
