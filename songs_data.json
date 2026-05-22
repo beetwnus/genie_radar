@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-22 14:56:04",
+    "updated_at": "2026-05-22 20:00:21",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,78 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Gemini (제미나이)",
+            "title": "No Sugar in My Coffee",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/738/87641738_1779091908009_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115138164",
+            "found_at": "2026-05-22 20:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "sokodomo",
+            "title": "Falling in LOVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/650/460/87650460_1779242197407_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115169029",
+            "found_at": "2026-05-22 20:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "Cosmonott(코스모너트)",
+            "title": "몽환",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/349/87641349_1779184270029_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115136653",
+            "found_at": "2026-05-22 20:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "wnsday & Dowoo",
+            "title": "ANATOMY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/645/695/87645695_1779165990873_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115151725",
+            "found_at": "2026-05-22 20:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "프니엘 (비투비)",
+            "title": "IDKI",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/651/596/87651596_1779255444196_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115173361",
+            "found_at": "2026-05-22 20:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤석 (YOONSEOK)",
+            "title": "Pause (Feat. I.M)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/645/697/87645697_1779165998113_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115151733",
+            "found_at": "2026-05-22 20:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "요치 (YORCH)",
+            "title": "Blow Your Mind",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/642/109/87642109_1779097914312_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115139582",
+            "found_at": "2026-05-22 20:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "이나현 (LeeNa)",
+            "title": "고백하면 안될까",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/652/150/87652150_1779264115425_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115175855",
+            "found_at": "2026-05-22 20:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "테크텐 (Tech10)",
+            "title": "작은집착",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/630/484/87630484_1779161888599_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115099376",
+            "found_at": "2026-05-22 20:00",
+            "is_tracked": false
+        },
         {
             "artist": "LE SSERAFIM (르세라핌)",
             "title": "'PUREFLOW' pt.1",
