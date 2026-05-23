@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-23 01:17:46",
+    "updated_at": "2026-05-23 14:18:56",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,230 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "LIT",
+            "title": "Different",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/976/87641976_1779095495350_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115139200",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "Gwyn Dorado",
+            "title": "멋진 신세계 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/283/87646283_1779174715697_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115154479",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "임지우 (imzoo)",
+            "title": "미안해 (Forgive Me)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/167/87641167_1779157095435_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115135750",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "ma1ro (마일로)",
+            "title": "오십프로 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/658/544/87658544_1779417404166_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115204564",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤윤서",
+            "title": "50년 후 나의 노래 이야기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/841/87646841_1779363728357_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115156297",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "비올라 (VIOLA)",
+            "title": "VIOLA's DANCE: VIOLET LETTER",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/648/056/87648056_1779207093174_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115159426",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "김용빈",
+            "title": "금타는 금요일 PART22",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/655/442/87655442_1779345130545_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115190953",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "NVM (Never Mind)",
+            "title": "탓",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/626/87646626_1779179695266_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115155519",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "정다운",
+            "title": "못된 나야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/652/052/87652052_1779416066440_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115175513",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "100KGOLD",
+            "title": "2026SWAGGER",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/655/028/87655028_1779333703027_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115188668",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "티라 (Tra)",
+            "title": "미치도록 너만을 OST Part.28",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/654/989/87654989_1779353844223_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115188529",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "Young Shooter (영슈러)",
+            "title": "bye",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/654/991/87654991_1779333090911_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115188538",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "션케이 (Sean.K)",
+            "title": "NLT (Right Now)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/652/432/87652432_1779338213775_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115177241",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "데저트 (Desert)",
+            "title": "Beyond The Horizon",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/642/412/87642412_1779260897434_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115140398",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "Sunset On The Bridge",
+            "title": "Casual",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/633/415/87633415_1779348602019_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115110846",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "MODN (모든)",
+            "title": "Daisy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/972/87646972_1779338239268_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115156722",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "The O",
+            "title": "One",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/929/87646929_1779413356824_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115156581",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "Gemini (제미나이)",
+            "title": "No Sugar in My Coffee",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/738/87641738_1779091908009_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115138164",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "안효섭 & Khalid & Fandom",
+            "title": "Something Special",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/651/593/87651593_1779255437594_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115173349",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "sokodomo",
+            "title": "Falling in LOVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/650/460/87650460_1779242197407_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115169029",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "Cosmonott(코스모너트)",
+            "title": "몽환",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/349/87641349_1779184270029_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115136653",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "태민 (TAEMIN)",
+            "title": "PERMISSION",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/651/602/87651602_1779255699543_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115173384",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "wnsday & Dowoo",
+            "title": "ANATOMY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/645/695/87645695_1779165990873_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115151725",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "프니엘 (비투비)",
+            "title": "IDKI",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/651/596/87651596_1779255444196_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115173361",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤석 (YOONSEOK)",
+            "title": "Pause (Feat. I.M)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/645/697/87645697_1779165998113_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115151733",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "요치 (YORCH)",
+            "title": "Blow Your Mind",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/642/109/87642109_1779097914312_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115139582",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "이나현 (LeeNa)",
+            "title": "고백하면 안될까",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/652/150/87652150_1779264115425_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115175855",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
+        {
+            "artist": "xikers (싸이커스)",
+            "title": "OKay (Remix)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/651/603/87651603_1779255711565_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115173385",
+            "found_at": "2026-05-23 14:18",
+            "is_tracked": false
+        },
         {
             "artist": "LE SSERAFIM (르세라핌)",
             "title": "'PUREFLOW' pt.1",
