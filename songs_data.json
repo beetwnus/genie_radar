@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-24 14:45:48",
+    "updated_at": "2026-05-24 18:50:21",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,62 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "언텔 (untell)",
+            "title": "AMBITIUN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/651/466/87651466_1779253894890_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115172761",
+            "found_at": "2026-05-24 18:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "신미래",
+            "title": "일체유심조",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/652/242/87652242_1779265929733_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115176231",
+            "found_at": "2026-05-24 18:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "우디 (Woody)",
+            "title": "이 사랑",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/658/614/87658614_1779418620113_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115204753",
+            "found_at": "2026-05-24 18:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "김기태",
+            "title": "인연",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/655/443/87655443_1779345116837_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115190959",
+            "found_at": "2026-05-24 18:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "루빈",
+            "title": "내 손을 꼭 잡아줘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/500/87646500_1779267358285_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115155138",
+            "found_at": "2026-05-24 18:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "모닝커피 (Morning Coffee)",
+            "title": "사악한 공작 영애의 우울 OST Part.8",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/651/643/87651643_1779412342114_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115173634",
+            "found_at": "2026-05-24 18:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "Munch King",
+            "title": "One of None",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/652/388/87652388_1779268903113_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115177042",
+            "found_at": "2026-05-24 18:50",
+            "is_tracked": false
+        },
         {
             "artist": "OSSH",
             "title": "Around",
@@ -922,14 +978,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/302/277/87302277_1771920820823_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114019342",
             "found_at": "2026-02-25 13:03",
-            "is_tracked": true
-        },
-        {
-            "artist": "IVE (아이브)",
-            "title": "REVIVE＋",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/225/87233225_1771579384466_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113986758",
-            "found_at": "2026-02-23 18:11",
             "is_tracked": true
         }
     ]
