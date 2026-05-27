@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-27 15:12:38",
+    "updated_at": "2026-05-27 20:30:58",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "윙 (WING)",
+            "title": "Dopamine",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/163/87673163_1779760316310_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115248714",
+            "found_at": "2026-05-27 20:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "IDID (아이딧)",
+            "title": "FLY!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/669/87674669_1779787613352_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115254699",
+            "found_at": "2026-05-27 20:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "커피소년",
+            "title": "회복탄력성 (Feat.제이레빗 혜선)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/973/87673973_1779779190692_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115252625",
+            "found_at": "2026-05-27 20:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "민수",
+            "title": "If",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/655/271/87655271_1779773191154_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115190206",
+            "found_at": "2026-05-27 20:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "소란 (SORAN)",
+            "title": "ceremony (Feat. 미연 (MIYEON))",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/672/87674672_1779787618721_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115254720",
+            "found_at": "2026-05-27 20:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "미완소년",
+            "title": "PLUMA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/672/802/87672802_1779756093450_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115247607",
+            "found_at": "2026-05-27 20:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "버블 시스터즈 (Bubble Sisters)",
+            "title": "Back to me",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/652/343/87652343_1779267997234_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115176785",
+            "found_at": "2026-05-27 20:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "XLOV",
+            "title": "I,God",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/658/389/87658389_1779431431179_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115203905",
+            "found_at": "2026-05-27 20:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤성",
+            "title": "LIGHT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/676/87674676_1779787929126_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115254731",
+            "found_at": "2026-05-27 20:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "ONDA (온다) & 태평",
+            "title": "사라진 시간 속에서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/382/87646382_1779267370212_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115154847",
+            "found_at": "2026-05-27 20:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "한경일",
+            "title": "하루를 살아도 난 너여야만 해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/651/767/87651767_1779436794075_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115174269",
+            "found_at": "2026-05-27 20:30",
+            "is_tracked": false
+        },
+        {
+            "artist": "NCT WISH & Arkins & ScreaM Records",
+            "title": "K-POP ScreaM 3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/674/87674674_1779787622483_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115254727",
+            "found_at": "2026-05-27 20:30",
+            "is_tracked": false
+        },
         {
             "artist": "미각보이즈",
             "title": "취사병 전설이 되다 OST Part 2",
