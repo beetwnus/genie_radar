@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-27 02:05:50",
+    "updated_at": "2026-05-27 15:12:38",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,134 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "미각보이즈",
+            "title": "취사병 전설이 되다 OST Part 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/238/87673238_1779761491125_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115248958",
+            "found_at": "2026-05-27 15:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "이야",
+            "title": "오늘도 고생했어요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/774/87673774_1779774728231_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115251545",
+            "found_at": "2026-05-27 15:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "구원찬",
+            "title": "빈자리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/645/988/87645988_1779612273087_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115153013",
+            "found_at": "2026-05-27 15:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "요조",
+            "title": "좋아해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/652/247/87652247_1779524479788_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115176255",
+            "found_at": "2026-05-27 15:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤한 (YOONHAN) & caspertheam",
+            "title": "Retrospective",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/342/87673342_1779765690515_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115249552",
+            "found_at": "2026-05-27 15:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "이진솔",
+            "title": "ELEEMENTAL",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/662/793/87662793_1779505590575_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115219418",
+            "found_at": "2026-05-27 15:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "이수연 & 이롭소",
+            "title": "이사 (with 나희경,성진환,수진,이상순,정순용,정주영,하림,하이디(김영경))",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/538/87674538_1779785874826_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115254310",
+            "found_at": "2026-05-27 15:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "신현우",
+            "title": "그대 곁에 있었음을",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/659/104/87659104_1779428225977_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115206675",
+            "found_at": "2026-05-27 15:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "우진영",
+            "title": "Galaxy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/736/87674736_1779789115512_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115254953",
+            "found_at": "2026-05-27 15:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "남선율",
+            "title": "너와의 매일을 사랑할게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/645/437/87645437_1779763625654_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115150684",
+            "found_at": "2026-05-27 15:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "김우근 & 서가의",
+            "title": "골드랜드 (오리지널 사운드트랙)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/668/829/87668829_1779668792850_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115235526",
+            "found_at": "2026-05-27 15:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "삼산",
+            "title": "산딸기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/654/823/87654823_1779845209454_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115187310",
+            "found_at": "2026-05-27 15:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "ej",
+            "title": "Bad Habit",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/655/273/87655273_1779353840041_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115190208",
+            "found_at": "2026-05-27 15:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "강예영",
+            "title": "In the Back Seat",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/121/87673121_1779759691649_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115248580",
+            "found_at": "2026-05-27 15:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "신장미",
+            "title": "달달해요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/651/754/87651754_1779436661099_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115174211",
+            "found_at": "2026-05-27 15:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "새틴 (Satin)",
+            "title": "Bedroom All-In-One",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/645/055/87645055_1779612280708_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115149176",
+            "found_at": "2026-05-27 15:12",
+            "is_tracked": false
+        },
         {
             "artist": "ALPHA DRIVE ONE (알파드라이브원)",
             "title": "No School Tomorrow",
@@ -778,14 +906,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/272/111/87272111_1771127798878_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113919512",
             "found_at": "2026-02-27 17:59",
-            "is_tracked": true
-        },
-        {
-            "artist": "NMIXX",
-            "title": "TIC TIC (feat. Pabllo Vittar)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/309/360/87309360_1771985276037_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114044740",
-            "found_at": "2026-02-26 13:01",
             "is_tracked": true
         }
     ]
