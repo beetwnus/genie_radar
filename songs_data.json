@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-30 02:16:10",
+    "updated_at": "2026-05-30 14:29:27",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,238 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "화나 (Fana)",
+            "title": "화명(和命) : Fate Accepted",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/677/631/87677631_1779847902353_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115263929",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "이윤희",
+            "title": "혼자 술 마시지 말고",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/737/87678737_1779861099253_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115267913",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "팩트 & Horim",
+            "title": "SOULFULL",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/983/87674983_1779793900561_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115255662",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "615",
+            "title": "사랑의 속도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/659/852/87659852_1780033016767_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115209593",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "안예슬",
+            "title": "너 없는 하루가 이렇게 길 줄 몰랐어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/669/954/87669954_1779849970176_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115239183",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "같은장르",
+            "title": "너를 사랑하고도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/429/87679429_1780033010891_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115271049",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "김용빈",
+            "title": "금타는 금요일 PART23",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/716/87681716_1779934907776_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115280949",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "BLOW OF",
+            "title": "3am",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/356/87679356_1779874045407_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115270906",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "유백합",
+            "title": "HANDS UP",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/987/87673987_1779849830685_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115252676",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "JuwON",
+            "title": "충전중",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/318/87681318_1779929800061_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115279462",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "FEBCHO & B Yung",
+            "title": "Premium",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/153/87682153_1779947490480_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115282375",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "이산",
+            "title": "The SCOUT ''다시 태어나는 별'' Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/628/87678628_1779858717802_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115267529",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "최윤영",
+            "title": "pool vol. 8 - 진주아파트",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/862/87678862_1779875287647_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115268442",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "The Tunas (더 튜나스)",
+            "title": "저 파도 너머",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/783/87673783_1779934730727_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115251593",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "여온 (YEO:ON)",
+            "title": "운명선",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/675/153/87675153_1779848313142_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115256038",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "곽은기",
+            "title": "Home (Part 1)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/655/293/87655293_1779441475106_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115190293",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "Pitoru & Hyertz",
+            "title": "백열",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/677/209/87677209_1779870247942_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115262949",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "벤 & LUCKSMITH",
+            "title": "LUCKSMITH VOL.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/610/87674610_1779786694636_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115254465",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "CHEEZE (치즈)",
+            "title": "멋진 신세계 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/618/87678618_1779858708714_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115267479",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "Ariana Grande",
+            "title": "hate that i made you love me",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/686/087/87686087_1780031790693_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115297223",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "송하예",
+            "title": "구독연애 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/515/87673515_1779785809435_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115250494",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "피아노맨",
+            "title": "청혼가",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/739/87678739_1779935423168_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115267915",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "Crush & Anderson .Paak",
+            "title": "K-POPS! (Music from and inspired by K-POPS! Motion Picture)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/919/87678919_1780090590513_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115268667",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤종신",
+            "title": "2026 월간 윤종신 등용문 Repair 5월호",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/950/87682950_1779958366429_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115285198",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "이소나",
+            "title": "목련",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/707/87681707_1779934666876_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115280913",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "픽보이 (Peakboy)",
+            "title": "Commercial Posh",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/624/87674624_1779934723856_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115254527",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "BewhY (비와이)",
+            "title": "POP IS CRYIN'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/598/742/87598742_1780019668687_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115286208",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "iii (아이아이아이)",
+            "title": "이상한 과자 가게 전천당 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/659/321/87659321_1779431527955_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115207636",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "이라온",
+            "title": "영원, 그리고 하루 더",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/651/307/87651307_1779612305139_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115172166",
+            "found_at": "2026-05-30 14:29",
+            "is_tracked": false
+        },
         {
             "artist": "NMIXX & Anderson .Paak",
             "title": "K-POPS! (Music from and inspired by K-POPS! Motion Picture)",
