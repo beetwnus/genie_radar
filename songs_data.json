@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-31 00:16:00",
+    "updated_at": "2026-05-31 15:05:16",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,246 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Jio",
+            "title": "sunny side up",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/617/87678617_1779858705238_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115267477",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "add9",
+            "title": "Stay For A While",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/072/87679072_1779868320582_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115269620",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "YUNHWAY (윤훼이)",
+            "title": "Killem",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/685/549/87685549_1780017122300_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115295405",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "one (원)",
+            "title": "그냥 난 이대로 널 사랑할게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/372/87681372_1779930722213_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115279724",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "라비던스",
+            "title": "guidAnce",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/331/87673331_1779934735248_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115249465",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "노블레스 (Noblesse)",
+            "title": "Not Over U",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/669/983/87669983_1779850017700_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115239244",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "PYMEL (파이멜)",
+            "title": "가는중이야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/987/87674987_1779794208382_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115255681",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "디멜로 (D'Melo)",
+            "title": "어떤 날에",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/366/87679366_1779874333987_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115270929",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "밤밤요",
+            "title": "「カタオモイ(짝사랑)」",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/107/87674107_1779849840006_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115252969",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "신지현",
+            "title": "조금만 더",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/179/87674179_1779787913084_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115253190",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "라이프라디오",
+            "title": "Eurekana",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/592/87674592_1779847164028_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115254408",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "JUN0",
+            "title": "Focal Point",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/651/656/87651656_1779612315058_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115173713",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "WURi",
+            "title": "26 degrees",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/652/492/87652492_1779524482983_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115177462",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "송재혁",
+            "title": "Don't let me go",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/543/87674543_1780033032345_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115254322",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "위지수",
+            "title": "True To Myself",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/294/87679294_1779871903587_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115270719",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "Rosy Barbie",
+            "title": "Barbie World",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/677/853/87677853_1779849096349_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115264681",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "옥상달빛",
+            "title": "인디30",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/685/525/87685525_1780016807225_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115295336",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "Tray B",
+            "title": "LLLM",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/636/87678636_1779859019873_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115267586",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "HW MUSIC",
+            "title": "TYPTM",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/686/900/87686900_1780038780875_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115300041",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "강승윤",
+            "title": "신입사원 강회장 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/335/87681335_1779930098426_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115279552",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "hvvn",
+            "title": "hvvning",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/659/333/87659333_1779935702846_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115207675",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "김동현",
+            "title": "릴레이 (Relay)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/677/688/87677688_1779847299138_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115264129",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "도영 (DOYOUNG)",
+            "title": "은밀한 감사 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/365/87682365_1779950252117_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115282990",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "BBB(비비비)",
+            "title": "The Trap (feat. Kasane Teto)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/945/87673945_1779849599562_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115252525",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "설레게",
+            "title": "GOLD CHAIN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/655/800/87655800_1779427492552_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115192692",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "anu",
+            "title": "ANUNAKI",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/985/87674985_1779794233349_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115255677",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "편승원",
+            "title": "너를 사랑했던 모든 날들이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/655/245/87655245_1779441483800_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115190068",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "화나 (Fana)",
+            "title": "화명(和命) : Fate Accepted",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/677/631/87677631_1779847902353_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115263929",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "이윤희",
+            "title": "혼자 술 마시지 말고",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/737/87678737_1779861099253_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115267913",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "팩트 & Horim",
+            "title": "SOULFULL",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/983/87674983_1779793900561_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115255662",
+            "found_at": "2026-05-31 15:05",
+            "is_tracked": false
+        },
         {
             "artist": "NMIXX & Anderson .Paak",
             "title": "K-POPS! (Music from and inspired by K-POPS! Motion Picture)",
