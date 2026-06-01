@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-01 00:36:01",
+    "updated_at": "2026-06-01 16:43:27",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,246 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "DaNTe' (단테)",
+            "title": "널 떠나 보낸 날",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/150/87682150_1779947203752_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115282370",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "aespa & Zedd",
+            "title": "LEMONADE (Zedd Remix)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/687/333/87687333_1780046496505_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115301468",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": true
+        },
+        {
+            "artist": "숙희",
+            "title": "사랑은 왜 끝이 있는 걸까",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/304/87679304_1779935438294_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115270748",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "김다현",
+            "title": "Good Shot! (New Version)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/670/028/87670028_1779850066455_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115239342",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "이아람",
+            "title": "고양이는 먼저 오지 않아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/710/87674710_1779788502815_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115254831",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "Stupinuts",
+            "title": "end credit love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/660/184/87660184_1780033063581_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115210419",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "서울달 (SEOULDAL)",
+            "title": "S2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/743/87641743_1779091893440_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115138171",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "Anonymous Artists (어나니머스 아티스트) & songseoul",
+            "title": "ARTIST. songseoul",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/374/87681374_1779930729021_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115279736",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "evenif",
+            "title": "Gray",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/024/87678024_1779875292575_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115265323",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "박형진",
+            "title": "I Am Firefly (From 'Aily in Busan')",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/659/338/87659338_1779432097119_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115207700",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "옛그리움 (Old Yearning)",
+            "title": "녹음 속 푸른 우리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/263/87673263_1779934755868_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115249106",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "더 픽스 (THE FIX)",
+            "title": "Are We There Yet?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/671/475/87671475_1780042985353_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115243823",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "Keylight",
+            "title": "답답해 (feat.h3hyeon)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/630/575/87630575_1778817414453_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115099631",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "RapidEye",
+            "title": "RapidEye Digital Mini Album",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/236/87682236_1779949345110_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115282643",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "우이경",
+            "title": "이 바보야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/651/774/87651774_1779870253242_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115174327",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "박세정",
+            "title": "나의 멸망을 꿈꾸는 너에게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/652/140/87652140_1779612325933_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115175820",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "Moze",
+            "title": "홀로, 유영",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/836/87681836_1780033045829_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115281407",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "PROD.DEX & 김모레 (kimmore)",
+            "title": "足る (original ver)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/652/402/87652402_1779269799189_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115177143",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "유오 (UO)",
+            "title": "Eternal Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/563/87678563_1779956111998_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115267265",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "Ruby Baek",
+            "title": "one midsummer night",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/842/87678842_1779957697785_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115268351",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "홍자",
+            "title": "꿀단지 (from 사랑을 처방해 드립니다 OST Part 11)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/683/038/87683038_1779959844199_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115285454",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "지아",
+            "title": "사랑 참...",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/293/87679293_1779871896016_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115270717",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "전건호",
+            "title": "내 사람입니다(2026)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/392/87682392_1779950538647_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115283145",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "범진",
+            "title": "나무가 되는 중",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/038/87674038_1779849840933_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115252800",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "린 (LYn)",
+            "title": "아이 좋아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/677/693/87677693_1779847296241_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115264177",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "허성현 (rosy)",
+            "title": "Whatta Night",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/660/065/87660065_1780033041186_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115210100",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "아우릴고트 (OUREALGOAT)",
+            "title": "다른 사람 같은 표정과 말투가",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/988/87674988_1779794213484_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115255682",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "장범준",
+            "title": "월말 장범준 '2026년 5월' - 수업시간그녀",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/677/694/87677694_1779847593096_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115264179",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "칸토",
+            "title": "ㅠBACK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/123/87646123_1779612319809_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115153772",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "라코스타 (Lacostar)",
+            "title": "라코 네트워크 3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/314/87679314_1779873099396_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115270771",
+            "found_at": "2026-06-01 16:43",
+            "is_tracked": false
+        },
         {
             "artist": "NMIXX & Anderson .Paak",
             "title": "K-POPS! (Music from and inspired by K-POPS! Motion Picture)",
