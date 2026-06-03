@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-03 16:26:52",
+    "updated_at": "2026-06-03 22:05:22",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,70 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "ZENE THE ZILLA (제네 더 질라)",
+            "title": "쌰갈",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/685/908/87685908_1780023091069_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115296755",
+            "found_at": "2026-06-03 22:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "최성곤",
+            "title": "와일드 씽 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/956/87682956_1779958604312_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115285255",
+            "found_at": "2026-06-03 22:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "Wuuslime (우슬라임)",
+            "title": "TONE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/376/87681376_1779931005168_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115279752",
+            "found_at": "2026-06-03 22:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "정이한 (더 넛츠)",
+            "title": "사랑이 아니었나 봐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/240/87679240_1779870399987_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115270407",
+            "found_at": "2026-06-03 22:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "dress & Raf Sandou",
+            "title": "MOHO",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/954/87673954_1779872833371_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115252573",
+            "found_at": "2026-06-03 22:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "케이시 (Kassy)",
+            "title": "이보다 행복할 수 있을까 (Happy&ing)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/647/87678647_1779859069588_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115267617",
+            "found_at": "2026-06-03 22:05",
+            "is_tracked": true
+        },
+        {
+            "artist": "대건",
+            "title": "다시 사랑할 수 있을까",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/202/87682202_1779949020064_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115282553",
+            "found_at": "2026-06-03 22:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "다시한번말하자면 (HAINA MAIKA PUANA)",
+            "title": "노놀 VOL 89. 다시한번말하자면 ' 코코넛 주스 '",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/970/87678970_1779958119632_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115269029",
+            "found_at": "2026-06-03 22:05",
+            "is_tracked": false
+        },
         {
             "artist": "지우근",
             "title": "어쩔 수 없어",
@@ -890,14 +954,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/038/87344038_1772761632514_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114170338",
             "found_at": "2026-03-06 17:56",
-            "is_tracked": true
-        },
-        {
-            "artist": "H1-KEY (하이키)",
-            "title": "LOVECHAPTER",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/336/847/87336847_1772593892162_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114144781",
-            "found_at": "2026-03-05 18:01",
             "is_tracked": true
         }
     ]
