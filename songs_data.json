@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-04 02:58:03",
+    "updated_at": "2026-06-04 15:59:08",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,230 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "CIELO",
+            "title": "Tu Vas A Ver",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/686/354/87686354_1780029091206_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115297954",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "천우경",
+            "title": "미끄럼틀",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/957/87682957_1779958608183_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115285281",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "아녹 (Anoc)",
+            "title": "In My Yard",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/251/87678251_1779958140218_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115266046",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "장르자유화 & 백상하 & 최유담 & huka",
+            "title": "장르자유화",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/699/977/87699977_1780381034752_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115342703",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "헤이맨 (HeyMen)",
+            "title": "Dream",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/685/922/87685922_1780023119809_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115296816",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "앨리스유",
+            "title": "도주",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/767/87681767_1779935794822_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115281222",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "HAE",
+            "title": "닻 (Dot) (Feat. Janet Suhh)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/621/87682621_1779954406090_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115284087",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "New Link",
+            "title": "Burst",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/255/87679255_1779875618109_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115270517",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "MOLiP(몰입)",
+            "title": "청춘 (너에게)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/948/87682948_1779958361542_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115285195",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "FuturePeerClub",
+            "title": "그녀의 고민",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/344/87682344_1780369036409_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115282906",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "Ziddle",
+            "title": "청소를 하자 (Clean up)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/699/166/87699166_1780368703838_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115339151",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "웬즈데이오프 (Wednesday Off)",
+            "title": "On The Road",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/038/87679038_1779956977289_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115269451",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "한우석",
+            "title": "Blue Summer Dream",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/937/87673937_1779850110877_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115252499",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "마해담",
+            "title": "여름꿈",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/951/87678951_1779931210855_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115268978",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "ZENE THE ZILLA (제네 더 질라)",
+            "title": "쌰갈",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/685/908/87685908_1780023091069_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115296755",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "최성곤",
+            "title": "와일드 씽 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/956/87682956_1779958604312_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115285255",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "Wuuslime (우슬라임)",
+            "title": "TONE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/376/87681376_1779931005168_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115279752",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "정이한 (더 넛츠)",
+            "title": "사랑이 아니었나 봐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/240/87679240_1779870399987_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115270407",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "dress & Raf Sandou",
+            "title": "MOHO",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/954/87673954_1779872833371_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115252573",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "대건",
+            "title": "다시 사랑할 수 있을까",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/202/87682202_1779949020064_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115282553",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "다시한번말하자면 (HAINA MAIKA PUANA)",
+            "title": "노놀 VOL 89. 다시한번말하자면 ' 코코넛 주스 '",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/970/87678970_1779958119632_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115269029",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "지우근",
+            "title": "어쩔 수 없어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/683/031/87683031_1779959524063_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115285444",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "이은비",
+            "title": "I miss u",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/954/87682954_1779958595339_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115285244",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "뎁트",
+            "title": "Debussy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/695/350/87695350_1780387162296_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115326250",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "Vahn",
+            "title": "널 미워하는 너에게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/654/87679654_1779888097921_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115272286",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "EXIT",
+            "title": "HOLOTYPE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/685/464/87685464_1780015612207_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115295070",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "최동혁",
+            "title": "I'll Be Your Tree",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/210/87682210_1779949016878_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115282564",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "THE 2TOP & March 12",
+            "title": "World Cup Ace",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/677/539/87677539_1779877303239_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115263749",
+            "found_at": "2026-06-04 15:59",
+            "is_tracked": false
+        },
         {
             "artist": "케이시 (Kassy)",
             "title": "이보다 행복할 수 있을까 (Happy&ing)",
