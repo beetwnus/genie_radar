@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-05 01:49:43",
+    "updated_at": "2026-06-05 15:16:31",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,238 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Taylor Swift",
+            "title": "I Knew It, I Knew You",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/715/074/87715074_1780636590684_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115395314",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "Madonna",
+            "title": "Love Sensation",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/707/486/87707486_1780507303643_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115369555",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "M1NU & WIz World",
+            "title": "M1NUWORLD 3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/683/032/87683032_1779959525416_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115285445",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "서자영",
+            "title": "멋진 신세계 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/683/502/87683502_1780367274746_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115286923",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "유명한아이 & Sonoshee cloud",
+            "title": "LIKE A STAR",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/699/672/87699672_1780551706240_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115341368",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "나의 노래 메모장",
+            "title": "Lonely",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/700/204/87700204_1780551736678_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115343673",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "othersmayforgetyoubutnoti",
+            "title": "freeway",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/709/958/87709958_1780550494228_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115378841",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "영제이 (Young Jay)",
+            "title": "dontworry",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/801/87681801_1780558965085_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115281266",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤태화",
+            "title": "미스트롯 : 포유 PART4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/710/568/87710568_1780559206330_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115381380",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "seoseo (서서)",
+            "title": "알 듯 말 듯",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/710/570/87710570_1780559200055_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115381385",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "문샤크 (MOON SHARK)",
+            "title": "오늘만은",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/708/715/87708715_1780535517276_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115374618",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "OTWO (오투)",
+            "title": "볼 때리는 그녀",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/698/401/87698401_1780384994798_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115335722",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "안예슬",
+            "title": "내 맘에 귀 기울여볼래",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/698/881/87698881_1780387475984_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115337331",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "모닝커피 (Morning Coffee)",
+            "title": "오늘 좀 예쁘지",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/930/87681930_1780558957053_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115281811",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "민주희",
+            "title": "사라지지 말아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/694/976/87694976_1780472169961_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115324423",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "블리스파이시",
+            "title": "오늘은 너에게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/968/87678968_1779931216813_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115268996",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "Cafrii (카프리)",
+            "title": "Control (Feat. Ivy Rae)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/710/310/87710310_1780555295336_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115380431",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "DAN",
+            "title": "우리는 여전히 우리일테니까",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/724/87682724_1779961048124_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115284351",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "미츠비",
+            "title": "목소리만으로도 괜찮아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/699/829/87699829_1780379221564_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115342029",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "PATEKO (파테코) & SHIRT",
+            "title": "PATZ",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/149/87682149_1779947202783_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115282367",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "유권",
+            "title": "Tú y yo",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/686/791/87686791_1780387169196_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115299701",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "Spray",
+            "title": "Back To Basic",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/700/745/87700745_1780392690442_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115346262",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "정동원",
+            "title": "이제서야 다 지우려 한다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/949/87682949_1779958371039_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115285197",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "구름",
+            "title": "사랑한다는 말은 부끄러운 게 아냐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/624/87678624_1779872838972_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115267518",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "2am",
+            "title": "영화처럼",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/771/87681771_1780389866851_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115281229",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "이지카이트 (Izykite)",
+            "title": "ee",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/245/87682245_1779949340251_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115282668",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "Klozer",
+            "title": "Klozer",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/687/254/87687254_1780043213313_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115300950",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "까치산",
+            "title": "미완 & 반복",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/962/87678962_1780020815999_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115268989",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "Munch King(먼치킹)",
+            "title": "Munch The World",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/686/707/87686707_1780035703081_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115299279",
+            "found_at": "2026-06-05 15:16",
+            "is_tracked": false
+        },
         {
             "artist": "마마무 (Mamamoo)",
             "title": "4WARD",
@@ -674,14 +906,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/497/87344497_1772765813870_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114171769",
             "found_at": "2026-03-07 17:42",
-            "is_tracked": true
-        },
-        {
-            "artist": "YEIN",
-            "title": "wawawa",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/349/87314349_1772676874180_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114065678",
-            "found_at": "2026-03-07 12:39",
             "is_tracked": true
         }
     ]
