@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-06 01:23:33",
+    "updated_at": "2026-06-06 14:36:35",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,246 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "이슬기 (HOWUS) & 남제현",
+            "title": "Orange Ripple",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/708/962/87708962_1780539094577_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115375609",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "sido",
+            "title": "Lonely",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/685/991/87685991_1780024344312_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115297014",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "지영훈",
+            "title": "오십프로 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/715/925/87715925_1780641696667_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115397471",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "이영원",
+            "title": "모르는 눈빛도 나는 다 괜찮아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/699/318/87699318_1780392459889_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115339680",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "란 (Ran)",
+            "title": "참 그리워",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/695/352/87695352_1780472100105_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115326322",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "김용빈",
+            "title": "금타는 금요일 PART24",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/715/035/87715035_1780629091220_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115395159",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "HWAN",
+            "title": "Summer Night",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/696/597/87696597_1780628163083_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115330010",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤지상",
+            "title": "여름의 대삼각형",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/946/87682946_1780629666949_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115285182",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "낭만보이",
+            "title": "내일이면",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/683/614/87683614_1779972117219_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115287305",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "Sii",
+            "title": "WALET",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/708/970/87708970_1780539104344_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115375632",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "여은",
+            "title": "조금만 더 사랑할 수가 없겠니",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/141/87682141_1780641529828_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115282328",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "권의빈",
+            "title": "The SCOUT ''다시 태어나는 별'' Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/715/016/87715016_1780628805211_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115395078",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "마하 (Macha)",
+            "title": "Higher",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/685/718/87685718_1780383325628_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115296058",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "하즈 (HASE)",
+            "title": "괴이현상",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/687/765/87687765_1780542012826_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115303381",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "Omar and the Eastern Power (오마르와 동방전력)",
+            "title": "Half seat",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/076/87679076_1779930904159_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115269624",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "주원 (Joowon)",
+            "title": "아지트 (Azit)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/708/972/87708972_1780539118235_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115375635",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "Taylor Swift",
+            "title": "I Knew It, I Knew You",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/715/074/87715074_1780636590684_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115395314",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "4BOUT (어바웃)",
+            "title": "참교육 (Soundtrack from the Netflix Series)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/683/019/87683019_1779959492768_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115285391",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "김민석 (멜로망스)",
+            "title": "여름집 상 (上)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/710/556/87710556_1780558525308_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115381299",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "Madonna",
+            "title": "Love Sensation",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/707/486/87707486_1780507303643_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115369555",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "에스프레소",
+            "title": "보고싶다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/683/501/87683501_1779969716063_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115286920",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "노을 & 이사호",
+            "title": "사랑이 끝나도 오늘은 아니야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/711/280/87711280_1780566694542_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115383325",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "JEY & 88kief",
+            "title": "Midnight Blue",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/708/885/87708885_1780537383825_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115375135",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "Deepshower (딥샤워)",
+            "title": "항아 (姮娥)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/608/87682608_1780385814558_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115284042",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "Ann One & 프레디 카소(Fredi Casso)",
+            "title": "Wabi Sabi (Feat. ILLSON)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/572/87682572_1780484588478_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115283874",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "KOU & 김민중",
+            "title": "shyshy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/708/714/87708714_1780535513872_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115374617",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "uwallnamu",
+            "title": "밸런스 게임",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/908/87681908_1780383069747_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115281657",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "Mombrimz",
+            "title": "KUNG FU",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/699/160/87699160_1780387485300_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115339110",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "신해솔",
+            "title": "Movin'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/686/796/87686796_1780542008670_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115299709",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "X909",
+            "title": "구독연애 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/910/87681910_1780562833276_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115281665",
+            "found_at": "2026-06-06 14:36",
+            "is_tracked": false
+        },
         {
             "artist": "마마무 (Mamamoo)",
             "title": "4WARD",
