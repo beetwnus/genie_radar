@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-07 15:12:30",
+    "updated_at": "2026-06-07 19:15:45",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,62 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "구수경",
+            "title": "철부지 사랑 (from 사랑을 처방해 드립니다 OST Part 12)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/709/889/87709889_1780549890797_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115378708",
+            "found_at": "2026-06-07 19:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "정하경",
+            "title": "'연희동 사람들' OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/686/095/87686095_1780025493439_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115297253",
+            "found_at": "2026-06-07 19:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "문수진 (Moon Sujin)",
+            "title": "limbo (feat. pH-1)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/699/773/87699773_1780387175496_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115341900",
+            "found_at": "2026-06-07 19:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "더베인 (THE VANE)",
+            "title": "신입사원 강회장 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/715/957/87715957_1780642594938_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115397617",
+            "found_at": "2026-06-07 19:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "양정훈",
+            "title": "아름다웠다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/716/032/87716032_1780644402921_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115397967",
+            "found_at": "2026-06-07 19:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "HOON & 그리오 (GRIO)",
+            "title": "Crazy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/708/974/87708974_1780539126565_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115375638",
+            "found_at": "2026-06-07 19:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "연서",
+            "title": "길고양이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/714/998/87714998_1780628229353_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115394951",
+            "found_at": "2026-06-07 19:15",
+            "is_tracked": false
+        },
         {
             "artist": "KOREANGROOVE",
             "title": "K-808",
@@ -890,14 +946,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/276/87356276_1773035275741_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114205707",
             "found_at": "2026-03-10 18:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "윤하 (YOUNHA)",
-            "title": "윤하 리메이크 앨범 '써브캐릭터 원'",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/207/064/87207064_1772788347139_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114176710",
-            "found_at": "2026-03-09 18:06",
             "is_tracked": true
         }
     ]
