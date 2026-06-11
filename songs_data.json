@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-11 16:14:07",
+    "updated_at": "2026-06-11 20:53:58",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,118 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Yunu",
+            "title": "inmymind (Feat. Jean Vice)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/715/981/87715981_1780643495108_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115397720",
+            "found_at": "2026-06-11 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "Seori",
+            "title": "My Gravity (with 김종완 of NELL)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/733/619/87733619_1780990935350_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115453622",
+            "found_at": "2026-06-11 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "NOWIMYOUNG (나우아임영)",
+            "title": "천국 (HEAVEN)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/739/737/87739737_1781075911236_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115474674",
+            "found_at": "2026-06-11 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "TWS (투어스)",
+            "title": "Dream With Us",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/744/359/87744359_1781142092934_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115488598",
+            "found_at": "2026-06-11 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "한 (Stray Kids)",
+            "title": "back to life",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/739/715/87739715_1781075791282_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115474622",
+            "found_at": "2026-06-11 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "이재욱",
+            "title": "SHADOW",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/739/911/87739911_1781078256290_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115475192",
+            "found_at": "2026-06-11 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "황가람",
+            "title": "어게인 프로젝트 PT.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/620/87678620_1781083156955_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115267482",
+            "found_at": "2026-06-11 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "JUNNY (주니)",
+            "title": "Heaven Can Wait",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/740/435/87740435_1781082437389_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115476383",
+            "found_at": "2026-06-11 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "파란노을 (Parannoul)",
+            "title": "상처 (Remaining)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/699/556/87699556_1781051879079_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115340839",
+            "found_at": "2026-06-11 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "W24",
+            "title": "water gushes",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/339/87726339_1780905174615_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115431606",
+            "found_at": "2026-06-11 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "Yakovv & Dopein",
+            "title": "No Alcohol Funk",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/121/87726121_1781067877550_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115430691",
+            "found_at": "2026-06-11 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "도현 (진소리)",
+            "title": "콜",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/732/218/87732218_1781069551815_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115448722",
+            "found_at": "2026-06-11 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "KAGOH",
+            "title": "TRAINING ROOM",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/737/676/87737676_1781055755142_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115466677",
+            "found_at": "2026-06-11 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "SOUTH KIDD",
+            "title": "FOMO",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/740/015/87740015_1781078879213_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115475511",
+            "found_at": "2026-06-11 20:53",
+            "is_tracked": false
+        },
         {
             "artist": "IOHBOY (아이오보이)",
             "title": "사랑했다 말해요",
