@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-14 15:55:52",
+    "updated_at": "2026-06-14 19:36:18",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,70 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "지지원 (ZZONE)",
+            "title": "We Grow",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/700/382/87700382_1780387903917_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115344487",
+            "found_at": "2026-06-14 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "하슬 (ARTMS)",
+            "title": "Again",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/733/152/87733152_1780984353480_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115452351",
+            "found_at": "2026-06-14 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "먼데이 키즈 & 이홍기 (FT아일랜드)",
+            "title": "먼키의 발자국 Vol.3 With 이홍기 (FT아일랜드)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/415/87745415_1781156810546_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115493099",
+            "found_at": "2026-06-14 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "박다혜 & 마크툽 (Maktub)",
+            "title": "청춘의 일렉트로니카 ❍ 青春のエレクトロニカ (the Electronica of Youth)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/574/87745574_1781181393730_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115493905",
+            "found_at": "2026-06-14 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "CLOSE YOUR EYES (클로즈 유어 아이즈)",
+            "title": "신입사원 강회장 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/785/87745785_1781163426976_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115494799",
+            "found_at": "2026-06-14 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "리플리 (RIPLEY)",
+            "title": "DAISY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/739/346/87739346_1781072581776_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115473131",
+            "found_at": "2026-06-14 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "김뮤지엄 (KIMMUSEUM)",
+            "title": "사실 가끔 나 너를 사랑하지만",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/377/87745377_1781156499224_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115492950",
+            "found_at": "2026-06-14 19:36",
+            "is_tracked": false
+        },
+        {
+            "artist": "PS영준",
+            "title": "우리, 아직 여기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/360/87726360_1781156712542_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115431722",
+            "found_at": "2026-06-14 19:36",
+            "is_tracked": false
+        },
         {
             "artist": "김시원",
             "title": "이별기한",
@@ -906,14 +970,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/384/854/87384854_1773628296803_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114293662",
             "found_at": "2026-03-17 18:08",
-            "is_tracked": true
-        },
-        {
-            "artist": "민니 (MINNIE)",
-            "title": "세이렌 OST Part.3",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/375/503/87375503_1773362501920_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114265418",
-            "found_at": "2026-03-16 18:14",
             "is_tracked": true
         }
     ]
