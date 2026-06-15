@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-15 15:31:56",
+    "updated_at": "2026-06-15 17:32:55",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,102 @@
         ]
     },
     "songs": [
+        {
+            "artist": "RIIZE",
+            "title": "II - The 2nd Mini Album",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/749/918/87749918_1781229797261_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87749918",
+            "found_at": "2026-06-15 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "호시",
+            "title": "SNAPBACK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/762/320/87762320_1781480490992_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87762320",
+            "found_at": "2026-06-15 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "i-dle (아이들)",
+            "title": "Crow",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/602/87745602_1781160429695_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87745602",
+            "found_at": "2026-06-15 17:32",
+            "is_tracked": true
+        },
+        {
+            "artist": "준케이 (JUN. K)",
+            "title": "Midnight Ticket",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/744/714/87744714_1781146624713_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87744714",
+            "found_at": "2026-06-15 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "정대현",
+            "title": "무인도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/733/007/87733007_1781181402044_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87733007",
+            "found_at": "2026-06-15 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "KAINA",
+            "title": "In my bed",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/732/156/87732156_1780968692363_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87732156",
+            "found_at": "2026-06-15 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "도유카 (doyouka)",
+            "title": "닥터 섬보이 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/731/067/87731067_1780960372625_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87731067",
+            "found_at": "2026-06-15 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "SAY MY NAME (세이마이네임)",
+            "title": "너의향기 (한류시작 20th 프로젝트 Part.8)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/762/660/87762660_1781488025285_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87762660",
+            "found_at": "2026-06-15 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "강남",
+            "title": "메이플스토리 OST : 디어 마이 히어로",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/709/911/87709911_1780550190662_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87709911",
+            "found_at": "2026-06-15 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "장수빈",
+            "title": "흐린 구름 아래",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/710/124/87710124_1781166973657_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87710124",
+            "found_at": "2026-06-15 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "전철민",
+            "title": "구독연애 OST Part.6",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/740/249/87740249_1781165008333_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87740249",
+            "found_at": "2026-06-15 17:32",
+            "is_tracked": false
+        },
+        {
+            "artist": "모노클리퍼",
+            "title": "[SPL-1220]",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/740/405/87740405_1781227453341_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87740405",
+            "found_at": "2026-06-15 17:32",
+            "is_tracked": false
+        },
         {
             "artist": "Kenshi Yonezu",
             "title": "Karasu - Raven",
