@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-16 22:25:44",
+    "updated_at": "2026-06-17 02:57:33",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -153,30 +153,6 @@
     },
     "songs": [
         {
-            "artist": "미완소년",
-            "title": "Middle.i",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/672/802/87672802_1781490597466_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87672802",
-            "found_at": "2026-06-16 22:25",
-            "is_tracked": false
-        },
-        {
-            "artist": "초록불꽃소년단",
-            "title": "노브레인 30주년 Part.2",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/749/964/87749964_1781230319961_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87749964",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "홍이삭",
-            "title": "닥터 섬보이 OST Part.4",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/731/764/87731764_1780965437903_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87731764",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
             "artist": "STAYC (스테이씨)",
             "title": "2:LOVE",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/392/87763392_1781508391064_1_140x140.JPG/dims/resize/Q_80,0",
@@ -185,220 +161,12 @@
             "is_tracked": true
         },
         {
-            "artist": "소향",
-            "title": "My Little New Diary. Part 6",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/590/87745590_1781181407835_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87745590",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "jeebanoff",
-            "title": "그냥 잠깐",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/175/87726175_1781487135794_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87726175",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "뮤지",
-            "title": "장마",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/751/537/87751537_1781256997573_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87751537",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "변진섭",
-            "title": "홀로 아리랑 (feat. 정인)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/750/854/87750854_1781251861844_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87750854",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
             "artist": "로시 (Rothy)",
             "title": "Don't Be",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/398/87763398_1781508400753_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763398",
             "found_at": "2026-06-16 17:02",
             "is_tracked": true
-        },
-        {
-            "artist": "뉘뉘 (NUITNUIT)",
-            "title": "너의 날(Happy Birthday To You)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/744/504/87744504_1781255468854_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87744504",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "김항 & Jamiwana",
-            "title": "AntisocialLifeStyle",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/992/87745992_1781577234650_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87745992",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "SUDI",
-            "title": "저주",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/205/87726205_1780896690812_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87726205",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "연애세포",
-            "title": "사랑이라고 말하고 싶어",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/794/87745794_1781163707981_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87745794",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "서이브 (SEO EVE)",
-            "title": "미완성",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/106/87726106_1781247392706_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87726106",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "설하윤",
-            "title": "흔들어",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/740/287/87740287_1781168243492_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87740287",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "정다빈 (DA-BIN)",
-            "title": "Comcard",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/762/570/87762570_1781485898614_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87762570",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "제린 (JER!N)",
-            "title": "기쁜 우리 좋은 날 OST Part.3",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/283/87763283_1781504796305_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763283",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "비크 (SOTK)",
-            "title": "그냥 보고 싶었어",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/278/87763278_1781504790969_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763278",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "BARA",
-            "title": "ZEN",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/787/87745787_1781163434923_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87745787",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "배우리",
-            "title": "이제야 안녕",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/744/148/87744148_1781169296985_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87744148",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "SHINDRUM",
-            "title": "리듬소망사랑",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/739/063/87739063_1781487093655_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87739063",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "여로",
-            "title": "그때 우리가",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/130/87763130_1781502090916_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763130",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "views in i (뷰즈인아이)",
-            "title": "압구정로데오 새디스틱",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/744/200/87744200_1781158654360_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87744200",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "녹이녹",
-            "title": "내 옷은 냄새가 없다.",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/732/327/87732327_1780994813647_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87732327",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "장혜리",
-            "title": "안아주세요",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/751/224/87751224_1781250716842_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87751224",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "Around (어라운드)",
-            "title": "Walkin Like A Neon",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/746/586/87746586_1781487119599_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87746586",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "이상은",
-            "title": "Oh My Sunshine",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/295/87745295_1781251858063_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87745295",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "김레전드",
-            "title": "첫 번째 남자 OST Part.3",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/747/069/87747069_1781504426600_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87747069",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "HRDN",
-            "title": "BABO",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/732/407/87732407_1781181406072_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87732407",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "플라잉독 (Flying Dog)",
-            "title": "Tonight (feat. 윤세나)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/244/87726244_1781251844327_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87726244",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
-        },
-        {
-            "artist": "RIIZE",
-            "title": "II - The 2nd Mini Album",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/749/918/87749918_1781229797261_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87749918",
-            "found_at": "2026-06-16 17:02",
-            "is_tracked": false
         },
         {
             "artist": "i-dle (아이들)",
