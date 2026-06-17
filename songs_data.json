@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-17 16:35:14",
+    "updated_at": "2026-06-17 20:56:53",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,94 @@
         ]
     },
     "songs": [
+        {
+            "artist": "넬 (NELL)",
+            "title": "X",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/749/520/87749520_1781224331934_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87749520",
+            "found_at": "2026-06-17 20:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "NTX (엔티엑스)",
+            "title": "GO",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/767/394/87767394_1781578355838_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87767394",
+            "found_at": "2026-06-17 20:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "온앤오프 (ONF)",
+            "title": "ONF:MY SELF",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/766/981/87766981_1781572617588_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87766981",
+            "found_at": "2026-06-17 20:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "팔로알토 (Paloalto) & 요시 (Yosi)",
+            "title": "정신건강",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/768/385/87768385_1781591711430_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87768385",
+            "found_at": "2026-06-17 20:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "탑현",
+            "title": "바다의 왕자",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/768/887/87768887_1781598390870_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87768887",
+            "found_at": "2026-06-17 20:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "dodree (도드리)",
+            "title": "라일락",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/364/87763364_1781507793489_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763364",
+            "found_at": "2026-06-17 20:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "USPEER (유스피어)",
+            "title": "USPEER 1st MINI ALBUM ［BITE DISTRICT］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/768/932/87768932_1781598827275_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87768932",
+            "found_at": "2026-06-17 20:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "Molly Yam",
+            "title": "TIKTOKSTAⅡ",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/764/204/87764204_1781589899355_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87764204",
+            "found_at": "2026-06-17 20:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "란 (Ran)",
+            "title": "사악한 공작 영애의 우울 OST Part.11",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/750/605/87750605_1781576025594_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87750605",
+            "found_at": "2026-06-17 20:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "새라세린",
+            "title": "별 대신 네가",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/049/87763049_1781663809181_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763049",
+            "found_at": "2026-06-17 20:56",
+            "is_tracked": false
+        },
+        {
+            "artist": "정연수",
+            "title": "그대 없는 난 아무것도 아니죠",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/276/87726276_1781487167725_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87726276",
+            "found_at": "2026-06-17 20:56",
+            "is_tracked": false
+        },
         {
             "artist": "Zayvo (제이보)",
             "title": "두식이에게",
