@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-23 14:58:03",
+    "updated_at": "2026-06-23 20:14:42",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,110 @@
         ]
     },
     "songs": [
+        {
+            "artist": "보라미유",
+            "title": "닥터 섬보이 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/784/409/87784409_1781851943534_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87784409",
+            "found_at": "2026-06-23 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "GGM Kimbo",
+            "title": "OHWOOYA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/609/87794609_1782111108143_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794609",
+            "found_at": "2026-06-23 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "권진아",
+            "title": "SAVE ME",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/793/913/87793913_1782094294949_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87793913",
+            "found_at": "2026-06-23 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "려욱 (RYEOWOOK)",
+            "title": "Runaway",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/960/87794960_1782115950410_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794960",
+            "found_at": "2026-06-23 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "VAYONN",
+            "title": "Watta Day",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/754/87726754_1780913616408_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87726754",
+            "found_at": "2026-06-23 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "JMIN",
+            "title": "FOREVER KIDS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/795/108/87795108_1782118295013_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87795108",
+            "found_at": "2026-06-23 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "크루셜스타 (CRUCiAL STAR)",
+            "title": "찬란했던 한 시절을 함께한 우리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/930/87794930_1782115606236_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794930",
+            "found_at": "2026-06-23 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "케빈오",
+            "title": "my girl",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/014/87794014_1782097881153_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794014",
+            "found_at": "2026-06-23 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "CLASSy (클라씨)",
+            "title": "RE:BOOT ［눈물 이후］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/784/098/87784098_1782094963348_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87784098",
+            "found_at": "2026-06-23 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "아스터 (ASTER)",
+            "title": "야호 (feat. JUNG Ent.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/778/912/87778912_1782128086389_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87778912",
+            "found_at": "2026-06-23 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "잠골버스 (준헌) & 순순희(미러볼)",
+            "title": "소주한짝",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/768/422/87768422_1781684407530_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87768422",
+            "found_at": "2026-06-23 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "FIFTY FIFTY",
+            "title": "내일도 출근! OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/915/87794915_1782115299421_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794915",
+            "found_at": "2026-06-23 20:14",
+            "is_tracked": true
+        },
+        {
+            "artist": "D.I",
+            "title": "Unlocking",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/778/110/87778110_1781747926082_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87778110",
+            "found_at": "2026-06-23 20:14",
+            "is_tracked": false
+        },
         {
             "artist": "여진(L∞na)",
             "title": "Lv2",
