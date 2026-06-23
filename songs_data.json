@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-23 02:52:50",
+    "updated_at": "2026-06-23 14:58:03",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,238 @@
         ]
     },
     "songs": [
+        {
+            "artist": "여진(L∞na)",
+            "title": "Lv2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/793/843/87793843_1782091903822_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87793843",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "add9",
+            "title": "DREAM",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/779/797/87779797_1781773291437_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87779797",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "Cmnd",
+            "title": "404 Girl",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/783/639/87783639_1781839933456_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87783639",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "쏜애플 (THORNAPPLE)",
+            "title": "나의 세기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/774/600/87774600_1781761457466_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87774600",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "알레프 (ALEPH)",
+            "title": "And, the end",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/236/87726236_1781144792600_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87726236",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "숙희",
+            "title": "내 하루는 왜 자꾸 너만 찾아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/793/912/87793912_1782094290991_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87793912",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "NUGU TG",
+            "title": "프로젝트 누구(NUGU) Vol 02. 역시는 역시",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/927/87794927_1782115594562_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794927",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "27RING",
+            "title": "심종수",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/775/023/87775023_1782118398852_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87775023",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "소피 (sophy)",
+            "title": "한여름 토마토",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/780/161/87780161_1782097866330_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87780161",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "이날 (YNR)",
+            "title": "Can't live without you",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/778/821/87778821_1781862928927_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87778821",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "ABTB",
+            "title": "RAWTIDE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/571/87763571_1781848222504_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763571",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "리디아 (Lydia)",
+            "title": "이젠 괜찮을줄 알았는데",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/784/017/87784017_1782088178364_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87784017",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "Moon (혜원)",
+            "title": "Paper Wing",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/784/389/87784389_1781851612524_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87784389",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "floryy",
+            "title": "여름비",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/793/884/87793884_1782092524630_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87793884",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "전영록 & ChaeA",
+            "title": "돌이키지마",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/775/088/87775088_1782090295968_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87775088",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "냥아치",
+            "title": "전하지 못한 그 말",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/703/87794703_1782112640815_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794703",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "최목영",
+            "title": "Book",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/784/440/87784440_1781852004464_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87784440",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "노네 (none)",
+            "title": "커피 없으면 못 살지, 근데 안 먹고 싶어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/779/044/87779044_1781762496000_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87779044",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "블루피쉬 (blue fish)",
+            "title": "너라는 이유",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/768/055/87768055_1782177458868_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87768055",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "소음발광",
+            "title": "핑크티",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/513/87745513_1782093166971_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87745513",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "에반(EVAN)",
+            "title": "RIDE OR DIE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/784/189/87784189_1781848303608_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87784189",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "이츠",
+            "title": "NAME.",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/772/852/87772852_1781661218757_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87772852",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "라비 (RAVI)",
+            "title": "녘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/774/317/87774317_1781685489617_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87774317",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "매드 클라운 (Mad Clown)",
+            "title": "티났어 (Feat. 죠지)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/783/525/87783525_1781838105253_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87783525",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "ODEE & HOLYDAY",
+            "title": "YATA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/768/077/87768077_1781752579465_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87768077",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "안타레스 (ANTARES)",
+            "title": "트리거 (TRIGGER)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/779/455/87779455_1782094545736_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87779455",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "BKWAN(비콴)",
+            "title": "돈독해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/778/929/87778929_1781847120561_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87778929",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "원준 (엘라스트 (E'LAST)",
+            "title": "구독연애 OST Part.8",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/768/275/87768275_1782093710321_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87768275",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "키제 (Ki:XÉ)",
+            "title": "˃mew˂",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/783/454/87783454_1781836295798_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87783454",
+            "found_at": "2026-06-23 14:58",
+            "is_tracked": false
+        },
         {
             "artist": "Hearts2Hearts (하츠투하츠)",
             "title": "Lemon Tang - The 2nd Mini Album",
