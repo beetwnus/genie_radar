@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-24 01:21:23",
+    "updated_at": "2026-06-24 14:55:36",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,246 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Stray Kids (스트레이 키즈)",
+            "title": "RUN IT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/799/707/87799707_1782184334436_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87799707",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "버나드 박",
+            "title": "Ride",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/774/374/87774374_1781674314519_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87774374",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "12월",
+            "title": "12월의 안녕",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/784/891/87784891_1781857897919_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87784891",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "해서웨이 (hathaw9y)",
+            "title": "Lovers",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/783/945/87783945_1782184017081_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87783945",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "굿나잇스탠드",
+            "title": "What do you think about us (Feat.쿼카 of 디너프)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/779/622/87779622_1782198198675_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87779622",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "연정 (YEONJEONG)",
+            "title": "GO",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/801/073/87801073_1782205595263_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87801073",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "1300",
+            "title": "clear out the room",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/780/728/87780728_1781797295449_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87780728",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "Shane",
+            "title": "Bolero",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/799/345/87799345_1782180697315_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87799345",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "Luca minor",
+            "title": "When it stops raining (tape mastered)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/779/721/87779721_1782266242561_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87779721",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "NILD (닐드)",
+            "title": "Summer Breeze (feat. YOUHA)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/784/851/87784851_1781857057242_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87784851",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "최종준",
+            "title": "In Summer !",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/795/145/87795145_1782119190950_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87795145",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "최아인",
+            "title": "Top Secret",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/800/326/87800326_1782194522459_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87800326",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "ROYDO",
+            "title": "뫼비우스의 띠",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/798/378/87798378_1782170201854_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87798378",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "YSL ZØN & SideCtrl",
+            "title": "Good One",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/799/521/87799521_1782182230537_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87799521",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "리누 (Lee-Nu)",
+            "title": "스치는 바람과 페어링 된 너를",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/762/550/87762550_1782119072068_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87762550",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "Mabinc",
+            "title": "가위 바위 보",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/783/437/87783437_1782206970924_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87783437",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "이보람",
+            "title": "내가 많이 널 좋아하나 봐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/779/290/87779290_1782184092422_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87779290",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "마션 (Martian) & 비누션 (Venusian)",
+            "title": "Venusian on Mars",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/775/072/87775072_1782193878952_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87775072",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "OYSTERS",
+            "title": "FATPIG",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/784/581/87784581_1782205954853_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87784581",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "Dnevv (드네브)",
+            "title": "Way Up",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/779/007/87779007_1782207287593_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87779007",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "보라미유",
+            "title": "닥터 섬보이 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/784/409/87784409_1781851943534_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87784409",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "GGM Kimbo",
+            "title": "OHWOOYA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/609/87794609_1782111108143_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794609",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "권진아",
+            "title": "SAVE ME",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/793/913/87793913_1782094294949_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87793913",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "려욱 (RYEOWOOK)",
+            "title": "Runaway",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/960/87794960_1782115950410_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794960",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "VAYONN",
+            "title": "Watta Day",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/754/87726754_1780913616408_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87726754",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "JMIN",
+            "title": "FOREVER KIDS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/795/108/87795108_1782118295013_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87795108",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "크루셜스타 (CRUCiAL STAR)",
+            "title": "찬란했던 한 시절을 함께한 우리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/930/87794930_1782115606236_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794930",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "케빈오",
+            "title": "my girl",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/014/87794014_1782097881153_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794014",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "CLASSy (클라씨)",
+            "title": "RE:BOOT ［눈물 이후］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/784/098/87784098_1782094963348_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87784098",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "아스터 (ASTER)",
+            "title": "야호 (feat. JUNG Ent.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/778/912/87778912_1782128086389_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87778912",
+            "found_at": "2026-06-24 14:55",
+            "is_tracked": false
+        },
         {
             "artist": "FIFTY FIFTY",
             "title": "내일도 출근! OST Part.1",
