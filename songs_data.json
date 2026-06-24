@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-24 14:55:36",
+    "updated_at": "2026-06-24 20:00:36",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,94 @@
         ]
     },
     "songs": [
+        {
+            "artist": "JAEHA (재하)",
+            "title": "걸 (Feat. 기리보이)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/793/911/87793911_1782094298385_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87793911",
+            "found_at": "2026-06-24 20:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "민수",
+            "title": "WHERE TO GO (feat. Chihiro Yasuda)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/628/87794628_1782206987860_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794628",
+            "found_at": "2026-06-24 20:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "AxMxP (에이엠피)",
+            "title": "편의점 불빛 (24 Hours)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/801/064/87801064_1782205343379_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87801064",
+            "found_at": "2026-06-24 20:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "coa white",
+            "title": "homage",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/798/969/87798969_1782177092095_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87798969",
+            "found_at": "2026-06-24 20:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤마치 (MRCH)",
+            "title": "내일도 출근! OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/801/050/87801050_1782205382497_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87801050",
+            "found_at": "2026-06-24 20:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "dodree (도드리)",
+            "title": "HAWWAH (夏渦)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/800/053/87800053_1782190891660_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87800053",
+            "found_at": "2026-06-24 20:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "초코와 바닐라",
+            "title": "사랑에 빠지는 타이밍 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/800/677/87800677_1782199067747_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87800677",
+            "found_at": "2026-06-24 20:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "임세준",
+            "title": "시간이 아주 많이 지나도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/768/573/87768573_1782195914085_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87768573",
+            "found_at": "2026-06-24 20:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "린지 (Leenzy)",
+            "title": "I'm in NY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/774/288/87774288_1781673126244_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87774288",
+            "found_at": "2026-06-24 20:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "프림로즈",
+            "title": "Cosmic",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/784/260/87784260_1782124167945_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87784260",
+            "found_at": "2026-06-24 20:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "전현재 (JEON NOW)",
+            "title": "첫사랑과 한강",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/584/87745584_1782094980545_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87745584",
+            "found_at": "2026-06-24 20:00",
+            "is_tracked": false
+        },
         {
             "artist": "Stray Kids (스트레이 키즈)",
             "title": "RUN IT",
