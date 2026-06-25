@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-25 14:55:24",
+    "updated_at": "2026-06-25 19:49:25",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,102 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Way Ched (웨이체드)",
+            "title": "우산도 없이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/804/677/87804677_1782265917084_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87804677",
+            "found_at": "2026-06-25 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "빈첸 & 니온 (NE:ON)",
+            "title": "SWITCH.zip",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/768/806/87768806_1781597495673_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87768806",
+            "found_at": "2026-06-25 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "래원 (Layone)",
+            "title": "2종보통멋쟁이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/801/529/87801529_1782211301859_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87801529",
+            "found_at": "2026-06-25 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "송하예",
+            "title": "밤 하늘의 별을 (2026 ver.) X 사랑 첫 번째 이야기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/766/641/87766641_1782291833684_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87766641",
+            "found_at": "2026-06-25 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "Anita & Kik5o",
+            "title": "FAVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/798/724/87798724_1782305315729_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87798724",
+            "found_at": "2026-06-25 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "김창운",
+            "title": "어쩌다가 난",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/806/111/87806111_1782284263187_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87806111",
+            "found_at": "2026-06-25 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤석철",
+            "title": "Ocean",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/804/859/87804859_1782268317480_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87804859",
+            "found_at": "2026-06-25 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "니브 (NIve)",
+            "title": "End: Under the Golden Sky",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/768/351/87768351_1782098713236_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87768351",
+            "found_at": "2026-06-25 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "cosmosy",
+            "title": "Paradise ~ I need you ~",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/266/87745266_1781154712854_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87745266",
+            "found_at": "2026-06-25 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "이한올 (Hanol)",
+            "title": "정하지 않은 결말(Open Ending)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/805/486/87805486_1782277029677_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87805486",
+            "found_at": "2026-06-25 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "뉴챔프",
+            "title": "Last dance",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/805/802/87805802_1782288605404_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87805802",
+            "found_at": "2026-06-25 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "Chilloop (칠룹)",
+            "title": "Wait! (feat. Chan)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/779/047/87779047_1781762499986_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87779047",
+            "found_at": "2026-06-25 19:49",
+            "is_tracked": false
+        },
         {
             "artist": "ZIWOO",
             "title": "그 땐",
