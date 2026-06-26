@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-26 15:01:51",
+    "updated_at": "2026-06-26 19:49:26",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,134 @@
         ]
     },
     "songs": [
+        {
+            "artist": "from20 (프롬트웬티)",
+            "title": "Rated R",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/778/290/87778290_1781749924636_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87778290",
+            "found_at": "2026-06-26 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "ALPHA DRIVE ONE (알파드라이브원)",
+            "title": "김부장 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/795/112/87795112_1782118368554_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87795112",
+            "found_at": "2026-06-26 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "황치열",
+            "title": "I LOVE SUMMER",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/811/859/87811859_1782364900361_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87811859",
+            "found_at": "2026-06-26 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "이승윤",
+            "title": "0집",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/774/692/87774692_1782294812238_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87774692",
+            "found_at": "2026-06-26 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "김희재",
+            "title": "이런 날 기다렸나요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/805/108/87805108_1782356417152_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87805108",
+            "found_at": "2026-06-26 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "POW (파우)",
+            "title": "Happy Depression",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/811/714/87811714_1782362800426_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87811714",
+            "found_at": "2026-06-26 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "HITGS (힛지스)",
+            "title": "［Things We Dream : Vol.2］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/811/836/87811836_1782364600663_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87811836",
+            "found_at": "2026-06-26 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "entoy",
+            "title": "Soft Candy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/810/847/87810847_1782351722198_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87810847",
+            "found_at": "2026-06-26 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "수엔 (Suen)",
+            "title": "Girlfriend",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/564/87794564_1782124173566_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794564",
+            "found_at": "2026-06-26 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "비더후드(B THE HOOD)",
+            "title": "Lowkey",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/800/010/87800010_1782189701613_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87800010",
+            "found_at": "2026-06-26 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "Kimmy gone & TAICHU & Evar",
+            "title": "Changes (TAICHU, Evar Remix)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/811/851/87811851_1782364892635_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87811851",
+            "found_at": "2026-06-26 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "셀린 (Celine)",
+            "title": "장마",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/810/547/87810547_1782348452531_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87810547",
+            "found_at": "2026-06-26 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "위지수",
+            "title": "6.8인치 세상",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/800/283/87800283_1782193949548_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87800283",
+            "found_at": "2026-06-26 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "하모 (hamo)",
+            "title": "구원",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/784/615/87784615_1782105621862_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87784615",
+            "found_at": "2026-06-26 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "The Gun & PULL UP 22",
+            "title": "Right There",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/811/109/87811109_1782355592373_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87811109",
+            "found_at": "2026-06-26 19:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "안예슬",
+            "title": "고마워 내 곁에 있어줘서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/800/696/87800696_1782282803736_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87800696",
+            "found_at": "2026-06-26 19:49",
+            "is_tracked": false
+        },
         {
             "artist": "ATEEZ (에이티즈)",
             "title": "GOLDEN HOUR : Part.5",
