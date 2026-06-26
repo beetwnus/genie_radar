@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-26 01:22:41",
+    "updated_at": "2026-06-26 15:01:51",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,246 @@
         ]
     },
     "songs": [
+        {
+            "artist": "ATEEZ (에이티즈)",
+            "title": "GOLDEN HOUR : Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/805/651/87805651_1782278613507_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87805651",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "Justin Bieber",
+            "title": "SWAG LIVE FROM COACHELLA (Weekend I)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/815/603/87815603_1782451050452_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87815603",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "Benson Boone",
+            "title": "The Time Of My Life",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/798/660/87798660_1782182828326_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87798660",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "Olivia Foa'i & Opetaia Foa'i & Matatia Foa'i & Disney",
+            "title": "Moana (Original Motion Picture Soundtrack)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/810/027/87810027_1782339091936_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87810027",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "Daexon & 최전설",
+            "title": "진빼이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/800/418/87800418_1782196315684_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87800418",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "쇼빈",
+            "title": "청춘해장",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/793/975/87793975_1782095491109_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87793975",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "한림 (Hanlim)",
+            "title": "Summer playlist",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/804/690/87804690_1782366390722_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87804690",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "현서 (HYUN SEO)",
+            "title": "비뚝",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/799/704/87799704_1782184328378_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87799704",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "허찬미 & 임지수",
+            "title": "미스트롯 : 포유 PART7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/811/825/87811825_1782364323371_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87811825",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "1DAY",
+            "title": "지나가보니",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/805/869/87805869_1782281494307_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87805869",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "김유나",
+            "title": "너라는 틈에",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/811/716/87811716_1782363127838_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87811716",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "류니콘",
+            "title": "10년 후 나와의 영상통화",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/783/749/87783749_1782356866853_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87783749",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "블러셔 (Blusher)",
+            "title": "우리의 시작이 좋은 걸",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/804/782/87804782_1782356895353_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87804782",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "홍정구",
+            "title": "Waves",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/774/947/87774947_1781684266058_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87774947",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "INSU",
+            "title": "Indigo",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/800/466/87800466_1782196893162_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87800466",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "J.Fla",
+            "title": "How Could I Be This Into You",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/041/87794041_1782096705832_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794041",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "서도 (sEODo) & 완기",
+            "title": "Pp (Project project) - 1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/872/87794872_1782365778796_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794872",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "카페모카",
+            "title": "처음 말하는 비밀",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/784/005/87784005_1782294832763_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87784005",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "TOMO (토모) & 원식 (Too Many Color (TMC))",
+            "title": "검사실의 제안 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/355/87794355_1782282799423_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794355",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "Way Ched (웨이체드)",
+            "title": "우산도 없이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/804/677/87804677_1782265917084_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87804677",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "빈첸 & 니온 (NE:ON)",
+            "title": "SWITCH.zip",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/768/806/87768806_1781597495673_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87768806",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "래원 (Layone)",
+            "title": "2종보통멋쟁이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/801/529/87801529_1782211301859_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87801529",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "송하예",
+            "title": "밤 하늘의 별을 (2026 ver.) X 사랑 첫 번째 이야기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/766/641/87766641_1782291833684_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87766641",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "Anita & Kik5o",
+            "title": "FAVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/798/724/87798724_1782305315729_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87798724",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "김창운",
+            "title": "어쩌다가 난",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/806/111/87806111_1782284263187_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87806111",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤석철",
+            "title": "Ocean",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/804/859/87804859_1782268317480_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87804859",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "니브 (NIve)",
+            "title": "End: Under the Golden Sky",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/768/351/87768351_1782098713236_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87768351",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "cosmosy",
+            "title": "Paradise ~ I need you ~",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/266/87745266_1781154712854_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87745266",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "이한올 (Hanol)",
+            "title": "정하지 않은 결말(Open Ending)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/805/486/87805486_1782277029677_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87805486",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "뉴챔프",
+            "title": "Last dance",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/805/802/87805802_1782288605404_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87805802",
+            "found_at": "2026-06-26 15:01",
+            "is_tracked": false
+        },
         {
             "artist": "윤마치 (MRCH)",
             "title": "내일도 출근! OST Part.2",
