@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-27 14:35:20",
+    "updated_at": "2026-06-27 19:03:39",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,102 @@
         ]
     },
     "songs": [
+        {
+            "artist": "김소희 (KIMSOHEE)",
+            "title": "BEGIN AGAIN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/799/697/87799697_1782184313203_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87799697",
+            "found_at": "2026-06-27 19:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "몬트 (M.O.N.T)",
+            "title": "UNLOCK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/806/240/87806240_1782285163164_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87806240",
+            "found_at": "2026-06-27 19:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "차가을",
+            "title": "내 안부",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/812/033/87812033_1782366800910_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87812033",
+            "found_at": "2026-06-27 19:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "sAewoo (세우)",
+            "title": "I LOVE THIS ALBUM*",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/804/906/87804906_1782268903220_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87804906",
+            "found_at": "2026-06-27 19:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "이규라",
+            "title": "터질 것 같아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/815/438/87815438_1782442596135_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87815438",
+            "found_at": "2026-06-27 19:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "JOOAN & 김대훈",
+            "title": "BLUE Signal",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/811/973/87811973_1782366122335_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87811973",
+            "found_at": "2026-06-27 19:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "LODiVE (로다이브)",
+            "title": "Flo Flo",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/584/87794584_1782124177607_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794584",
+            "found_at": "2026-06-27 19:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "뷰 (view)",
+            "title": "비",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/800/496/87800496_1782197222824_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87800496",
+            "found_at": "2026-06-27 19:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "TIGER STUDIO & 정상수 & 뉴챔프 & 타래 (Tarae) & TANK (탱크)",
+            "title": "OKAY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/811/262/87811262_1782357413797_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87811262",
+            "found_at": "2026-06-27 19:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "LiaR",
+            "title": "銀河鉄道(은하철도)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/812/567/87812567_1782379678567_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87812567",
+            "found_at": "2026-06-27 19:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "Navy Effect",
+            "title": "Past Lives",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/785/222/87785222_1782296423863_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87785222",
+            "found_at": "2026-06-27 19:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤여규",
+            "title": "NONSTOP (2026)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/691/416/87691416_1780483079548_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87691416",
+            "found_at": "2026-06-27 19:03",
+            "is_tracked": false
+        },
         {
             "artist": "Junguk (정욱)",
             "title": "DISCO SUIT",
