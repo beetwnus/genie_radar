@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-28 15:09:17",
+    "updated_at": "2026-06-28 19:15:43",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,94 @@
         ]
     },
     "songs": [
+        {
+            "artist": "나상현씨밴드",
+            "title": "부러지지 않는",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/775/182/87775182_1781688701527_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87775182",
+            "found_at": "2026-06-28 19:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "아샤트리",
+            "title": "세상에 뿌려진 사랑만큼",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/812/096/87812096_1782369095282_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87812096",
+            "found_at": "2026-06-28 19:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "#안녕",
+            "title": "옛 생각",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/812/185/87812185_1782387703289_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87812185",
+            "found_at": "2026-06-28 19:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "DK (디셈버)",
+            "title": "Forever (DK(디셈버) X 배낭메고 버스킹 3)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/811/366/87811366_1782358639045_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87811366",
+            "found_at": "2026-06-28 19:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "homezone & BünyTune (버니튠)",
+            "title": "BünyTune ep.5 [Red Line]",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/802/351/87802351_1782353137234_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87802351",
+            "found_at": "2026-06-28 19:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "필독 (feeldog)",
+            "title": "5, 6, 7, 8",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/811/270/87811270_1782357417826_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87811270",
+            "found_at": "2026-06-28 19:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "unofficialboyy & YOONNOSUKE",
+            "title": "MY B",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/811/096/87811096_1782355318867_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87811096",
+            "found_at": "2026-06-28 19:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "OSUM (오썸)",
+            "title": "모닝토스트",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/812/287/87812287_1782373892599_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87812287",
+            "found_at": "2026-06-28 19:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "릴라즈(RILLAZ)",
+            "title": "술이야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/815/199/87815199_1782437220013_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87815199",
+            "found_at": "2026-06-28 19:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "오아 (OHAH)",
+            "title": "항해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/800/745/87800745_1782367327103_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87800745",
+            "found_at": "2026-06-28 19:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "예온",
+            "title": "바람을 가르던 날",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/785/826/87785826_1782296682202_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87785826",
+            "found_at": "2026-06-28 19:15",
+            "is_tracked": false
+        },
         {
             "artist": "황지언 (hwangjieon)",
             "title": "바다로 (feat. 123, 박현진, YUNG CHENS)",
