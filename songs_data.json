@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-01 15:19:10",
+    "updated_at": "2026-07-01 20:16:42",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,86 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Paul Blanco",
+            "title": "짜파게티",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/825/330/87825330_1782699096127_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87825330",
+            "found_at": "2026-07-01 20:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "재희 (JAEHEE) & 유하 (YUHA)",
+            "title": "사랑의 하츄핑: 고래보석의 전설 Special OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/815/049/87815049_1782434207058_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87815049",
+            "found_at": "2026-07-01 20:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "김건모",
+            "title": "어디쯤 가고 있을까",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/827/035/87827035_1782803632448_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87827035",
+            "found_at": "2026-07-01 20:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "BIG Naughty (서동현)",
+            "title": "이 노래는 이름이 J로 시작하는 너에게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/830/928/87830928_1782815805243_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87830928",
+            "found_at": "2026-07-01 20:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "Blue.D",
+            "title": "Not Perfect Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/340/454/87340454_1782812723172_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87340454",
+            "found_at": "2026-07-01 20:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "유아유 (UAU)",
+            "title": "Playlist #Your Youth",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/815/923/87815923_1782820307395_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87815923",
+            "found_at": "2026-07-01 20:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "서인국",
+            "title": "내일도 출근! OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/830/939/87830939_1782816125783_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87830939",
+            "found_at": "2026-07-01 20:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "마야",
+            "title": "원하는 거 다 해봐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/806/629/87806629_1782453743767_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87806629",
+            "found_at": "2026-07-01 20:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "더 픽스 (THE FIX)",
+            "title": "DIE IN THE MOSHPIT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/805/297/87805297_1782868761078_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87805297",
+            "found_at": "2026-07-01 20:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "Mamuu",
+            "title": "Nighty night, Mamuu NIGHT!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/826/126/87826126_1782713802090_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87826126",
+            "found_at": "2026-07-01 20:16",
+            "is_tracked": false
+        },
         {
             "artist": "김보경 (NEON)",
             "title": "별의 요람(Twilight)",
