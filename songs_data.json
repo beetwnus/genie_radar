@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-03 14:41:20",
+    "updated_at": "2026-07-03 19:41:00",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,78 @@
         ]
     },
     "songs": [
+        {
+            "artist": "최항석과 부기몬스터",
+            "title": "Human Scramble",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/835/996/87835996_1782895991084_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87835996",
+            "found_at": "2026-07-03 19:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "신예영",
+            "title": "기억속의 먼 그대에게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/815/202/87815202_1782437504747_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87815202",
+            "found_at": "2026-07-03 19:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "BE'O (비오)",
+            "title": "Cherry Cola",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/840/329/87840329_1782985040989_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87840329",
+            "found_at": "2026-07-03 19:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "viceversa",
+            "title": "MZ MDNG (Feat. EK)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/838/960/87838960_1782960152169_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87838960",
+            "found_at": "2026-07-03 19:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "너드커넥션 (Nerd Connection)",
+            "title": "파도의 고점",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/840/332/87840332_1782985044729_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87840332",
+            "found_at": "2026-07-03 19:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "파로구공(8590)",
+            "title": "너에게 하지 못한 말",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/840/166/87840166_1782982319280_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87840166",
+            "found_at": "2026-07-03 19:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "NAEWON",
+            "title": "여전해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/835/917/87835917_1782956333663_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87835917",
+            "found_at": "2026-07-03 19:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "레몬 트리 (Lemon Tree)",
+            "title": "Like Ice Cream",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/815/658/87815658_1782890955967_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87815658",
+            "found_at": "2026-07-03 19:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "2Z (투지)",
+            "title": "검사실의 제안 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/830/214/87830214_1782952307984_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87830214",
+            "found_at": "2026-07-03 19:41",
+            "is_tracked": false
+        },
         {
             "artist": "Justin Bieber",
             "title": "SWAG LIVE FROM COACHELLA (Weekend II)",
