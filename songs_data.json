@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-05 14:49:24",
+    "updated_at": "2026-07-05 19:12:52",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,70 @@
         ]
     },
     "songs": [
+        {
+            "artist": "TYVE",
+            "title": "Disposable",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/830/396/87830396_1782804711404_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87830396",
+            "found_at": "2026-07-05 19:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "레이나",
+            "title": "널 사랑하나봐 (Feat. 안재우)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/835/695/87835695_1783042955144_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87835695",
+            "found_at": "2026-07-05 19:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "백예슬",
+            "title": "이제는 어떻게 사랑을 하나요 X BY CHANCE PROJECT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/842/984/87842984_1783044119287_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87842984",
+            "found_at": "2026-07-05 19:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "OHYUL of LNGSHOT",
+            "title": "결혼의 완성 Original Sound Track Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/838/813/87838813_1783065565632_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87838813",
+            "found_at": "2026-07-05 19:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "PAAK",
+            "title": "NAMU!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/843/235/87843235_1783048309195_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87843235",
+            "found_at": "2026-07-05 19:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "GEMBIT (잼빗)",
+            "title": "Neon Clover",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/840/070/87840070_1782995919553_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87840070",
+            "found_at": "2026-07-05 19:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "Osher",
+            "title": "Morning Call",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/840/441/87840441_1782989219464_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87840441",
+            "found_at": "2026-07-05 19:12",
+            "is_tracked": false
+        },
+        {
+            "artist": "Mondo Lu",
+            "title": "CowB02",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/829/049/87829049_1782892680468_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87829049",
+            "found_at": "2026-07-05 19:12",
+            "is_tracked": false
+        },
         {
             "artist": "키제 (Ki:XÉ)",
             "title": "Ketchup",
