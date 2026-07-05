@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-05 00:14:50",
+    "updated_at": "2026-07-05 14:49:24",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,246 @@
         ]
     },
     "songs": [
+        {
+            "artist": "키제 (Ki:XÉ)",
+            "title": "Ketchup",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/839/845/87839845_1782976353021_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87839845",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "엘더 얼그레이",
+            "title": "Black Water",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/826/140/87826140_1782714709672_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87826140",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "Hookuo (후쿠오)",
+            "title": "Tonight",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/838/965/87838965_1782960137708_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87838965",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "아이보리 (Ivory)",
+            "title": "때로는",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/839/734/87839734_1783062734299_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87839734",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "AGAMI",
+            "title": "LOVEBUG",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/834/005/87834005_1783059641534_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87834005",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "우희준",
+            "title": "즐거운 사라",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/815/823/87815823_1782957727306_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87815823",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "김학",
+            "title": "검은새",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/830/397/87830397_1782804712265_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87830397",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "모닝커피 (Morning Coffee)",
+            "title": "이별은 왜 아프게 해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/834/965/87834965_1783043959792_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87834965",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "BLUE WHAILL",
+            "title": "Uhh-",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/840/073/87840073_1782995915442_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87840073",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "박서령",
+            "title": "네이버 웹툰 ＜다육이는 잘 자란다＞ OST '평범한 하루'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/840/131/87840131_1782984062352_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87840131",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "Anonymous Artists (어나니머스 아티스트) & 교은",
+            "title": "ARTIST. 교은",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/842/947/87842947_1783043618621_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87842947",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "HAV (하브)",
+            "title": "Do we have to love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/843/567/87843567_1783062719392_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87843567",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "필제 (Pil xae)",
+            "title": "love so much",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/829/110/87829110_1782892669128_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87829110",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "DAN",
+            "title": "심장소리를 느껴봐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/829/582/87829582_1782906406351_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87829582",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "TRADE L (트레이드 엘)",
+            "title": "TT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/830/601/87830601_1782808294550_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87830601",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "블라세 (BLASÉ)",
+            "title": "김부장 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/826/049/87826049_1782872112460_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87826049",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "임창정",
+            "title": "탓탓탓",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/843/242/87843242_1783048891520_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87843242",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "하현우 (국카스텐)",
+            "title": "결혼의 완성 Original Sound Track Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/811/896/87811896_1783065553393_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87811896",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "엘 (L)",
+            "title": "드라마 '공감세포' Original Soundtrack Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/806/611/87806611_1783065321631_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87806611",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "김중연",
+            "title": "우리정이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/838/962/87838962_1782960147338_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87838962",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "모브닝 (MOVNING)",
+            "title": "내가 새겨진 길",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/843/764/87843764_1783059098131_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87843764",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "RAPH4EL",
+            "title": "W4STED",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/835/952/87835952_1782995911185_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87835952",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "NARIN",
+            "title": "GRAVITY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/805/606/87805606_1782957723253_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87805606",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "원지 (WONJI)",
+            "title": "Stay Here",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/834/951/87834951_1783043955789_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87834951",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "스윙스 (Swings) & 율음 & shinjihang & 그냥노창 & hyeminsong",
+            "title": "파급효과2 (Ripple Effect2)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/843/241/87843241_1783048641376_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87843241",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "신경준",
+            "title": "누군가를 사랑할 수 있다는 건",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/816/941/87816941_1782892491439_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87816941",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "심아론",
+            "title": "FILM IN RHYTHM",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/830/311/87830311_1782803534235_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87830311",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "유일 (u1)",
+            "title": "SYMPHONY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/835/189/87835189_1782886366554_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87835189",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "1300",
+            "title": "Headrock (feat. GIRIBOY)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/825/802/87825802_1782705992641_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87825802",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "임세모",
+            "title": "OVER",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/811/721/87811721_1782957713592_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87811721",
+            "found_at": "2026-07-05 14:49",
+            "is_tracked": false
+        },
         {
             "artist": "태연 (TAEYEON)",
             "title": "J-POP REMAKE Vol.1",
