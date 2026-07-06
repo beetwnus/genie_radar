@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-06 15:53:53",
+    "updated_at": "2026-07-06 20:57:50",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,86 @@
         ]
     },
     "songs": [
+        {
+            "artist": "니엘 (틴탑)",
+            "title": "California",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/830/524/87830524_1782807104308_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87830524",
+            "found_at": "2026-07-06 20:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "강태관",
+            "title": "사슬같은 사랑",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/839/154/87839154_1782963099940_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87839154",
+            "found_at": "2026-07-06 20:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "VAYONN",
+            "title": "Youth Today",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/540/87794540_1782109029085_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794540",
+            "found_at": "2026-07-06 20:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "밀리그램 (MILLIGRAM)",
+            "title": "Ordinary days",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/829/899/87829899_1782995934746_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87829899",
+            "found_at": "2026-07-06 20:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "이예지",
+            "title": "싫어 (I hate it)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/843/227/87843227_1783048012196_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87843227",
+            "found_at": "2026-07-06 20:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "Luci Gang",
+            "title": "무한궤도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/842/917/87842917_1783043200375_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87842917",
+            "found_at": "2026-07-06 20:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "심은진",
+            "title": "가족관계증명서 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/835/691/87835691_1783043966793_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87835691",
+            "found_at": "2026-07-06 20:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "정창룡",
+            "title": "내가 바보라서 그래",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/843/859/87843859_1783061822993_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87843859",
+            "found_at": "2026-07-06 20:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "이세준 (유리상자)",
+            "title": "Month Lee 2607",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/834/330/87834330_1782968467149_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87834330",
+            "found_at": "2026-07-06 20:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "SUMIN (수민)",
+            "title": "EL DIEZ (10th Anniversary Compilation)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/816/117/87816117_1783059051972_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87816117",
+            "found_at": "2026-07-06 20:57",
+            "is_tracked": false
+        },
         {
             "artist": "Holynn (홀린)",
             "title": "A E I O U",
