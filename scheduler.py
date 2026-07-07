@@ -7,7 +7,7 @@ from datetime import datetime, timedelta, timezone
 
 # ==========================================
 # 1. 設定監控藝人名單 (改為使用藝人 ID 追蹤)
-# 格式: "藝人ID": "自訂顯示名稱"
+# 格式: "藝人ID": "自訂顯示名稱 (給側邊欄用的)"
 # ==========================================
 TRACKED_ARTISTS = {
     "KR": {
@@ -81,11 +81,11 @@ def scrape_job():
 
                 # === 判斷是否為追蹤藝人 ===
                 is_tracked = False
-                display_artist_name = original_artist_name
+                # 💡 這裡直接保持原始名稱，不再用我們字典裡的名稱覆蓋它
+                display_artist_name = original_artist_name 
 
                 if artist_id and artist_id in flat_tracked_ids:
                     is_tracked = True
-                    display_artist_name = flat_tracked_ids[artist_id] 
                 
                 link_id = song['songid']
                 song_link = f"https://www.genie.co.kr/detail/songInfo?xgnm={link_id}"
@@ -133,7 +133,6 @@ def scrape_job():
     full_song_list = new_songs + existing_songs
     now_tw = get_taiwan_time()
     today_date = now_tw.date()
-    # === 將保留時間改為 180 天 ===
     cutoff_180 = now_tw - timedelta(days=180)
     final_list = []
     tz_tw = get_taiwan_timezone()
@@ -146,7 +145,6 @@ def scrape_job():
             is_my_artist = song.get('is_tracked', False)
             
             if is_my_artist:
-                # === 判定是否超過 180 天 ===
                 if song_datetime > cutoff_180:
                     final_list.append(song)
             else:
@@ -155,6 +153,7 @@ def scrape_job():
         except ValueError:
             final_list.append(song)
 
+        # 這裡會從 TRACKED_ARTISTS 裡抓取「你自訂的名字」送到前端側邊欄
         sorted_tracked_artists = {
             category: sorted(list(artists.values()), key=lambda x: x.lower()) 
             for category, artists in TRACKED_ARTISTS.items() if artists
