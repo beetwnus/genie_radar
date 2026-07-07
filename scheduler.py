@@ -13,7 +13,7 @@ MY_ARTISTS = {
         "ADORA", "ADYA", "aespa", "AKMU", "Apink",
         "BABYMONSTER", "BADVILLAIN", "Baek A Yeon", "BBGIRLS",
         "Billlie", "BLACKPINK", "BOL4", "BTS", "Choi Yoo jung", 
-        "Chung Ha", "CLASS:y", "CSR", "Dreamcatcher", "EL7Z UP", "Ellui", 
+        "Chung Ha", "CLASSy", "CSR", "Dreamcatcher", "EL7Z UP", "Ellui", 
         "Eunha", "EVERGLOW", "FIFTY FIFTY", "fromis_9", "Geenius", "GFRIEND",
         "GOT the beat", "Gyubin", "H1-KEY", "Hayeon", "Hearts2Hearts", "Hebi",
         "HUH YUNJIN", "HwaSa", "Hyoyeon", "i-dle", "ILLIT", "ILY:1",
