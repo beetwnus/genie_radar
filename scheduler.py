@@ -6,17 +6,144 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta, timezone
 
 # ==========================================
-# 1. 設定監控藝人名單 (改為使用藝人 ID 追蹤)
-# 格式: "藝人ID": "自訂顯示名稱 (給側邊欄用的)"
+# 1. 設定監控藝人名單 (支援 ID 與名字雙軌追蹤)
+# 
+# 規則：
+# - 如果左邊是「純數字」，系統會精準比對藝人 ID。
+# - 如果左邊是「文字(中英韓)」，系統會比對藝人名稱。
+# - 右邊則是你在側邊欄與歌曲卡片上想顯示的「自訂乾淨名稱」。
 # ==========================================
 TRACKED_ARTISTS = {
     "KR": {
+        "80957377": "aespa",
+        "80197389": "AKMU",
+        "80131399": "Apink",
+        "82934007": "Baby DONT Cry",
+        "82262194": "BABYMONSTER",
+        "82507911": "BADVILLAIN",
+        "80158972": "Baek A Yeon",
+        "82072751": "BBGIRLS",
+        "80667991": "BIBI",
+        "81254551": "Billlie",
+        "80539764": "BLACKPINK",
+        "80316854": "BOL4",
+        "80519791": "Choi Yoo jung",
+        "80519790": "Chung Ha",
+        "81394103": "CLASS:y",
+        "80347927": "CLC",
+        "81491030": "CSR",
+        "80560326": "Dreamcatcher",
+        "82164268": "EL7Z UP",
+        "81223544": "Ellui",
+        "80441312": "Eunha",
+        "80682661": "EVERGLOW",
+        "81630823": "FIFTY FIFTY",
+        "80606382": "fromis_9",
+        "80327727": "GFRIEND",
+        "82162588": "Gyubin",
+        "81289352": "H1-KEY",
+        "80923087": "Hayeon",
         "82779545": "Hearts2Hearts",
-        "80632010": "i-dle"
-        # ⚠️ 請在此處繼續加入其他 KR 藝人的 ID
+        "82833348": "Hebi",
+        "81399607": "HUH YUNJIN",
+        "80441390": "HwaSa",
+        "80632010": "i-dle",
+        "82387391": "ILLIT",
+        "81354329": "ILY:1",
+        "80679336": "ITZY",
+        "67872918": "IU",
+        "81271496": "IVE",
+        "80660177": "IZ*ONE",
+        "82704290": "izna",
+        "80539780": "Jennie",
+        "80468937": "JIHYO",
+        "80539782": "JISOO",
+        "80661354": "JO YURI",
+        "80441325": "Joy",
+        "80661359": "Kang Hye Won",
+        "81286392": "Kep1er",
+        "82792175": "KiiiKiii",
+        "80519786": "Kim Sejeong",
+        "80668350": "KIMDOAH",
+        "82007551": "KISS OF LIFE",
+        "80661358": "Kwon Eun Bi",
+        "80704912": "KyoungSeo",
+        "83176183": "LATENCY",
+        "81397289": "LE SSERAFIM",
+        "80661363": "LEE CHAE YEON",
+        "80158970": "LEE HI",
+        "81131367": "LIGHTSUM",
+        "80539781": "Lisa",
+        "80279134": "Mamamoo",
+        "80632475": "Minnie",
+        "80632474": "Miyeon",
+        "80441388": "Moonbyul",
+        "80740728": "MRCH",
+        "80468933": "NAYEON",
+        "81490206": "NewJeans",
+        "81326040": "NMIXX",
+        "80357324": "OH MY GIRL",
+        "82209678": "QWER",
+        "80284018": "Red Velvet",
+        "82379125": "RESCENE",
+        "80539779": "Rosé",
+        "80602557": "Rothy",
+        "81165501": "Saebit",
+        "81655094": "Seo Dahyun",
+        "80441324": "SEULGI",
+        "80441314": "SINB",
+        "80794774": "siso",
+        "80441387": "Solar",
+        "80519789": "Somi",
+        "80632471": "SOOJIN",
+        "79948613": "Soyeon",  
+        "80953355": "STAYC",
+        "80119174": "Suzy",
+        "56069675": "Taeyeon",
+        "79930356": "T-ara",
+        "81599561": "tripleS",
+        "80463902": "TWICE",
+        "80468941": "TZUYU",
+        "80441315": "Umji",
+        "81333511": "VIVIZ",
+        "80258051": "Wendy",
+        "80441389": "Wheein",
+        "80957384": "WINTER",
+        "80505860": "WJSN",
+        "80840761": "woo!ah!",
+        "80661355": "YENA",
+        "80441311": "Yerin",
+        "42307533": "Younha",
+        "80441313": "Yuju",
+        "42114005": "Yunsae",
+        "80632473": "Yuqi"
+        # ⚠️ 請在此處繼續加入
     },
     "JP": {
-        # ⚠️ 請在此處繼續加入其他 JP 藝人的 ID
+        "80163641": "Ado",
+        "82204740": "Ai Tomioka",
+        "80430477": "Aimer",
+        "80566612": "aimyon",
+        "82623175": "Aooo",
+        "81084320": "ATARAYO",
+        "81016237": "BAND-MAID",
+        "80923631": "chilldspot",
+        "81189253": "Chilli Beans",
+        "82802328": "Faulieu",
+        "82779519": "HANA",
+        "80163390": "LiSA",
+        "80622875": "Majiko",
+        "82570285": "NEK!",
+        "80649539": "ReoNa",
+        "81408764": "TRiDENT",
+        "82389809": "tuki.",
+        "81021172": "yama",
+        "80847403": "YOASOBI",
+        "80729088": "Yorushika",
+        "81145659": "Yuika",
+        "80661613": "ZUTOMAYO",
+        "82783169": "ねぎ塩豚丼"
+        # ⚠️ 請在此處繼續加入
     }
 }
 
@@ -41,6 +168,20 @@ def load_existing_data():
         except: return []
     return []
 
+def is_artist_match(target, text):
+    """
+    判斷 text 中是否包含目標藝人 target (用於名字追蹤)。
+    """
+    target = target.lower()
+    text = text.lower()
+    
+    # 如果 target 只包含英文字母或數字，使用單字邊界檢查防誤判 (例如避免 HANA 誤判 MANEHANA)
+    if re.match(r'^[a-z0-9]+$', target):
+        pattern = r'(?:^|[^a-z0-9])' + re.escape(target) + r'(?:$|[^a-z0-9])'
+        return re.search(pattern, text) is not None
+        
+    return target in text
+
 # ==========================================
 # 主邏輯
 # ==========================================
@@ -51,11 +192,16 @@ def scrape_job():
     existing_links = {song['link'] for song in existing_songs}
     new_songs = []
 
-    # 將分類的藝人 ID 扁平化，方便快速比對
+    # 將名單分類為 ID 追蹤與名字追蹤
     flat_tracked_ids = {}
+    flat_tracked_names = {}
+    
     for category, artists in TRACKED_ARTISTS.items():
-        for artist_id, artist_name in artists.items():
-            flat_tracked_ids[str(artist_id)] = artist_name
+        for track_key, display_name in artists.items():
+            if track_key.isdigit():
+                flat_tracked_ids[str(track_key)] = display_name
+            else:
+                flat_tracked_names[str(track_key)] = display_name
     
     try:
         url = "https://www.genie.co.kr/newest/song"
@@ -79,13 +225,20 @@ def scrape_job():
                     if match_artist:
                         artist_id = match_artist.group(1)
 
-                # === 判斷是否為追蹤藝人 ===
                 is_tracked = False
-                # 💡 這裡直接保持原始名稱，不再用我們字典裡的名稱覆蓋它
-                display_artist_name = original_artist_name 
+                display_artist_name = original_artist_name
 
+                # === 判斷 1：先比對 ID ===
                 if artist_id and artist_id in flat_tracked_ids:
                     is_tracked = True
+                    display_artist_name = flat_tracked_ids[artist_id]
+                # === 判斷 2：若 ID 沒中，再比對名字 ===
+                else:
+                    for name_key, custom_name in flat_tracked_names.items():
+                        if is_artist_match(name_key, original_artist_name):
+                            is_tracked = True
+                            display_artist_name = custom_name
+                            break
                 
                 link_id = song['songid']
                 song_link = f"https://www.genie.co.kr/detail/songInfo?xgnm={link_id}"
@@ -155,7 +308,7 @@ def scrape_job():
 
         # 這裡會從 TRACKED_ARTISTS 裡抓取「你自訂的名字」送到前端側邊欄
         sorted_tracked_artists = {
-            category: sorted(list(artists.values()), key=lambda x: x.lower()) 
+            category: sorted(list(set(artists.values())), key=lambda x: x.lower()) 
             for category, artists in TRACKED_ARTISTS.items() if artists
         }
 
