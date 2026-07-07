@@ -1,0 +1,251 @@
+{
+    "updated_at": "2026-07-07 12:14:46",
+    "tracked_artists": {
+        "KR": [
+            "Hearts2Hearts",
+            "i-dle"
+        ]
+    },
+    "songs": [
+        {
+            "artist": "HOO",
+            "title": "Haunted",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/842/926/87842926_1783043543073_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87842926",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "율",
+            "title": "너와의 이별은 처음이라",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/840/111/87840111_1782981100590_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87840111",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "알레프 (ALEPH)",
+            "title": "this",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/830/074/87830074_1782906410173_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87830074",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "Keith Ape",
+            "title": "HERE COMES THE PAIN!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/851/892/87851892_1783302993478_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87851892",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "예람",
+            "title": "어린시절",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/840/050/87840050_1783056672431_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87840050",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "빨간의자",
+            "title": "아직 여름은 끝나지 않아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/843/886/87843886_1783315346517_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87843886",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "한이서",
+            "title": "뒤로 가지 않는 지하철",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/843/953/87843953_1783063895431_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87843953",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "NUGU INGA",
+            "title": "프로젝트 누구(NUGU) Vol 03. 아픈 기다림",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/856/086/87856086_1783389713304_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87856086",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "대박임 (주대건, 박장현, 임도혁)",
+            "title": "321Q",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/834/927/87834927_1782968769947_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87834927",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "엠비오 (AmbiO)",
+            "title": "Summer Special Single ［BLUE SPLASH］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/839/728/87839728_1783056677958_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87839728",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "Miiro (미로)",
+            "title": "DMRV 26SS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/852/887/87852887_1783325493998_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87852887",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "aiai & homs",
+            "title": "LESS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/852/133/87852133_1783311706858_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87852133",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "케이윌 (K.Will)",
+            "title": "닥터 섬보이 OST SPECIAL",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/834/358/87834358_1782876813930_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87834358",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "ZIN CHOI",
+            "title": "TGIFS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/825/965/87825965_1783329938381_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87825965",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "이제 & Colortones (컬러톤즈)",
+            "title": "colorise: 배경과 집 #이제순",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/851/933/87851933_1783304226913_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87851933",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "AEILO (에일로)",
+            "title": "Smoking High",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/840/079/87840079_1783334569896_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87840079",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "그리드웨이",
+            "title": "멀어지는 내 모습",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/838/925/87838925_1783307253928_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87838925",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "비비안 (BBAHN)",
+            "title": "사악한 공작 영애의 우울 OST Part.14",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/842/991/87842991_1783307123884_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87842991",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "니엘 (틴탑)",
+            "title": "California",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/830/524/87830524_1782807104308_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87830524",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "i-dle",
+            "title": "We made",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/602/87745602_1783138959792_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87745602",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": true
+        },
+        {
+            "artist": "강태관",
+            "title": "사슬같은 사랑",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/839/154/87839154_1782963099940_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87839154",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "VAYONN",
+            "title": "Youth Today",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/540/87794540_1782109029085_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794540",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "밀리그램 (MILLIGRAM)",
+            "title": "Ordinary days",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/829/899/87829899_1782995934746_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87829899",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "이예지",
+            "title": "싫어 (I hate it)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/843/227/87843227_1783048012196_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87843227",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "Luci Gang",
+            "title": "무한궤도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/842/917/87842917_1783043200375_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87842917",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "심은진",
+            "title": "가족관계증명서 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/835/691/87835691_1783043966793_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87835691",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "정창룡",
+            "title": "내가 바보라서 그래",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/843/859/87843859_1783061822993_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87843859",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "이세준 (유리상자)",
+            "title": "Month Lee 2607",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/834/330/87834330_1782968467149_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87834330",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "SUMIN (수민)",
+            "title": "EL DIEZ (10th Anniversary Compilation)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/816/117/87816117_1783059051972_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87816117",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "Holynn (홀린)",
+            "title": "A E I O U",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/840/361/87840361_1782985907130_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87840361",
+            "found_at": "2026-07-07 12:14",
+            "is_tracked": false
+        }
+    ]
+}
