@@ -372,5 +372,69 @@
             "found_at": "2026-07-07 13:34",
             "is_tracked": false
         }
+                {
+            "artist": "태연 (TAEYEON)",
+            "title": "J-POP REMAKE Vol.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/812/081/87812081_1782367891095_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87812081",
+            "found_at": "2026-06-29 21:15",
+            "is_tracked": true
+        },
+        {
+            "artist": "윤마치 (MRCH)",
+            "title": "내일도 출근! OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/801/050/87801050_1782205382497_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87801050",
+            "found_at": "2026-06-24 20:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "FIFTY FIFTY",
+            "title": "내일도 출근! OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/915/87794915_1782115299421_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794915",
+            "found_at": "2026-06-23 20:14",
+            "is_tracked": true
+        },
+        {
+            "artist": "Hearts2Hearts (하츠투하츠)",
+            "title": "Lemon Tang - The 2nd Mini Album",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/793/964/87793964_1782095127073_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87793964",
+            "found_at": "2026-06-22 17:20",
+            "is_tracked": true
+        },
+        {
+            "artist": "March 12 & BiBi Babydoll",
+            "title": "Funk Coreano",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/762/846/87762846_1781505291840_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87762846",
+            "found_at": "2026-06-21 16:09",
+            "is_tracked": true
+        },
+        {
+            "artist": "FIFTY FIFTY & Alawn",
+            "title": "Like a Bubble (Alawn Remix)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/757/87726757_1780913618831_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87726757",
+            "found_at": "2026-06-19 16:39",
+            "is_tracked": true
+        },
+        {
+            "artist": "STAYC (스테이씨)",
+            "title": "2:LOVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/392/87763392_1781508391064_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763392",
+            "found_at": "2026-06-16 17:02",
+            "is_tracked": true
+        },
+        {
+            "artist": "로시 (Rothy)",
+            "title": "Don't Be",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/398/87763398_1781508400753_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763398",
+            "found_at": "2026-06-16 17:02",
+            "is_tracked": true
+        }
     ]
 }
