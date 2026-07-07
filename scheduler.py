@@ -6,46 +6,21 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta, timezone
 
 # ==========================================
-# 1. 設定監控藝人名單 (分類為 KR 與 JP)
+# 1. 設定監控藝人名單 (改為使用藝人 ID 追蹤)
+# 格式: "藝人ID": "自訂顯示名稱"
 # ==========================================
-MY_ARTISTS = {
-    "KR": [
-        "ADORA", "ADYA", "aespa", "AKMU", "Apink",
-        "BABYMONSTER", "BADVILLAIN", "Baek A Yeon", "BBGIRLS",
-        "Billlie", "BLACKPINK", "BOL4", "BTS", "Choi Yoo jung", 
-        "Chung Ha", "CLASSy", "CSR", "Dreamcatcher", "EL7Z UP", "Ellui", 
-        "Eunha", "EVERGLOW", "FIFTY FIFTY", "fromis_9", "Geenius", "GFRIEND",
-        "GOT the beat", "Gyubin", "H1-KEY", "Hayeon", "Hearts2Hearts", "Hebi",
-        "HUH YUNJIN", "HwaSa", "Hyoyeon", "i-dle", "ILLIT", "ILY:1",
-        "ITZY", "IU", "IVE", "izna", "Jennie", "Jeong hyo bean",
-        "JIHYO", "JISOO", "JO YURI", "Joy", "Kang Hye Won",
-        "KARD", "Kassy", "Kep1er", "KiiiKiii", "Kim Mi Jeong",
-        "Kim Sejeong", "KIMDOAH", "KISS OF LIFE", "Kwon Eun Bi",
-        "KyoungSeo", "LE SSERAFIM", "LEE CHAE YEON", "LEE HI",
-        "LIGHTSUM", "lilli lilli", "Lim Kim", "LIMELIGHT",
-        "Lisa", "Mamamoo", "Minnie", "Miyeon", "Moonbyul",
-        "MRCH", "NANA", "NAYEON", "NewJeans", "NMIXX", "OH MY GIRL",
-        "Punch", "QWER", "Red Velvet", "RESCENE", "Rosé", "Rothy",
-        "Ryu Su Jeong", "Saebit", "SECRET NUMBER", "Seo Dahyun",
-        "SEULGI", "SinB", "siso", "Solar", "Somi", "SOOJIN",
-        "Soyeon", "STAYC", "Suzy", "SWAN", "Taeyeon", "T-ara",
-        "TRI.BE", "tripleS", "TWICE", "TZUYU", "Umji",
-        "VIVIZ", "Wendy", "Wheein", "WINTER", "WJSN",
-        "Woo Yerin", "woo!ah!", "Yein", "YENA", "Yerin",
-        "YooA", "Younha", "Yuju", "Yunsae", "Yuqi", "LATENCY",
-        "BIBI"
-    ],
-    "JP": [
-        "ado", "Ai Tomioka", "Aimer", "aimyon", "Aooo",
-        "ATARAYO", "BAND-MAID", "chilldspot", "Chilli Beans",
-        "Faulieu", "LiSA", "Majiko", "MINAMI", "NEK!", "ReoNa",
-        "TRiDENT", "tuki.", "yama", "YOASOBI", "Yuika",
-        "ZUTOMAYO", "ねぎ塩豚丼", "HANA", "Yorushika"
-    ]
+TRACKED_ARTISTS = {
+    "KR": {
+        "82779545": "Hearts2Hearts",
+        "80632010": "i-dle"
+        # ⚠️ 請在此處繼續加入其他 KR 藝人的 ID
+    },
+    "JP": {
+        # ⚠️ 請在此處繼續加入其他 JP 藝人的 ID
+    }
 }
 
 DATA_FILE = "songs_data.json"
-NAME_MAPPING = {}
 
 # ==========================================
 # 工具函式
@@ -66,24 +41,6 @@ def load_existing_data():
         except: return []
     return []
 
-def is_artist_match(target, text):
-    """
-    判斷 text 中是否包含目標藝人 target。
-    修正邏輯：只要 target 是純英數字（不論長度），都強制使用單字邊界檢查，
-    避免如 'HANA' 誤判 'MANEHANA' 的情況。
-    """
-    target = target.lower()
-    text = text.lower()
-    
-    # 如果 target 只包含英文字母或數字 (例如 "HANA", "QWER", "Lisa")
-    if re.match(r'^[a-z0-9]+$', target):
-        # 使用正規表達式檢查前後邊界
-        pattern = r'(?:^|[^a-z0-9])' + re.escape(target) + r'(?:$|[^a-z0-9])'
-        return re.search(pattern, text) is not None
-        
-    # 如果名字包含特殊符號或空白 (例如 "LE SSERAFIM")，則使用一般的包含檢查
-    return target in text
-
 # ==========================================
 # 主邏輯
 # ==========================================
@@ -94,10 +51,11 @@ def scrape_job():
     existing_links = {song['link'] for song in existing_songs}
     new_songs = []
 
-    # 將分類的藝人名單扁平化，方便檢查
-    flat_artists = []
-    for category_artists in MY_ARTISTS.values():
-        flat_artists.extend(category_artists)
+    # 將分類的藝人 ID 扁平化，方便快速比對
+    flat_tracked_ids = {}
+    for category, artists in TRACKED_ARTISTS.items():
+        for artist_id, artist_name in artists.items():
+            flat_tracked_ids[str(artist_id)] = artist_name
     
     try:
         url = "https://www.genie.co.kr/newest/song"
@@ -114,22 +72,23 @@ def scrape_job():
                 artist_elem = song.select_one("a.artist")
                 original_artist_name = artist_elem.text.strip() if artist_elem else "未知藝人"
 
+                # === 抓取 onclick 裡的藝人 ID ===
+                artist_id = ""
+                if artist_elem and 'onclick' in artist_elem.attrs:
+                    match_artist = re.search(r'fnViewArtist\((\d+)\)', artist_elem['onclick'])
+                    if match_artist:
+                        artist_id = match_artist.group(1)
+
+                # === 判斷是否為追蹤藝人 ===
                 is_tracked = False
-                for target in flat_artists:
-                    if is_artist_match(target, original_artist_name):
-                        is_tracked = True
-                        break
+                display_artist_name = original_artist_name
+
+                if artist_id and artist_id in flat_tracked_ids:
+                    is_tracked = True
+                    display_artist_name = flat_tracked_ids[artist_id] 
                 
                 link_id = song['songid']
                 song_link = f"https://www.genie.co.kr/detail/songInfo?xgnm={link_id}"
-
-                display_artist_name = original_artist_name
-                # 如果有自定義映射名稱
-                if is_tracked:
-                    for key_word, custom_name in NAME_MAPPING.items():
-                        if is_artist_match(key_word, original_artist_name):
-                            display_artist_name = custom_name
-                            break
 
                 album_elem = song.select_one("a.albumtitle")
                 title = album_elem.text.strip() if album_elem else "未知專輯"
@@ -139,14 +98,14 @@ def scrape_job():
                 # === 抓取 onclick 裡的專輯 ID ===
                 album_id = ""
                 if album_elem and 'onclick' in album_elem.attrs:
-                    match = re.search(r'fnViewAlbumLayer\((\d+)\)', album_elem['onclick'])
-                    if match:
-                        album_id = match.group(1)
+                    match_album = re.search(r'fnViewAlbumLayer\((\d+)\)', album_elem['onclick'])
+                    if match_album:
+                        album_id = match_album.group(1)
 
-                # === 組成專輯連結 (若沒抓到則退回原本的歌曲連結) ===
+                # === 組成專輯連結 ===
                 final_link = f"https://www.genie.co.kr/detail/albumInfo?axnm={album_id}" if album_id else song_link
 
-                # 檢查是否已經抓過 (同時檢查新舊版網址，避免過渡期重複抓取)
+                # 檢查是否已經抓過
                 if song_link in existing_links or final_link in existing_links: 
                     continue
 
@@ -174,7 +133,8 @@ def scrape_job():
     full_song_list = new_songs + existing_songs
     now_tw = get_taiwan_time()
     today_date = now_tw.date()
-    cutoff_90 = now_tw - timedelta(days=90)
+    # === 將保留時間改為 180 天 ===
+    cutoff_180 = now_tw - timedelta(days=180)
     final_list = []
     tz_tw = get_taiwan_timezone()
 
@@ -186,7 +146,8 @@ def scrape_job():
             is_my_artist = song.get('is_tracked', False)
             
             if is_my_artist:
-                if song_datetime > cutoff_90:
+                # === 判定是否超過 180 天 ===
+                if song_datetime > cutoff_180:
                     final_list.append(song)
             else:
                 if song_date == today_date:
@@ -194,11 +155,10 @@ def scrape_job():
         except ValueError:
             final_list.append(song)
 
-    # 排序各分類的藝人名單 (不分大小寫)
-    sorted_tracked_artists = {
-        category: sorted(artists, key=lambda x: x.lower()) 
-        for category, artists in MY_ARTISTS.items()
-    }
+        sorted_tracked_artists = {
+            category: sorted(list(artists.values()), key=lambda x: x.lower()) 
+            for category, artists in TRACKED_ARTISTS.items() if artists
+        }
 
     # 3. 存檔
     data_to_save = {
