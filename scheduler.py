@@ -25,7 +25,7 @@ TRACKED_ARTISTS = {
         "80316854": "BOL4",
         "80519791": "Choi Yoo jung",
         "80519790": "Chung Ha",
-        "81394103": "CLASS:y",
+        "81394103": "CLASSy",
         "80347927": "CLC",
         "81491030": "CSR",
         "80560326": "Dreamcatcher",
