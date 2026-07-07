@@ -6,12 +6,8 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta, timezone
 
 # ==========================================
-# 1. 設定監控藝人名單 (支援 ID 與名字雙軌追蹤)
-# 
-# 規則：
-# - 如果左邊是「純數字」，系統會精準比對藝人 ID。
-# - 如果左邊是「文字(中英韓)」，系統會比對藝人名稱。
-# - 右邊則是你在側邊欄與歌曲卡片上想顯示的「自訂乾淨名稱」。
+# 1. 設定監控藝人名單 (改為使用藝人 ID 追蹤)
+# 格式: "藝人ID": "自訂顯示名稱 (給側邊欄用的)"
 # ==========================================
 TRACKED_ARTISTS = {
     "KR": {
@@ -168,20 +164,6 @@ def load_existing_data():
         except: return []
     return []
 
-def is_artist_match(target, text):
-    """
-    判斷 text 中是否包含目標藝人 target (用於名字追蹤)。
-    """
-    target = target.lower()
-    text = text.lower()
-    
-    # 如果 target 只包含英文字母或數字，使用單字邊界檢查防誤判 (例如避免 HANA 誤判 MANEHANA)
-    if re.match(r'^[a-z0-9]+$', target):
-        pattern = r'(?:^|[^a-z0-9])' + re.escape(target) + r'(?:$|[^a-z0-9])'
-        return re.search(pattern, text) is not None
-        
-    return target in text
-
 # ==========================================
 # 主邏輯
 # ==========================================
@@ -192,16 +174,11 @@ def scrape_job():
     existing_links = {song['link'] for song in existing_songs}
     new_songs = []
 
-    # 將名單分類為 ID 追蹤與名字追蹤
+    # 將分類的藝人 ID 扁平化，方便快速比對
     flat_tracked_ids = {}
-    flat_tracked_names = {}
-    
     for category, artists in TRACKED_ARTISTS.items():
-        for track_key, display_name in artists.items():
-            if track_key.isdigit():
-                flat_tracked_ids[str(track_key)] = display_name
-            else:
-                flat_tracked_names[str(track_key)] = display_name
+        for artist_id, artist_name in artists.items():
+            flat_tracked_ids[str(artist_id)] = artist_name
     
     try:
         url = "https://www.genie.co.kr/newest/song"
@@ -225,20 +202,13 @@ def scrape_job():
                     if match_artist:
                         artist_id = match_artist.group(1)
 
+                # === 判斷是否為追蹤藝人 ===
                 is_tracked = False
-                display_artist_name = original_artist_name
+                # 💡 這裡直接保持原始名稱，不再用我們字典裡的名稱覆蓋它
+                display_artist_name = original_artist_name 
 
-                # === 判斷 1：先比對 ID ===
                 if artist_id and artist_id in flat_tracked_ids:
                     is_tracked = True
-                    display_artist_name = flat_tracked_ids[artist_id]
-                # === 判斷 2：若 ID 沒中，再比對名字 ===
-                else:
-                    for name_key, custom_name in flat_tracked_names.items():
-                        if is_artist_match(name_key, original_artist_name):
-                            is_tracked = True
-                            display_artist_name = custom_name
-                            break
                 
                 link_id = song['songid']
                 song_link = f"https://www.genie.co.kr/detail/songInfo?xgnm={link_id}"
@@ -308,7 +278,7 @@ def scrape_job():
 
         # 這裡會從 TRACKED_ARTISTS 裡抓取「你自訂的名字」送到前端側邊欄
         sorted_tracked_artists = {
-            category: sorted(list(set(artists.values())), key=lambda x: x.lower()) 
+            category: sorted(list(artists.values()), key=lambda x: x.lower()) 
             for category, artists in TRACKED_ARTISTS.items() if artists
         }
 
