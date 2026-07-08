@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-08 14:05:39",
+    "updated_at": "2026-07-08 19:16:26",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -132,6 +132,78 @@
         ]
     },
     "songs": [
+        {
+            "artist": "RESCENE (리센느)",
+            "title": "Pretty Girl - Special Single",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/826/104/87826104_1782713508473_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87826104",
+            "found_at": "2026-07-08 19:16",
+            "is_tracked": true
+        },
+        {
+            "artist": "1DB (원디비)",
+            "title": "Last Night",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/838/488/87838488_1782952293754_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87838488",
+            "found_at": "2026-07-08 19:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "KickFlip (킥플립)",
+            "title": "Everyday, Everynight (청춘계시록 X KickFlip(킥플립))",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/843/626/87843626_1783382832678_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87843626",
+            "found_at": "2026-07-08 19:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "AHOF (아홉)",
+            "title": "RUN TO YOU",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/420/87745420_1783488017748_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87745420",
+            "found_at": "2026-07-08 19:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "TRENDZ (트렌드지)",
+            "title": "On My Knees",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/840/171/87840171_1783068809017_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87840171",
+            "found_at": "2026-07-08 19:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "안녕하신가영",
+            "title": "여름 수집",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/839/151/87839151_1783418071814_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87839151",
+            "found_at": "2026-07-08 19:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "소수빈",
+            "title": "더 아름다워져",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/857/169/87857169_1783415531026_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87857169",
+            "found_at": "2026-07-08 19:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "전현재 (JEON NOW)",
+            "title": "성수에서 서울숲 (Feat. 이주혁)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/826/097/87826097_1783409605374_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87826097",
+            "found_at": "2026-07-08 19:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "jiyoon",
+            "title": "Get out my life!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/852/483/87852483_1783334622017_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87852483",
+            "found_at": "2026-07-08 19:16",
+            "is_tracked": false
+        },
         {
             "artist": "적란운",
             "title": "나의 바다",
