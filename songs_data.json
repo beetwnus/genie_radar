@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-09 14:53:36",
+    "updated_at": "2026-07-09 20:15:14",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -132,6 +132,118 @@
         ]
     },
     "songs": [
+        {
+            "artist": "유라 (youra)",
+            "title": "Brush",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/861/951/87861951_1783492293568_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87861951",
+            "found_at": "2026-07-09 20:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "림킴 (김예림)",
+            "title": "인사하세요 (feat. Bree Runway)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/860/858/87860858_1783481520273_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87860858",
+            "found_at": "2026-07-09 20:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "최유리",
+            "title": "머무름, 둘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/862/804/87862804_1783506753350_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87862804",
+            "found_at": "2026-07-09 20:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "한로로",
+            "title": "너와 나",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/834/635/87834635_1783409615736_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87834635",
+            "found_at": "2026-07-09 20:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "임재현",
+            "title": "웃어주지 마요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/862/230/87862230_1783496546304_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87862230",
+            "found_at": "2026-07-09 20:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "큐 (THE BOYZ)",
+            "title": "Anytime",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/852/597/87852597_1783509185962_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87852597",
+            "found_at": "2026-07-09 20:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "상수역 1번 출구",
+            "title": "다 끝난 거라 해도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/826/311/87826311_1782717141410_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87826311",
+            "found_at": "2026-07-09 20:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "베이빌론 (Babylon)",
+            "title": "LOVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/826/031/87826031_1782710790537_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87826031",
+            "found_at": "2026-07-09 20:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "JUNIEL",
+            "title": "푸른엔딩",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/853/060/87853060_1783505135718_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87853060",
+            "found_at": "2026-07-09 20:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "황가람",
+            "title": "친구",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/862/794/87862794_1783506492456_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87862794",
+            "found_at": "2026-07-09 20:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "김뜻돌",
+            "title": "1＋1 = 0 (feat. Jay Som)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/860/627/87860627_1783480394187_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87860627",
+            "found_at": "2026-07-09 20:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "LOOPPOINT",
+            "title": "you god",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/855/670/87855670_1783385241265_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87855670",
+            "found_at": "2026-07-09 20:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "SeolYeon",
+            "title": "Fairy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/839/278/87839278_1783392069071_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87839278",
+            "found_at": "2026-07-09 20:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "omnostereo",
+            "title": "나쁜 짓",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/844/344/87844344_1783304328752_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87844344",
+            "found_at": "2026-07-09 20:15",
+            "is_tracked": false
+        },
         {
             "artist": "까데호",
             "title": "그대는 이미 나 〈산울림 50주년 기념 프로젝트〉",
