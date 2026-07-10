@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-10 14:54:03",
+    "updated_at": "2026-07-10 20:07:55",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -132,6 +132,94 @@
         ]
     },
     "songs": [
+        {
+            "artist": "휘인 (Whee In)",
+            "title": "The Symphony of Fxxkboys (minlee Remix)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/856/098/87856098_1783390326452_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87856098",
+            "found_at": "2026-07-10 20:07",
+            "is_tracked": true
+        },
+        {
+            "artist": "재현 (JAEHYUN)",
+            "title": "99 Degrees",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/830/87866830_1783586800736_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866830",
+            "found_at": "2026-07-10 20:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "후한원 (HU HAN WEN)",
+            "title": "BLOOM",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/851/976/87851976_1783306298646_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87851976",
+            "found_at": "2026-07-10 20:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "김태형 (KIM TAE HYONG)",
+            "title": "아직, 여름 (まだ夏だよ)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/856/963/87856963_1783492300747_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87856963",
+            "found_at": "2026-07-10 20:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "MilliMax (밀리맥스) & TRADE L (트레이드 엘) & ZENE THE ZILLA (제네 더 질라)",
+            "title": "AMBITION 7/10",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/856/322/87856322_1783392707728_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87856322",
+            "found_at": "2026-07-10 20:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "Kid Wine",
+            "title": "사랑이야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/860/158/87860158_1783474905685_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87860158",
+            "found_at": "2026-07-10 20:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "키드킹 (Kidd King)",
+            "title": "EGO",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/590/87866590_1783583619972_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866590",
+            "found_at": "2026-07-10 20:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "홀린 (HLIN)",
+            "title": "꽃잎 사이로 바람",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/843/882/87843882_1783588311749_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87843882",
+            "found_at": "2026-07-10 20:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "cosmosy",
+            "title": "Stay Alive",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/836/078/87836078_1782897093801_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87836078",
+            "found_at": "2026-07-10 20:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "연보라",
+            "title": "그런 일들 말야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/860/531/87860531_1783509194884_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87860531",
+            "found_at": "2026-07-10 20:07",
+            "is_tracked": false
+        },
+        {
+            "artist": "MATTHEW & wnsday",
+            "title": "PURITY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/852/101/87852101_1783310791119_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87852101",
+            "found_at": "2026-07-10 20:07",
+            "is_tracked": false
+        },
         {
             "artist": "연준",
             "title": "NO LABELS: PART 02",
