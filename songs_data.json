@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-11 01:06:23",
+    "updated_at": "2026-07-11 13:48:07",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -132,6 +132,238 @@
         ]
     },
     "songs": [
+        {
+            "artist": "정윤",
+            "title": "NICOTINE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/826/608/87826608_1782724311400_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87826608",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "NIDA",
+            "title": "Our Highlight",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/857/125/87857125_1783414592972_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87857125",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "Austn (오스틴)",
+            "title": "3allad",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/862/961/87862961_1783509113762_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87862961",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "김용빈",
+            "title": "금타는 금요일 PART29",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/837/87866837_1783586820142_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866837",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "란 (Ran)",
+            "title": "시간이 지나도 세월이 지나도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/860/591/87860591_1783509198484_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87860591",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "19990619",
+            "title": "어젯밤",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/843/576/87843576_1783561810227_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87843576",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "리",
+            "title": "고백",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/339/87866339_1783583471000_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866339",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "김재원(Kimis06)",
+            "title": "Two Young",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/865/422/87865422_1783561911766_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87865422",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "Yonko (욘코)",
+            "title": "SPORTY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/857/910/87857910_1783664888178_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87857910",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "flow blow & marglie",
+            "title": "Chemical",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/861/522/87861522_1783576424945_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87861522",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "파고 (PAGO)",
+            "title": "Toehold",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/844/020/87844020_1783666834438_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87844020",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "최도영 (CANDO)",
+            "title": "사악한 공작 영애의 우울 OST Part.15",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/852/375/87852375_1783573603414_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87852375",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "blueberryclub",
+            "title": "blueberryclub Pt. 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/856/136/87856136_1783390628887_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87856136",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "HWAN",
+            "title": "STUPID",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/852/188/87852188_1783659774438_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87852188",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "디디세븐 (DD7)",
+            "title": "Thunder Light",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/865/607/87865607_1783664298570_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87865607",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "로야",
+            "title": "조금 더 이대로",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/857/839/87857839_1783659776272_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87857839",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "칼날부리",
+            "title": "사진 속에 멈춘 너",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/867/485/87867485_1783646818854_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87867485",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "BandTipsy",
+            "title": "Quiet Room",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/840/405/87840405_1783577701267_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87840405",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "김무진",
+            "title": "해운대 밤바다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/857/039/87857039_1783649242898_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87857039",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "재현 (JAEHYUN)",
+            "title": "99 Degrees",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/830/87866830_1783586800736_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866830",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "후한원 (HU HAN WEN)",
+            "title": "BLOOM",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/851/976/87851976_1783306298646_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87851976",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "연준",
+            "title": "NO LABELS: PART 02",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/869/834/87869834_1783647119208_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87869834",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "김태형 (KIM TAE HYONG)",
+            "title": "아직, 여름 (まだ夏だよ)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/856/963/87856963_1783492300747_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87856963",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "MilliMax (밀리맥스) & TRADE L (트레이드 엘) & ZENE THE ZILLA (제네 더 질라)",
+            "title": "AMBITION 7/10",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/856/322/87856322_1783392707728_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87856322",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "Kid Wine",
+            "title": "사랑이야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/860/158/87860158_1783474905685_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87860158",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "지효 (TWICE) & Shenseea & Fandom",
+            "title": "Distant Lover",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/821/87866821_1783586512022_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866821",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "키드킹 (Kidd King)",
+            "title": "EGO",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/590/87866590_1783583619972_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866590",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "홀린 (HLIN)",
+            "title": "꽃잎 사이로 바람",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/843/882/87843882_1783588311749_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87843882",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
+        {
+            "artist": "cosmosy",
+            "title": "Stay Alive",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/836/078/87836078_1782897093801_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87836078",
+            "found_at": "2026-07-11 13:48",
+            "is_tracked": false
+        },
         {
             "artist": "휘인 (Whee In)",
             "title": "The Symphony of Fxxkboys (minlee Remix)",
