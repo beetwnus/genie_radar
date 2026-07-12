@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-12 14:11:43",
+    "updated_at": "2026-07-12 18:41:44",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -132,6 +132,78 @@
         ]
     },
     "songs": [
+        {
+            "artist": "TOIL & Hash Swan & 최성",
+            "title": "해무",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/852/951/87852951_1783326714090_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87852951",
+            "found_at": "2026-07-12 18:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "정동원",
+            "title": "해질녘 약속",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/857/144/87857144_1783415197936_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87857144",
+            "found_at": "2026-07-12 18:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "Paul Blanco",
+            "title": "연애 (From. 연애전쟁)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/860/165/87860165_1783474929051_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87860165",
+            "found_at": "2026-07-12 18:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "이예준",
+            "title": "우산 없는 밤",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/808/87866808_1783586288699_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866808",
+            "found_at": "2026-07-12 18:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "박지현",
+            "title": "슬픈 혼잣말 (박지현 X 배낭메고 버스킹 3)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/278/87866278_1783577196426_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866278",
+            "found_at": "2026-07-12 18:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "neu(노이/ノイ)",
+            "title": "모리걸",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/862/574/87862574_1783597514383_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87862574",
+            "found_at": "2026-07-12 18:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "조성확 (IHWAK)",
+            "title": "HONESTLY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/838/87866838_1783586835291_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866838",
+            "found_at": "2026-07-12 18:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "블리즈 (VLYZ)",
+            "title": "Glory",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/861/938/87861938_1783667301836_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87861938",
+            "found_at": "2026-07-12 18:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "Me.me",
+            "title": "paperheart",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/861/069/87861069_1783578262939_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87861069",
+            "found_at": "2026-07-12 18:41",
+            "is_tracked": false
+        },
         {
             "artist": "김시원",
             "title": "한눈팔지마!",
