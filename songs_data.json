@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-13 14:28:57",
+    "updated_at": "2026-07-13 20:16:32",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -132,6 +132,78 @@
         ]
     },
     "songs": [
+        {
+            "artist": "언텔 (untell)",
+            "title": "Bedroom Trip",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/862/512/87862512_1783500764432_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87862512",
+            "found_at": "2026-07-13 20:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "디노",
+            "title": "그대에게 드림 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/860/713/87860713_1783480305532_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87860713",
+            "found_at": "2026-07-13 20:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "idntt (아이덴티티)",
+            "title": "＜itsnotover＞",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/867/001/87867001_1783588591411_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87867001",
+            "found_at": "2026-07-13 20:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "1415",
+            "title": "O",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/852/283/87852283_1783561830070_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87852283",
+            "found_at": "2026-07-13 20:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "DAILY:DIRECTION",
+            "title": "MONKEY MODE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/865/504/87865504_1783563106253_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87865504",
+            "found_at": "2026-07-13 20:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "SUPER JUNIOR-83z (슈퍼주니어-83z)",
+            "title": "너를 위한 약속 (Promise) - The 1st Mini Album",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/870/152/87870152_1783652502368_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87870152",
+            "found_at": "2026-07-13 20:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "연준",
+            "title": "NO LABELS: PART 02 (Earl Grey Ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/871/381/87871381_1783677262958_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87871381",
+            "found_at": "2026-07-13 20:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "영파씨 (YOUNG POSSE)",
+            "title": "young tape",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/867/003/87867003_1783588597318_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87867003",
+            "found_at": "2026-07-13 20:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "송프로",
+            "title": "마셔라",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/270/87866270_1783597518762_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866270",
+            "found_at": "2026-07-13 20:16",
+            "is_tracked": false
+        },
         {
             "artist": "윌콕스",
             "title": "her",
