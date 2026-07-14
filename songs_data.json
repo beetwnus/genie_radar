@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-14 13:39:12",
+    "updated_at": "2026-07-14 18:55:30",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -132,6 +132,94 @@
         ]
     },
     "songs": [
+        {
+            "artist": "jeebanoff",
+            "title": "그대에게 드림 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/861/606/87861606_1783487501445_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87861606",
+            "found_at": "2026-07-14 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "로꼬",
+            "title": "축축 (demo)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/878/506/87878506_1783903297677_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87878506",
+            "found_at": "2026-07-14 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "매드 클라운 (Mad Clown)",
+            "title": "그랬구나 (Feat. 쵸단 of QWER)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/648/87879648_1783930012031_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879648",
+            "found_at": "2026-07-14 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "황영웅",
+            "title": "사랑한다면 (If One Truly Loves) (OST)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/870/850/87870850_1784007502588_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87870850",
+            "found_at": "2026-07-14 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "YEHA(예하)",
+            "title": "바다가자(Summer on repeat)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/878/688/87878688_1783906594436_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87878688",
+            "found_at": "2026-07-14 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "방예담 & 휘인 (Whee In)",
+            "title": "내일도 출근! OST Part.6",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/666/87879666_1783930347238_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879666",
+            "found_at": "2026-07-14 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "극동아시아타이거즈",
+            "title": "노브레인 30주년 Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/869/811/87869811_1783646196800_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87869811",
+            "found_at": "2026-07-14 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "최재명",
+            "title": "흥이나 내보자",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/664/87879664_1783930355948_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879664",
+            "found_at": "2026-07-14 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "hayawn (하얀)",
+            "title": "사랑했을텐데 (Feat. 이을 (E.ul))",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/279/87866279_1783660836150_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866279",
+            "found_at": "2026-07-14 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "후니용이",
+            "title": "응답하라 7080",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/615/87879615_1783929715998_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879615",
+            "found_at": "2026-07-14 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "Sage",
+            "title": "Demolition",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/856/987/87856987_1783927485401_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87856987",
+            "found_at": "2026-07-14 18:55",
+            "is_tracked": false
+        },
         {
             "artist": "김지웅 (ZEROBASEONE)",
             "title": "CLOSER",
