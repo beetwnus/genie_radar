@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-14 01:22:01",
+    "updated_at": "2026-07-14 13:39:12",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -132,6 +132,238 @@
         ]
     },
     "songs": [
+        {
+            "artist": "김지웅 (ZEROBASEONE)",
+            "title": "CLOSER",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/211/87879211_1783921900559_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879211",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "악토버 (OCTOBER)",
+            "title": "Rainy Day",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/294/87866294_1783660829583_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866294",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "이아영",
+            "title": "우리가 사랑한 계절",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/865/600/87865600_1783564348835_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87865600",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "구창모",
+            "title": "Memory & Future",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/688/87879688_1783930627437_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879688",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "YYOi (요이)",
+            "title": "질투는 나의 힘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/878/699/87878699_1783906913114_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87878699",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "A-1000",
+            "title": "deep",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/860/221/87860221_1783475563998_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87860221",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "Hebi",
+            "title": "도굴왕 : 엔드라인 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/663/87879663_1783930312550_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879663",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": true
+        },
+        {
+            "artist": "CHAD BURGER & sihov",
+            "title": "여름방학",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/870/903/87870903_1783927445659_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87870903",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "체리베리 (CherryBerry)",
+            "title": "어쩌니",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/843/639/87843639_1783561842694_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87843639",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "다희 (dahee)",
+            "title": "나의 여름",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/531/87879531_1783928199778_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879531",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "변하은",
+            "title": "추신 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/878/821/87878821_1783933038205_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87878821",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "로라 (LOLA)",
+            "title": "그 길, 그 별, 그 날",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/271/87866271_1783670714436_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866271",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "Name like Jamie",
+            "title": "Sand man",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/878/590/87878590_1783927430005_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87878590",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "차수경",
+            "title": "사랑해 악마 OST X 차수경",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/861/767/87861767_1783920976224_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87861767",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "METP (멧피)",
+            "title": "ACHILLES' HEEL",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/870/046/87870046_1783905135743_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87870046",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "김모레 (kimmore)",
+            "title": "사랑보다 더 어려웠던 건",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/805/281/87805281_1782474108260_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87805281",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "마끼아또",
+            "title": "아직 니가 좋아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/856/976/87856976_1783932520207_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87856976",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "언텔 (untell)",
+            "title": "Bedroom Trip",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/862/512/87862512_1783500764432_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87862512",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "디노",
+            "title": "그대에게 드림 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/860/713/87860713_1783480305532_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87860713",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "idntt (아이덴티티)",
+            "title": "＜itsnotover＞",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/867/001/87867001_1783588591411_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87867001",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "1415",
+            "title": "O",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/852/283/87852283_1783561830070_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87852283",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "DAILY:DIRECTION",
+            "title": "MONKEY MODE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/865/504/87865504_1783563106253_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87865504",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "SUPER JUNIOR-83z (슈퍼주니어-83z)",
+            "title": "너를 위한 약속 (Promise) - The 1st Mini Album",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/870/152/87870152_1783652502368_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87870152",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "연준",
+            "title": "NO LABELS: PART 02 (Earl Grey Ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/871/381/87871381_1783677262958_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87871381",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "영파씨 (YOUNG POSSE)",
+            "title": "young tape",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/867/003/87867003_1783588597318_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87867003",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "송프로",
+            "title": "마셔라",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/270/87866270_1783597518762_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866270",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "윌콕스",
+            "title": "her",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/852/342/87852342_1783315895390_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87852342",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "Kenshi Yonezu",
+            "title": "Yodaka",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/826/028/87826028_1782710542266_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87826028",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "시즈더데이 (seizetheday)",
+            "title": "메아리 (Feat. Hollow Young)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/865/408/87865408_1783561303152_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87865408",
+            "found_at": "2026-07-14 13:39",
+            "is_tracked": false
+        },
         {
             "artist": "WOOAH (우아)",
             "title": "Wish With W : Vol.3",
