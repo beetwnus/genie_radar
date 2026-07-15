@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-15 13:40:32",
+    "updated_at": "2026-07-15 19:01:18",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -132,6 +132,102 @@
         ]
     },
     "songs": [
+        {
+            "artist": "정우석",
+            "title": "TALKIE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/131/87883131_1783995121010_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883131",
+            "found_at": "2026-07-15 19:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "권진아",
+            "title": "SAVE ME",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/793/913/87793913_1782094294949_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87793913",
+            "found_at": "2026-07-15 19:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "선미",
+            "title": "Forever July",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/884/089/87884089_1784018214931_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87884089",
+            "found_at": "2026-07-15 19:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "소향",
+            "title": "My Little New Diary. Part 7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/125/87879125_1784006037739_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879125",
+            "found_at": "2026-07-15 19:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "피철인",
+            "title": "아프지 않은 이별은 없다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/886/846/87886846_1784072524634_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87886846",
+            "found_at": "2026-07-15 19:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "이츠",
+            "title": "마녀",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/852/409/87852409_1783318317738_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87852409",
+            "found_at": "2026-07-15 19:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "이민혁 (허타)",
+            "title": "TEMPERATURE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/884/114/87884114_1784019121126_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87884114",
+            "found_at": "2026-07-15 19:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "김수영",
+            "title": "외쳐 사랑을!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/880/150/87880150_1784019494143_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87880150",
+            "found_at": "2026-07-15 19:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "강승식",
+            "title": "우리가 담긴 계절",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/887/305/87887305_1784079421935_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87887305",
+            "found_at": "2026-07-15 19:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "송하예",
+            "title": "바다 가자 (2026) X 여름 에피소드",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/833/449/87833449_1784082275779_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87833449",
+            "found_at": "2026-07-15 19:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "아더(0ther)",
+            "title": "이상한 나라에 오신 것을 환영합니다.",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/097/87879097_1783919791025_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879097",
+            "found_at": "2026-07-15 19:01",
+            "is_tracked": false
+        },
+        {
+            "artist": "JINex (지넥스)",
+            "title": "Last night (Feat. Lil Summer)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/856/952/87856952_1784013288741_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87856952",
+            "found_at": "2026-07-15 19:01",
+            "is_tracked": false
+        },
         {
             "artist": "FRankly (프랭클리)",
             "title": "Somebody",
