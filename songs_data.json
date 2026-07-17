@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-17 00:40:16",
+    "updated_at": "2026-07-17 13:49:32",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -132,6 +132,238 @@
         ]
     },
     "songs": [
+        {
+            "artist": "한혜리",
+            "title": "Go!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/887/295/87887295_1784079391345_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87887295",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "베이블루 아카데미",
+            "title": "melty",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/034/87883034_1783993907812_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883034",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "Steve Lacy",
+            "title": "Oh yeah?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/881/039/87881039_1783964790891_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87881039",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "Zimmer90",
+            "title": "Summer Nights",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/889/268/87889268_1784109713078_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87889268",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "정바스 (J.BASS)",
+            "title": "surf",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/878/888/87878888_1783912301272_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87878888",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "그네 & 이서한",
+            "title": "여름의 소음에 묻히지 않도록",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/749/87883749_1784186911036_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883749",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "다함 & WUL",
+            "title": "이리디센트",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/880/656/87880656_1784184048459_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87880656",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "방탄소년단",
+            "title": "NORMAL",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/891/208/87891208_1784157112396_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87891208",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "Yaon",
+            "title": "어쩌라고 (WYWMTD) feat. Hatsune Miku",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/736/87879736_1784179786212_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879736",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "TOVE",
+            "title": "Static Radio",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/887/316/87887316_1784079691014_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87887316",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "G. Nine",
+            "title": "POSE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/889/227/87889227_1784184010346_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87889227",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "김도언",
+            "title": "녹색과 분홍색",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/551/87879551_1783936834458_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879551",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "홍성윤",
+            "title": "미스트롯 : 포유 PART10",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/889/269/87889269_1784109731555_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87889269",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "심소정",
+            "title": "완벽한 타이밍(Perfect Timing)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/889/271/87889271_1784109991572_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87889271",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "박천득",
+            "title": "EQLIPS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/880/246/87880246_1784096087796_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87880246",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "Lo-g",
+            "title": "Rawter vol.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/908/87883908_1784014890801_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883908",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "냥아치",
+            "title": "사악한 공작 영애의 우울 OST Part.16",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/353/87879353_1784079011044_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879353",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "모닝커피 (Morning Coffee)",
+            "title": "생각나는 그 사람",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/884/789/87884789_1784096096851_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87884789",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "페퍼민트",
+            "title": "이렇게 아프게 하니",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/045/87866045_1784183842053_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866045",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "강남 & 기안84",
+            "title": "치킨과 그녀",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/882/799/87882799_1783990343955_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87882799",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "Yang Kyle (양카일)",
+            "title": "wOKe!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/332/87879332_1783924306072_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879332",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "한요한",
+            "title": "check in",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/880/287/87880287_1783941736354_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87880287",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "김뮤지엄 (KIMMUSEUM)",
+            "title": "I'M BAD",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/887/365/87887365_1784080347571_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87887365",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "1300",
+            "title": "ILLSAMGONGGONG",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/884/280/87884280_1784165444520_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87884280",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "어센트 (ASC2NT)",
+            "title": "편의점 앞 신호등",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/843/697/87843697_1783057930193_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87843697",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "이병찬 & 이지민",
+            "title": "묘해, 너와",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/887/786/87887786_1784084959310_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87887786",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "이서연 (Y:SY)",
+            "title": "웹툰 '재혼 황후' OST Part. 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/857/047/87857047_1784109075292_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87857047",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "floryy",
+            "title": "나의 별들아 X BY CHANCE PROJECT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/889/153/87889153_1784105192810_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87889153",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "LUNEDI",
+            "title": "CIRCLE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/870/115/87870115_1784094836605_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87870115",
+            "found_at": "2026-07-17 13:49",
+            "is_tracked": false
+        },
         {
             "artist": "브브걸 (BBGIRLS)",
             "title": "BODY WAVE",
