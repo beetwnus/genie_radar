@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-18 13:35:21",
+    "updated_at": "2026-07-18 18:39:38",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -132,6 +132,86 @@
         ]
     },
     "songs": [
+        {
+            "artist": "M1NU",
+            "title": "YAMA (Feat. Jeffrey White)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/957/87879957_1783935097392_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879957",
+            "found_at": "2026-07-18 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "락킷걸",
+            "title": "SURF",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/403/87866403_1783581178242_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866403",
+            "found_at": "2026-07-18 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "그_냥",
+            "title": "껍데기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/889/273/87889273_1784109995725_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87889273",
+            "found_at": "2026-07-18 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "희대의(HEEDAE) & C JAMM & 블랙넛 (Black Nut)",
+            "title": "도모",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/892/365/87892365_1784169140024_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87892365",
+            "found_at": "2026-07-18 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "임성현",
+            "title": "사랑한다고 말할게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/174/87893174_1784181990672_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893174",
+            "found_at": "2026-07-18 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "아우릴고트 (OUREALGOAT)",
+            "title": "너에게로 돌아갈 수 없지만",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/882/878/87882878_1783992146481_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87882878",
+            "found_at": "2026-07-18 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "이짜나 (ZZANA) & DORE",
+            "title": "비 온 뒤 무지개 떴다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/752/87883752_1784179811189_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883752",
+            "found_at": "2026-07-18 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "채윤",
+            "title": "사랑이 머문 계절",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/887/766/87887766_1784084874281_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87887766",
+            "found_at": "2026-07-18 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "김요비",
+            "title": "젊은 시인에게 쓰는 편지",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/878/702/87878702_1783907195917_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87878702",
+            "found_at": "2026-07-18 18:39",
+            "is_tracked": false
+        },
+        {
+            "artist": "BETA",
+            "title": "하루의 끝",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/878/984/87878984_1784101092964_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87878984",
+            "found_at": "2026-07-18 18:39",
+            "is_tracked": false
+        },
         {
             "artist": "오월오일 ( 五月五日 )",
             "title": "너에게",
