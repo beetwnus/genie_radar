@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-19 00:09:48",
+    "updated_at": "2026-07-19 14:06:31",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -132,6 +132,246 @@
         ]
     },
     "songs": [
+        {
+            "artist": "이비 (EB)",
+            "title": "Click",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/887/804/87887804_1784085123524_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87887804",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "오연하",
+            "title": "고백할까봐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/887/211/87887211_1784077917547_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87887211",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "이리온 (IRION)",
+            "title": "Memoria",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/771/87883771_1784179814259_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883771",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "제이세라 (J-Cera)",
+            "title": "놓아줘야해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/145/87883145_1783995210487_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883145",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "구슬요",
+            "title": "Green Summer",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/418/87879418_1784084639206_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879418",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "학산스피드",
+            "title": "haksan's pee",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/887/582/87887582_1784082407830_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87887582",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "플래시 플러드 달링스 (Flash Flood Darlings)",
+            "title": "별",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/857/022/87857022_1784109124344_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87857022",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "floryy",
+            "title": "품에 (Embrace)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/889/437/87889437_1784191522574_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87889437",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "Jon Mcdonald",
+            "title": "Spoon",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/101/87883101_1784010329821_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883101",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "미즈이로 (Mizuiro)",
+            "title": "끌어내리겠습니다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/880/159/87880159_1784180775412_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87880159",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "배우리",
+            "title": "존재의 이유",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/504/87879504_1784101347832_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879504",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "아울러 (OWLER)",
+            "title": "Afterglow",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/882/885/87882885_1783992151173_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87882885",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "서덕호",
+            "title": "40분 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/480/87893480_1784186482616_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893480",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "두근두근 !! 미소녀밴드 ♡",
+            "title": "비밀일기 Chapter 3 : ACT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/884/122/87884122_1784191525998_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87884122",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "M1NU",
+            "title": "YAMA (Feat. Jeffrey White)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/957/87879957_1783935097392_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879957",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "락킷걸",
+            "title": "SURF",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/866/403/87866403_1783581178242_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87866403",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "그_냥",
+            "title": "껍데기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/889/273/87889273_1784109995725_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87889273",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "희대의(HEEDAE) & C JAMM & 블랙넛 (Black Nut)",
+            "title": "도모",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/892/365/87892365_1784169140024_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87892365",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "임성현",
+            "title": "사랑한다고 말할게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/174/87893174_1784181990672_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893174",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "아우릴고트 (OUREALGOAT)",
+            "title": "너에게로 돌아갈 수 없지만",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/882/878/87882878_1783992146481_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87882878",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "이짜나 (ZZANA) & DORE",
+            "title": "비 온 뒤 무지개 떴다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/752/87883752_1784179811189_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883752",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "채윤",
+            "title": "사랑이 머문 계절",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/887/766/87887766_1784084874281_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87887766",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "김요비",
+            "title": "젊은 시인에게 쓰는 편지",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/878/702/87878702_1783907195917_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87878702",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "BETA",
+            "title": "하루의 끝",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/878/984/87878984_1784101092964_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87878984",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "오월오일 ( 五月五日 )",
+            "title": "너에게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/884/354/87884354_1784023893268_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87884354",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "위즈(WIZ)",
+            "title": "쫑긋",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/128/87883128_1783995115764_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883128",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "Anonymous Artists (어나니머스 아티스트) & kenessi",
+            "title": "ARTIST. kenessi",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/887/372/87887372_1784080351986_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87887372",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "OurR (아월)",
+            "title": "Answer.",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/878/868/87878868_1783936851980_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87878868",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "Woolenciah",
+            "title": "WINGS OVER MY EYES",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/109/87893109_1784179895103_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893109",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "김용빈",
+            "title": "금타는 금요일 PART30",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/889/285/87889285_1784110324368_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87889285",
+            "found_at": "2026-07-19 14:06",
+            "is_tracked": false
+        },
         {
             "artist": "브브걸 (BBGIRLS)",
             "title": "BODY WAVE",
