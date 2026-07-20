@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-20 14:25:11",
+    "updated_at": "2026-07-20 19:57:29",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -132,6 +132,94 @@
         ]
     },
     "songs": [
+        {
+            "artist": "백지영 & 정지소",
+            "title": "사랑의 하츄핑: 고래보석의 전설 Special OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/891/912/87891912_1784164319136_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87891912",
+            "found_at": "2026-07-20 19:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "PATEKO (파테코)",
+            "title": "빈 편지 (feat. Seori, SHIRT)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/189/87893189_1784182301350_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893189",
+            "found_at": "2026-07-20 19:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "김하온 (HAON) & NOWIMYOUNG (나우아임영) & JMIN & KC",
+            "title": "2000 TAPE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/906/621/87906621_1784523364770_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87906621",
+            "found_at": "2026-07-20 19:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "유노윤호 (U-KNOW)",
+            "title": "Time's Tickin'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/889/263/87889263_1784109698260_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87889263",
+            "found_at": "2026-07-20 19:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "EK",
+            "title": "Core",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/120/87893120_1784512160591_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893120",
+            "found_at": "2026-07-20 19:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "쿠기 (Coogie) & 릴러말즈 (Leellamarz) & Crush",
+            "title": "HBK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/892/498/87892498_1784170630795_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87892498",
+            "found_at": "2026-07-20 19:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "GGM Kimbo & GGM Soulja",
+            "title": "Just Listen....",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/878/882/87878882_1783912291332_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87878882",
+            "found_at": "2026-07-20 19:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "기훈",
+            "title": "BLUE (Feat. 김동현)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/724/87893724_1784189492882_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893724",
+            "found_at": "2026-07-20 19:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "INVIZ",
+            "title": "여름, 밤 (IN JULY)(PROD BY.우은호)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/889/647/87889647_1784119909013_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87889647",
+            "found_at": "2026-07-20 19:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "강민정",
+            "title": "안녕내이름은미세먼지",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/861/659/87861659_1784170428554_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87861659",
+            "found_at": "2026-07-20 19:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "NOPARI & Janet Suhh (자넷서)",
+            "title": "Frequency",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/892/023/87892023_1784165245604_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87892023",
+            "found_at": "2026-07-20 19:57",
+            "is_tracked": false
+        },
         {
             "artist": "낙원 (NAKWON)",
             "title": "교통사고",
