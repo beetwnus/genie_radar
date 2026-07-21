@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-21 00:43:25",
+    "updated_at": "2026-07-21 14:04:50",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -132,6 +132,246 @@
         ]
     },
     "songs": [
+        {
+            "artist": "오유진",
+            "title": "여우야 뭐하니",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/892/548/87892548_1784171497653_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87892548",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "태윤 (TAEYOON)",
+            "title": "우리는",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/084/87883084_1784538232360_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883084",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "노아주다 (noahjooda) & 경제환",
+            "title": "마지막화",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/906/416/87906416_1784513491258_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87906416",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "정소연 (Jung Soyeon)",
+            "title": "너의 곁에 있을게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/350/87907350_1784533035964_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907350",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "Skelly",
+            "title": "All Eyes On Me",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/240/87907240_1784531501985_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907240",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "KIRI (키리)",
+            "title": "Party On The Phone",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/180/87893180_1784537039576_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893180",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "아포네 (Ahfoné)",
+            "title": "#startedfromthebottom",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/322/87907322_1784532799190_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907322",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "진엘 (브라더스)",
+            "title": "이별이라는 말에는",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/732/87883732_1784007094547_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883732",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "외동아들 김승기",
+            "title": "사클감성",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/906/242/87906242_1784594678615_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87906242",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "최도영 (CANDO)",
+            "title": "점점 멀어지는 널 보며",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/906/890/87906890_1784539492814_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87906890",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "듀 (DEW)",
+            "title": "러브퍼퓸",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/057/87907057_1784527891005_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907057",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "장은지",
+            "title": "하루의 끝",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/038/87907038_1784527027800_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907038",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "마해담",
+            "title": "수영",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/888/727/87888727_1784517661706_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87888727",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "New Link",
+            "title": "Reckless Day",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/818/87883818_1784085028028_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883818",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "아이닐 (iNEAL)",
+            "title": "Baby",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/878/438/87878438_1784517671364_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87878438",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "여은",
+            "title": "우리 결국",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/892/426/87892426_1784517671325_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87892426",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "HPK",
+            "title": "SeoulArts x Suno V1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/976/87883976_1784534990911_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883976",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "슈퍼마켓 (SUPER MARKET)",
+            "title": "Beat Mania",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/892/988/87892988_1784178123188_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87892988",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "나타샤",
+            "title": "환상통",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/892/474/87892474_1784533295711_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87892474",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "백지영 & 정지소",
+            "title": "사랑의 하츄핑: 고래보석의 전설 Special OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/891/912/87891912_1784164319136_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87891912",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "PATEKO (파테코)",
+            "title": "빈 편지 (feat. Seori, SHIRT)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/189/87893189_1784182301350_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893189",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "김하온 (HAON) & NOWIMYOUNG (나우아임영) & JMIN & KC",
+            "title": "2000 TAPE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/906/621/87906621_1784523364770_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87906621",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "유노윤호 (U-KNOW)",
+            "title": "Time's Tickin'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/889/263/87889263_1784109698260_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87889263",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "EK",
+            "title": "Core",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/120/87893120_1784512160591_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893120",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "쿠기 (Coogie) & 릴러말즈 (Leellamarz) & Crush",
+            "title": "HBK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/892/498/87892498_1784170630795_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87892498",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "GGM Kimbo & GGM Soulja",
+            "title": "Just Listen....",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/878/882/87878882_1783912291332_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87878882",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "기훈 (CATCH THE YOUNG)",
+            "title": "BLUE (Feat. 김동현)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/724/87893724_1784189492882_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893724",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "INVIZ",
+            "title": "여름, 밤 (IN JULY)(PROD BY.우은호)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/889/647/87889647_1784119909013_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87889647",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "강민정",
+            "title": "안녕내이름은미세먼지",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/861/659/87861659_1784170428554_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87861659",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
+        {
+            "artist": "NOPARI & Janet Suhh (자넷서)",
+            "title": "Frequency",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/892/023/87892023_1784165245604_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87892023",
+            "found_at": "2026-07-21 14:04",
+            "is_tracked": false
+        },
         {
             "artist": "브브걸 (BBGIRLS)",
             "title": "BODY WAVE",
