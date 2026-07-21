@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-21 14:04:50",
+    "updated_at": "2026-07-21 19:17:42",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -132,6 +132,110 @@
         ]
     },
     "songs": [
+        {
+            "artist": "TRADE L (트레이드 엘)",
+            "title": "BABY CACTUS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/187/87893187_1784515954073_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893187",
+            "found_at": "2026-07-21 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "빈센트블루",
+            "title": "그대에게 드림 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/536/87893536_1784187176958_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893536",
+            "found_at": "2026-07-21 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "프로미스나인",
+            "title": "Glow ME",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/906/990/87906990_1784526699588_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87906990",
+            "found_at": "2026-07-21 19:17",
+            "is_tracked": true
+        },
+        {
+            "artist": "원호 (WONHO)",
+            "title": "CORE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/354/87907354_1784533007462_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907354",
+            "found_at": "2026-07-21 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "크루셜스타 (CRUCiAL STAR)",
+            "title": "JAZZY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/353/87907353_1784533032593_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907353",
+            "found_at": "2026-07-21 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "8TURN (에잇턴)",
+            "title": "(8.X)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/906/331/87906331_1784511691048_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87906331",
+            "found_at": "2026-07-21 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "전상근",
+            "title": "내일도 출근! OST Part.8",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/331/87907331_1784532809870_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907331",
+            "found_at": "2026-07-21 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "MIN!",
+            "title": "Just Say Yes!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/535/87893535_1784187141237_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893535",
+            "found_at": "2026-07-21 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "노아코스트 (Noa Coast)",
+            "title": "해피엔딩",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/167/87893167_1784537105454_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893167",
+            "found_at": "2026-07-21 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "손예지",
+            "title": "물결",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/781/87883781_1784523913497_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883781",
+            "found_at": "2026-07-21 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "년수 (nyunsoo) & 오왈리 (owali)",
+            "title": "겨울 햇살",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/892/765/87892765_1784182784961_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87892765",
+            "found_at": "2026-07-21 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "타르트",
+            "title": "또 너가 그리워",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/892/301/87892301_1784539505687_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87892301",
+            "found_at": "2026-07-21 19:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "이겸비",
+            "title": "Right Here Right Now",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/325/87907325_1784532791546_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907325",
+            "found_at": "2026-07-21 19:17",
+            "is_tracked": false
+        },
         {
             "artist": "오유진",
             "title": "여우야 뭐하니",
