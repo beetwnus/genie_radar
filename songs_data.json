@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-22 14:03:43",
+    "updated_at": "2026-07-22 19:19:01",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -132,6 +132,102 @@
         ]
     },
     "songs": [
+        {
+            "artist": "쿨 이재훈",
+            "title": "The 사람",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/894/160/87894160_1784196704029_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87894160",
+            "found_at": "2026-07-22 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "정다쌤과 아이들 (JEONGDAWOON & BOYS)",
+            "title": "나무 (Tree)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/003/87907003_1784526730392_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907003",
+            "found_at": "2026-07-22 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "볼빨간사춘기",
+            "title": "여름아 부탁해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/911/129/87911129_1784618796070_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87911129",
+            "found_at": "2026-07-22 19:19",
+            "is_tracked": true
+        },
+        {
+            "artist": "피철인",
+            "title": "미쳐 미쳐",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/886/846/87886846_1784681500777_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87886846",
+            "found_at": "2026-07-22 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "림킴 (김예림)",
+            "title": "Exit to Nowhere",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/285/87907285_1784532106048_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907285",
+            "found_at": "2026-07-22 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "효린",
+            "title": "OriginaLyn",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/911/160/87911160_1784620005327_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87911160",
+            "found_at": "2026-07-22 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "공기남",
+            "title": "Airman: Reimagined #2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/267/87893267_1784541521141_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893267",
+            "found_at": "2026-07-22 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "신인류",
+            "title": "슈슈",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/604/87907604_1784536915286_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907604",
+            "found_at": "2026-07-22 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "박찬영",
+            "title": "행복의 이유",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/804/87883804_1784617393614_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883804",
+            "found_at": "2026-07-22 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "OURBIRTHDAY (아워벌스데이)",
+            "title": "HUNGRY (Side A)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/911/242/87911242_1784624866511_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87911242",
+            "found_at": "2026-07-22 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "칼라파워",
+            "title": "놀러왔어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/906/417/87906417_1784513495360_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87906417",
+            "found_at": "2026-07-22 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "LUN8 (루네이트)",
+            "title": "Off the Grid",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/911/151/87911151_1784619717638_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87911151",
+            "found_at": "2026-07-22 19:19",
+            "is_tracked": false
+        },
         {
             "artist": "미래도 (Miraedo)",
             "title": "우리의 젊음 속에 남아있는 건",
