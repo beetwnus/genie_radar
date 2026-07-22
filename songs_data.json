@@ -103,7 +103,8 @@
             "Younha",
             "Yuju",
             "Yunsae",
-            "Yuqi"
+            "Yuqi",
+            "OURBIRTHDAY"
         ],
         "JP": [
             "Ado",
@@ -210,7 +211,7 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/911/242/87911242_1784624866511_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87911242",
             "found_at": "2026-07-22 19:19",
-            "is_tracked": false
+            "is_tracked": true
         },
         {
             "artist": "칼라파워",
