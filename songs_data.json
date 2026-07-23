@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-23 14:09:04",
+    "updated_at": "2026-07-23 19:19:23",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -133,6 +133,134 @@
         ]
     },
     "songs": [
+        {
+            "artist": "김태래 (ZEROBASEONE)",
+            "title": "회상 〈산울림 50주년 기념 프로젝트〉",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/910/309/87910309_1784596330789_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87910309",
+            "found_at": "2026-07-23 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "성수진",
+            "title": "잘 지내니",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/002/87907002_1784526734480_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907002",
+            "found_at": "2026-07-23 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "존박",
+            "title": "여름은 돌아와",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/916/199/87916199_1784703997501_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87916199",
+            "found_at": "2026-07-23 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "박진영",
+            "title": "WET",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/916/113/87916113_1784702555400_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87916113",
+            "found_at": "2026-07-23 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "ONE PACT (원팩트)",
+            "title": "TUNED IN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/354/87893354_1784596917490_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893354",
+            "found_at": "2026-07-23 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "진혁",
+            "title": "사랑이었어 X BY CHANCE PROJECT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/916/603/87916603_1784710973482_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87916603",
+            "found_at": "2026-07-23 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "트웰브(TWLV)",
+            "title": "GOOD FRIEND OF YOURS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/910/408/87910408_1784598098445_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87910408",
+            "found_at": "2026-07-23 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "선우정아",
+            "title": "더 바라지도 않겠어 (Peacock)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/916/198/87916198_1784704002112_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87916198",
+            "found_at": "2026-07-23 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "WOOKI",
+            "title": "OVER",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/910/409/87910409_1784598398502_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87910409",
+            "found_at": "2026-07-23 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "HANZ",
+            "title": "A Diary of One I Loved",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/803/87883803_1784767526772_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883803",
+            "found_at": "2026-07-23 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "WHYNOT",
+            "title": "RUSH",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/377/87907377_1784648113909_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907377",
+            "found_at": "2026-07-23 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "노블레스 (Noblesse)",
+            "title": "You're the ocean in my mind",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/892/421/87892421_1784711412275_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87892421",
+            "found_at": "2026-07-23 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "택우",
+            "title": "아스팔트 위의 소년",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/031/87879031_1784712261979_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879031",
+            "found_at": "2026-07-23 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "옐로(YELLO)",
+            "title": "결혼해서 좋겠다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/910/87893910_1784196274874_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893910",
+            "found_at": "2026-07-23 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "kwacamolee (과카몰리)",
+            "title": "The Axis",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/916/196/87916196_1784704006070_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87916196",
+            "found_at": "2026-07-23 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "차스 (Chas)",
+            "title": "B.O.B : THE DYNASTY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/871/305/87871305_1783909797177_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87871305",
+            "found_at": "2026-07-23 19:19",
+            "is_tracked": false
+        },
         {
             "artist": "Sam Smith",
             "title": "Oh Mother",
