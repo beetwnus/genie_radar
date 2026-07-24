@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-24 00:45:02",
+    "updated_at": "2026-07-24 14:03:10",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -133,6 +133,246 @@
         ]
     },
     "songs": [
+        {
+            "artist": "제니 (JENNIE)",
+            "title": "Less than a Lover",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/660/87922660_1784793410845_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922660",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": true
+        },
+        {
+            "artist": "키제 (Ki:XÉ)",
+            "title": "kiki's key",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/916/677/87916677_1784712091095_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87916677",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "KATSEYE",
+            "title": "Animal",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/925/971/87925971_1784848302247_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87925971",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "정하경",
+            "title": "공룡만큼 사랑해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/004/87907004_1784526725741_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907004",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "ARTMS (아르테미스)",
+            "title": "＜Born Stunner＞",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/618/87922618_1784792829549_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922618",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "신현우",
+            "title": "여름밤이 오면",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/920/871/87920871_1784772706762_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87920871",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "데이브라운 (DayBrown)",
+            "title": "BLUE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/887/361/87887361_1784080325157_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87887361",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "기현 (몬스타엑스)",
+            "title": "So Good (English ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/570/87922570_1784792204836_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922570",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "최열음",
+            "title": "FRAGMENTS OF ME",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/911/770/87911770_1784792063579_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87911770",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤윤서 & 이수호",
+            "title": "미스트롯 : 포유 PART11",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/543/87922543_1784791998757_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922543",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "박학기",
+            "title": "바다가자",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/908/021/87908021_1784623146817_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87908021",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "초록불꽃소년단",
+            "title": "배설가",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/080/87879080_1784770061726_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879080",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "DJ ROOTS",
+            "title": "Lelele",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/910/407/87910407_1784598095867_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87910407",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "웨더보트",
+            "title": "코끼리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/053/87922053_1784786496590_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922053",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "류니콘",
+            "title": "아니듯이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/910/686/87910686_1784776494587_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87910686",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "비쥬 (Bijou)",
+            "title": "Summer Night 2026",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/910/623/87910623_1784707921885_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87910623",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤대천",
+            "title": "연둣빛 별",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/819/87907819_1784792087720_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907819",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "비비안 (BBAHN)",
+            "title": "같은 마음으로 시작했는데",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/911/570/87911570_1784776552097_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87911570",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "프리멜로",
+            "title": "아직 어제 같은데",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/107/87893107_1784798812506_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893107",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "디엔 (d&)",
+            "title": "LUNAPOLIS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/045/87907045_1784792869938_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907045",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "김태래 (ZEROBASEONE)",
+            "title": "회상 〈산울림 50주년 기념 프로젝트〉",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/910/309/87910309_1784596330789_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87910309",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "성수진",
+            "title": "잘 지내니",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/907/002/87907002_1784526734480_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87907002",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "존박",
+            "title": "여름은 돌아와",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/916/199/87916199_1784703997501_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87916199",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "박진영",
+            "title": "WET",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/916/113/87916113_1784702555400_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87916113",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "ONE PACT (원팩트)",
+            "title": "TUNED IN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/354/87893354_1784596917490_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893354",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "진혁",
+            "title": "사랑이었어 X BY CHANCE PROJECT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/916/603/87916603_1784710973482_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87916603",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "트웰브(TWLV)",
+            "title": "GOOD FRIEND OF YOURS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/910/408/87910408_1784598098445_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87910408",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "선우정아",
+            "title": "더 바라지도 않겠어 (Peacock)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/916/198/87916198_1784704002112_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87916198",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "WOOKI",
+            "title": "OVER",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/910/409/87910409_1784598398502_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87910409",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "HANZ",
+            "title": "A Diary of One I Loved",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/883/803/87883803_1784767526772_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87883803",
+            "found_at": "2026-07-24 14:03",
+            "is_tracked": false
+        },
         {
             "artist": "볼빨간사춘기",
             "title": "여름아 부탁해",
