@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-25 13:50:04",
+    "updated_at": "2026-07-25 18:43:23",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -133,6 +133,86 @@
         ]
     },
     "songs": [
+        {
+            "artist": "래원 (Layone) & LUCKSMITH",
+            "title": "LUCKSMITH VOL.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/915/101/87915101_1784689892613_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87915101",
+            "found_at": "2026-07-25 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "김예찬",
+            "title": "우산 (김예찬 X MOODIVE)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/910/680/87910680_1784604694745_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87910680",
+            "found_at": "2026-07-25 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "권은비",
+            "title": "사랑이 온다 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/915/884/87915884_1784857565272_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87915884",
+            "found_at": "2026-07-25 18:43",
+            "is_tracked": true
+        },
+        {
+            "artist": "디핵 (D-Hack)",
+            "title": "무계획 지구",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/914/680/87914680_1784686294438_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87914680",
+            "found_at": "2026-07-25 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "앨리스신드롬",
+            "title": "Deep Dive",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/645/87922645_1784793153415_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922645",
+            "found_at": "2026-07-25 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "리트릴라 (LiTrilla)",
+            "title": "play ya role (feat. Eric Minz)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/910/583/87910583_1784873979337_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87910583",
+            "found_at": "2026-07-25 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "김한결",
+            "title": "지금 떠나고 있는 너에게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/074/87922074_1784786540890_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922074",
+            "found_at": "2026-07-25 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "SUHI",
+            "title": "나무",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/087/87922087_1784787096425_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922087",
+            "found_at": "2026-07-25 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "김산하",
+            "title": "안아주세요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/613/87922613_1784792847083_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922613",
+            "found_at": "2026-07-25 18:43",
+            "is_tracked": false
+        },
+        {
+            "artist": "엘 (L)",
+            "title": "드라마 '공감세포' Original Soundtrack",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/152/87893152_1784872927641_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893152",
+            "found_at": "2026-07-25 18:43",
+            "is_tracked": false
+        },
         {
             "artist": "조춘복씨",
             "title": "내 사랑은!",
