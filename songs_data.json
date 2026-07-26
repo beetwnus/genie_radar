@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-26 14:13:42",
+    "updated_at": "2026-07-26 18:52:42",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -133,6 +133,102 @@
         ]
     },
     "songs": [
+        {
+            "artist": "도겸",
+            "title": "오싹한 연애 OST Part 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/910/846/87910846_1784611610308_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87910846",
+            "found_at": "2026-07-26 18:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "하현우 (국카스텐)",
+            "title": "아파트 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/923/107/87923107_1784799739740_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87923107",
+            "found_at": "2026-07-26 18:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "허성현 (rosy)",
+            "title": "Comes & Goes",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/916/551/87916551_1784859604616_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87916551",
+            "found_at": "2026-07-26 18:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "박소은 & BünyTune (버니튠)",
+            "title": "BünyTune ep.6 ［속마음］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/910/348/87910348_1784611438067_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87910348",
+            "found_at": "2026-07-26 18:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "초승 (CHOSNG)",
+            "title": "사랑이 온다 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/915/921/87915921_1784857574138_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87915921",
+            "found_at": "2026-07-26 18:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "Peak & Pitch",
+            "title": "말하지",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/662/87922662_1784793407209_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922662",
+            "found_at": "2026-07-26 18:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "Lacuna (라쿠나)",
+            "title": "결혼의 완성 Original Sound Track Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/911/202/87911202_1784872944965_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87911202",
+            "found_at": "2026-07-26 18:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "로시 (Rothy)",
+            "title": "First Train",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/571/87922571_1784792201402_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922571",
+            "found_at": "2026-07-26 18:52",
+            "is_tracked": true
+        },
+        {
+            "artist": "뷰 (view)",
+            "title": "playlist (feat. Gist)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/917/475/87917475_1784724391804_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87917475",
+            "found_at": "2026-07-26 18:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "Jzer0 (준영)",
+            "title": "욕심이라도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/878/838/87878838_1784596972691_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87878838",
+            "found_at": "2026-07-26 18:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "1959",
+            "title": "Alice",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/915/738/87915738_1784874005816_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87915738",
+            "found_at": "2026-07-26 18:52",
+            "is_tracked": false
+        },
+        {
+            "artist": "데레",
+            "title": "Love More",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/916/125/87916125_1784874459996_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87916125",
+            "found_at": "2026-07-26 18:52",
+            "is_tracked": false
+        },
         {
             "artist": "노르웨이 숲",
             "title": "너는, 꽃 (君は花)",
