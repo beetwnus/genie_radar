@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-28 14:02:30",
+    "updated_at": "2026-07-28 19:26:53",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -133,6 +133,134 @@
         ]
     },
     "songs": [
+        {
+            "artist": "후이(HUI)",
+            "title": "BINGO",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/921/156/87921156_1784776630849_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87921156",
+            "found_at": "2026-07-28 19:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "하비 (최성용)",
+            "title": "그대에게 난 뭐였나요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/915/936/87915936_1784699524621_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87915936",
+            "found_at": "2026-07-28 19:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "한요한",
+            "title": "next",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/937/528/87937528_1785123692335_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87937528",
+            "found_at": "2026-07-28 19:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "카드 (KARD)",
+            "title": "KARD 1st Album 'Where To Now? (Part.2) : NOWHERE'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/937/971/87937971_1785135700079_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87937971",
+            "found_at": "2026-07-28 19:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "eldon",
+            "title": "The comic book Ep.2 : RUN & GUN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/938/235/87938235_1785139290940_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87938235",
+            "found_at": "2026-07-28 19:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "정세운",
+            "title": "Too Much",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/937/960/87937960_1785135405517_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87937960",
+            "found_at": "2026-07-28 19:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "POW (파우)",
+            "title": "FLAVOR",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/937/789/87937789_1785129434401_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87937789",
+            "found_at": "2026-07-28 19:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "NC.A",
+            "title": "널 만나러 가던 길",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/916/819/87916819_1785205615907_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87916819",
+            "found_at": "2026-07-28 19:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "반광옥",
+            "title": "반복재생중",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/927/706/87927706_1785129477284_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87927706",
+            "found_at": "2026-07-28 19:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "탁 (배치기)",
+            "title": "사랑이 뭐길래 (feat. 배기성)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/915/913/87915913_1784893708683_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87915913",
+            "found_at": "2026-07-28 19:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "차가을",
+            "title": "가끔",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/921/736/87921736_1784872105252_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87921736",
+            "found_at": "2026-07-28 19:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "entoy",
+            "title": "It's Summer",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/937/197/87937197_1785116190470_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87937197",
+            "found_at": "2026-07-28 19:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "한림 (Hanlim)",
+            "title": "천천히, 오래 걷자",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/927/715/87927715_1785115408129_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87927715",
+            "found_at": "2026-07-28 19:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "Sunday Moon",
+            "title": "On a Cloudy Day",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/888/709/87888709_1785132533864_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87888709",
+            "found_at": "2026-07-28 19:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "12BH",
+            "title": "우리에게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/927/561/87927561_1785128792090_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87927561",
+            "found_at": "2026-07-28 19:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "SUL (에슈엘)",
+            "title": "Yes, I Like",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/884/709/87884709_1784032653432_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87884709",
+            "found_at": "2026-07-28 19:26",
+            "is_tracked": false
+        },
         {
             "artist": "미우",
             "title": "Momentum",
