@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-28 01:07:15",
+    "updated_at": "2026-07-28 14:02:30",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -133,6 +133,246 @@
         ]
     },
     "songs": [
+        {
+            "artist": "미우",
+            "title": "Momentum",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/921/268/87921268_1784777517272_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87921268",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "선진",
+            "title": "Dreaming",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/920/866/87920866_1784772697548_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87920866",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "Sumsher (숨셔)",
+            "title": "DON'T HATE YOU!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/915/948/87915948_1784893704237_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87915948",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "siso (시소) & 앨리스유",
+            "title": "Ain't Good",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/937/963/87937963_1785135416992_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87937963",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "Brick (브릭)",
+            "title": "Switch it Up",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/923/146/87923146_1784800464752_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87923146",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "NO_ON (눈)",
+            "title": "Dancing With Myself",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/937/204/87937204_1785116500943_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87937204",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "1DAY",
+            "title": "잋오케 (feat. Skinny Brown)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/917/437/87917437_1784723493501_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87917437",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "Mabinc",
+            "title": "Summer Like This",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/920/862/87920862_1785140868872_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87920862",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "포포",
+            "title": "얘들아 나 헤어졌어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/937/317/87937317_1785118891004_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87937317",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "수아",
+            "title": "Ah! (with TAEHWAN)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/937/800/87937800_1785129702521_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87937800",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "TIMMY",
+            "title": "4TLUV",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/937/442/87937442_1785121599186_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87937442",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "리디아 (Lydia)",
+            "title": "나 자꾸 생각나",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/937/020/87937020_1785140889154_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87937020",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "IRO(아이로)",
+            "title": "Life is",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/757/87893757_1784876203355_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893757",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "박연",
+            "title": "너에게 가는 순간",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/915/013/87915013_1785138694897_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87915013",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "우희준",
+            "title": "선모",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/893/213/87893213_1785132505500_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87893213",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "WESS",
+            "title": "SÉOUL",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/927/225/87927225_1784873429678_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87927225",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "문진웅",
+            "title": "그래요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/923/343/87923343_1785132521762_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87923343",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "Paper Life",
+            "title": "ASKA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/927/878/87927878_1785120598308_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87927878",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "빌로우 라이즈",
+            "title": "빛이 되어줄게요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/863/87922863_1785115388283_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922863",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "허회경",
+            "title": "그대에게 드림 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/914/836/87914836_1784687562449_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87914836",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "Young K (DAY6)",
+            "title": "YOUNGEST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/926/635/87926635_1784858205289_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87926635",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "NouerA (누에라)",
+            "title": ".exe",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/682/87922682_1784793442405_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922682",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "범키",
+            "title": "SPEEED",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/710/87922710_1784794009721_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922710",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "문수진 (Moon Sujin)",
+            "title": "love me not (feat. 원슈타인)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/915/790/87915790_1784873999673_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87915790",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "스텔라이브",
+            "title": "Colorful Strokes",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/921/361/87921361_1784778729094_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87921361",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "ONEWE(원위)",
+            "title": "線 : The Wake",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/686/87922686_1784793527024_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922686",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "DNA",
+            "title": "No Cap",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/921/192/87921192_1784776929026_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87921192",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "이상민",
+            "title": "샤먼 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/914/611/87914611_1784685092097_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87914611",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "임다이 (Im DAI)",
+            "title": "Metaphorically",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/091/87922091_1784787092486_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922091",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "은가은 & 박현호",
+            "title": "사랑해 사랑해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/186/87922186_1784792388015_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922186",
+            "found_at": "2026-07-28 14:02",
+            "is_tracked": false
+        },
         {
             "artist": "로시 (Rothy)",
             "title": "First Train",
