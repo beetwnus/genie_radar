@@ -312,6 +312,23 @@ def scrape_artist_page(artist_id, artist_display_name, existing_links, seen_link
 
                 title = title_elem.text.strip() if title_elem else "未知專輯"
 
+                # === 用頁面上真實的發行日期，而不是「現在爬蟲執行的時間」 ===
+                # 💡 這裡的日期格式是 "2026.07.29"，沒有時分資訊，統一補 00:00
+                #    避免把明明是很久以前發行的專輯，誤標成「今天發現」
+                date_text = date_elem.text.strip() if date_elem else ""
+                release_date = None
+                if date_text:
+                    try:
+                        release_date = datetime.strptime(date_text, "%Y.%m.%d")
+                    except ValueError:
+                        release_date = None
+
+                if release_date:
+                    found_at = release_date.strftime("%Y-%m-%d") + " 00:00"
+                else:
+                    # 抓不到日期的極端情況才退回用現在時間，避免整筆資料被跳過
+                    found_at = get_taiwan_time().strftime("%Y-%m-%d %H:%M")
+
                 img_elem = item.select_one("span.cover img")
                 img_src = ""
                 if img_elem and img_elem.get('src'):
@@ -323,7 +340,7 @@ def scrape_artist_page(artist_id, artist_display_name, existing_links, seen_link
                     "title": title,
                     "image": img_src,
                     "link": final_link,
-                    "found_at": get_taiwan_time().strftime("%Y-%m-%d %H:%M"),
+                    "found_at": found_at,
                     "is_tracked": True
                 }
                 new_songs.append(new_song)
