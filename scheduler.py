@@ -1,1713 +1,329 @@
-{
-    "updated_at": "2026-07-29 14:28:59",
-    "tracked_artists": {
-        "KR": [
-            "aespa",
-            "AKMU",
-            "Apink",
-            "Baby DONT Cry",
-            "BABYMONSTER",
-            "BADVILLAIN",
-            "Baek A Yeon",
-            "BBGIRLS",
-            "BIBI",
-            "Billlie",
-            "BLACKPINK",
-            "BOL4",
-            "Choi Yoo jung",
-            "Chung Ha",
-            "CLASSy",
-            "CLC",
-            "CSR",
-            "Dreamcatcher",
-            "EL7Z UP",
-            "Ellui",
-            "Eunha",
-            "EVERGLOW",
-            "FIFTY FIFTY",
-            "fromis_9",
-            "GFRIEND",
-            "Gyubin",
-            "H1-KEY",
-            "Hayeon",
-            "Hearts2Hearts",
-            "Hebi",
-            "HUH YUNJIN",
-            "HwaSa",
-            "i-dle",
-            "ILLIT",
-            "ILY:1",
-            "ITZY",
-            "IU",
-            "IVE",
-            "IZ*ONE",
-            "izna",
-            "Jennie",
-            "JIHYO",
-            "JISOO",
-            "JO YURI",
-            "Joy",
-            "Kang Hye Won",
-            "Kep1er",
-            "KiiiKiii",
-            "Kim Sejeong",
-            "KIMDOAH",
-            "KISS OF LIFE",
-            "Kwon Eun Bi",
-            "KyoungSeo",
-            "LATENCY",
-            "LE SSERAFIM",
-            "LEE CHAE YEON",
-            "LEE HI",
-            "LIGHTSUM",
-            "Lisa",
-            "Mamamoo",
-            "Minnie",
-            "Miyeon",
-            "Moonbyul",
-            "MRCH",
-            "NAYEON",
-            "NewJeans",
-            "NMIXX",
-            "OH MY GIRL",
-            "OURBIRTHDAY",
-            "QWER",
-            "Red Velvet",
-            "RESCENE",
-            "Rosé",
-            "Rothy",
-            "Saebit",
-            "Seo Dahyun",
-            "SEULGI",
-            "SINB",
-            "siso",
-            "Solar",
-            "Somi",
-            "SOOJIN",
-            "Soyeon",
-            "STAYC",
-            "Suzy",
-            "T-ara",
-            "Taeyeon",
-            "tripleS",
-            "TWICE",
-            "TZUYU",
-            "Umji",
-            "VIVIZ",
-            "Wendy",
-            "Wheein",
-            "WINTER",
-            "WJSN",
-            "WOOAH",
-            "YENA",
-            "Yerin",
-            "Younha",
-            "Yuju",
-            "Yunsae",
-            "Yuqi"
-        ],
-        "JP": [
-            "Ado",
-            "Ai Tomioka",
-            "Aimer",
-            "aimyon",
-            "Aooo",
-            "ATARAYO",
-            "BAND-MAID",
-            "chilldspot",
-            "Chilli Beans",
-            "Faulieu",
-            "HANA",
-            "LiSA",
-            "Majiko",
-            "NEK!",
-            "ReoNa",
-            "TRiDENT",
-            "tuki.",
-            "yama",
-            "YOASOBI",
-            "Yorushika",
-            "Yuika",
-            "ZUTOMAYO",
-            "ねぎ塩豚丼"
-        ]
+import json
+import requests
+import os
+import re
+import time
+from bs4 import BeautifulSoup
+from datetime import datetime, timedelta, timezone
+
+# ==========================================
+# 1. 設定監控藝人名單 (改為使用藝人 ID 追蹤)
+# 格式: "藝人ID": "自訂顯示名稱 (給側邊欄用的)"
+# ==========================================
+TRACKED_ARTISTS = {
+    "KR": {
+        "80957377": "aespa",
+        "80197389": "AKMU",
+        "80131399": "Apink",
+        "82934007": "Baby DONT Cry",
+        "82262194": "BABYMONSTER",
+        "82507911": "BADVILLAIN",
+        "80158972": "Baek A Yeon",
+        "82072751": "BBGIRLS",
+        "80667991": "BIBI",
+        "81254551": "Billlie",
+        "80539764": "BLACKPINK",
+        "80316854": "BOL4",
+        "80519791": "Choi Yoo jung",
+        "80519790": "Chung Ha",
+        "81394103": "CLASSy",
+        "80347927": "CLC",
+        "81491030": "CSR",
+        "80560326": "Dreamcatcher",
+        "82164268": "EL7Z UP",
+        "81223544": "Ellui",
+        "80441312": "Eunha",
+        "80682661": "EVERGLOW",
+        "81630823": "FIFTY FIFTY",
+        "80606382": "fromis_9",
+        "80327727": "GFRIEND",
+        "82162588": "Gyubin",
+        "81289352": "H1-KEY",
+        "80923087": "Hayeon",
+        "82779545": "Hearts2Hearts",
+        "82833348": "Hebi",
+        "81399607": "HUH YUNJIN",
+        "80441390": "HwaSa",
+        "80632010": "i-dle",
+        "82387391": "ILLIT",
+        "81354329": "ILY:1",
+        "80679336": "ITZY",
+        "67872918": "IU",
+        "81271496": "IVE",
+        "80660177": "IZ*ONE",
+        "82704290": "izna",
+        "80539780": "Jennie",
+        "80468937": "JIHYO",
+        "80539782": "JISOO",
+        "80661354": "JO YURI",
+        "80441325": "Joy",
+        "80661359": "Kang Hye Won",
+        "81286392": "Kep1er",
+        "82792175": "KiiiKiii",
+        "80519786": "Kim Sejeong",
+        "80668350": "KIMDOAH",
+        "82007551": "KISS OF LIFE",
+        "80661358": "Kwon Eun Bi",
+        "80704912": "KyoungSeo",
+        "83176183": "LATENCY",
+        "81397289": "LE SSERAFIM",
+        "80661363": "LEE CHAE YEON",
+        "80158970": "LEE HI",
+        "81131367": "LIGHTSUM",
+        "80539781": "Lisa",
+        "80279134": "Mamamoo",
+        "80632475": "Minnie",
+        "80632474": "Miyeon",
+        "80441388": "Moonbyul",
+        "80740728": "MRCH",
+        "80468933": "NAYEON",
+        "81490206": "NewJeans",
+        "81326040": "NMIXX",
+        "80357324": "OH MY GIRL",
+        "82209678": "QWER",
+        "80284018": "Red Velvet",
+        "82379125": "RESCENE",
+        "80539779": "Rosé",
+        "80602557": "Rothy",
+        "81165501": "Saebit",
+        "81655094": "Seo Dahyun",
+        "80441324": "SEULGI",
+        "80441314": "SINB",
+        "80794774": "siso",
+        "80441387": "Solar",
+        "80519789": "Somi",
+        "80632471": "SOOJIN",
+        "79948613": "Soyeon",  
+        "80953355": "STAYC",
+        "80119174": "Suzy",
+        "56069675": "Taeyeon",
+        "79930356": "T-ara",
+        "81599561": "tripleS",
+        "80463902": "TWICE",
+        "80468941": "TZUYU",
+        "80441315": "Umji",
+        "81333511": "VIVIZ",
+        "80258051": "Wendy",
+        "80441389": "Wheein",
+        "80957384": "WINTER",
+        "80505860": "WJSN",
+        "80840761": "WOOAH",
+        "80661355": "YENA",
+        "80441311": "Yerin",
+        "42307533": "Younha",
+        "80441313": "Yuju",
+        "42114005": "Yunsae",
+        "80632473": "Yuqi",
+        "83405256": "OURBIRTHDAY"
+        # ⚠️ 請在此處繼續加入
     },
-    "songs": [
-        {
-            "artist": "aespa",
-            "title": "KISS N TELL",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/533/87922533_1784791965671_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922533",
-            "found_at": "2026-07-24 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "aespa",
-            "title": "LEMONADE - The 2nd Album (NINGNING Special Ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/687/177/87687177_1780041720886_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87687177",
-            "found_at": "2026-05-30 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "aespa",
-            "title": "LEMONADE - The 2nd Album (WINTER Special Ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/687/183/87687183_1780042012867_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87687183",
-            "found_at": "2026-05-30 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "aespa",
-            "title": "LEMONADE - The 2nd Album (GISELLE Special Ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/687/188/87687188_1780042024144_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87687188",
-            "found_at": "2026-05-30 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "aespa",
-            "title": "LEMONADE - The 2nd Album (KARINA Special Ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/687/194/87687194_1780042215359_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87687194",
-            "found_at": "2026-05-30 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "aespa",
-            "title": "LEMONADE - The 2nd Album",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/777/87602777_1779964265986_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87602777",
-            "found_at": "2026-05-29 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "AKMU",
-            "title": "개화",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/471/134/87471134_1775454694305_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87471134",
-            "found_at": "2026-04-07 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Apink",
-            "title": "15th Season",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/716/87503716_1776155508884_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87503716",
-            "found_at": "2026-04-19 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Baby DONT Cry",
-            "title": "The 1st Mini Album ［AFTER CRY］",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/413/523/87413523_1774254999311_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87413523",
-            "found_at": "2026-03-24 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Baby DONT Cry",
-            "title": "Shapeshifter",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/362/034/87362034_1773129706834_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87362034",
-            "found_at": "2026-03-11 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "BABYMONSTER",
-            "title": "SUGAR HONEY ICE TEA",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/715/003/87715003_1780628491038_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87715003",
-            "found_at": "2026-06-08 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "BABYMONSTER",
-            "title": "춤 (CHOOM)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/583/370/87583370_1777849894482_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87583370",
-            "found_at": "2026-05-04 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Baek A Yeon",
-            "title": "들어봐",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/815/147/87815147_1782436912768_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87815147",
-            "found_at": "2026-06-29 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "BBGIRLS",
-            "title": "BODY WAVE",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/889/264/87889264_1784109717982_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87889264",
-            "found_at": "2026-07-16 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "BIBI",
-            "title": "BUMPA",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/662/87646662_1779180702235_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87646662",
-            "found_at": "2026-05-20 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "BIBI",
-            "title": "21세기 대군부인 OST Part.1",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/806/87484806_1775713300842_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87484806",
-            "found_at": "2026-04-10 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Billlie",
-            "title": "the collective soul and unconscious: chapter two",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/570/747/87570747_1777876701801_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87570747",
-            "found_at": "2026-05-06 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "BLACKPINK",
-            "title": "DEADLINE",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/316/669/87316669_1772157302225_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87316669",
-            "found_at": "2026-02-27 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "BLACKPINK",
-            "title": "DEADLINE",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/316/685/87316685_1772156918165_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87316685",
-            "found_at": "2026-02-27 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "BOL4",
-            "title": "여름아 부탁해",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/911/129/87911129_1784618796070_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87911129",
-            "found_at": "2026-07-22 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "BOL4",
-            "title": "Someday (from 오늘도 매진했습니다 OST Part 6)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/565/581/87565581_1777425180094_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87565581",
-            "found_at": "2026-05-06 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "BOL4",
-            "title": "Find You",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/530/293/87530293_1776757904419_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87530293",
-            "found_at": "2026-04-22 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Choi Yoo jung",
-            "title": "Perfect Target",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/826/540/87826540_1782722206362_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87826540",
-            "found_at": "2026-06-30 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Chung Ha",
-            "title": "Save me",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/227/87233227_1770354435295_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87233227",
-            "found_at": "2026-02-09 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "CLASSy",
-            "title": "RE:BOOT ［눈물 이후］",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/784/098/87784098_1782094963348_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87784098",
-            "found_at": "2026-06-23 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "CSR",
-            "title": "［ASTROCHILD IN THE LONELY PLANET］ CSR(첫사랑) - 숨길 수 없는 맘인걸",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/423/932/87423932_1774424190691_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87423932",
-            "found_at": "2026-03-26 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Ellui",
-            "title": "아너 : 그녀들의 법정 OST Part.3",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/248/937/87248937_1770684774802_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87248937",
-            "found_at": "2026-02-16 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "EVERGLOW",
-            "title": "CODE",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/363/87314363_1772170751387_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87314363",
-            "found_at": "2026-03-03 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "FIFTY FIFTY",
-            "title": "내일도 출근! OST Part.1",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/915/87794915_1782115299421_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794915",
-            "found_at": "2026-06-23 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "FIFTY FIFTY",
-            "title": "Imperfect-I'mperfect",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/021/87641021_1779073897320_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87641021",
-            "found_at": "2026-06-01 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "FIFTY FIFTY",
-            "title": "STARSTRUCK",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/595/471/87595471_1778086011496_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87595471",
-            "found_at": "2026-05-15 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "FIFTY FIFTY",
-            "title": "Wish You Were Here",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/756/87390756_1773738707708_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87390756",
-            "found_at": "2026-03-24 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "fromis_9",
-            "title": "Glow ME",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/906/990/87906990_1784526699588_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87906990",
-            "found_at": "2026-07-21 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "fromis_9",
-            "title": "LIKE YOU BETTER (Japanese ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/447/907/87447907_1774934285313_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87447907",
-            "found_at": "2026-04-01 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "fromis_9",
-            "title": "월간남친 Part 2 (Soundtrack from the Netflix Series)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/385/780/87385780_1773646900106_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87385780",
-            "found_at": "2026-03-17 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Gyubin",
-            "title": "You Light Up My Life",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/669/973/87669973_1779701809748_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87669973",
-            "found_at": "2026-06-12 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Gyubin",
-            "title": "Flower (한류 시작 20th 프로젝트 Part.7)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/330/87512330_1776327725619_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87512330",
-            "found_at": "2026-04-17 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "H1-KEY",
-            "title": "LOVECHAPTER",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/336/847/87336847_1772593892162_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87336847",
-            "found_at": "2026-03-05 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Hearts2Hearts",
-            "title": "Lemon Tang - The 2nd Mini Album",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/793/964/87793964_1782095127073_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87793964",
-            "found_at": "2026-06-22 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Hearts2Hearts",
-            "title": "iScreaM Vol.39 : RUDE! Remixes",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/428/518/87428518_1774512691192_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87428518",
-            "found_at": "2026-03-27 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Hearts2Hearts",
-            "title": "RUDE! (Japanese Ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/351/87390351_1773728833661_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87390351",
-            "found_at": "2026-03-18 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Hearts2Hearts",
-            "title": "RUDE!",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/287/901/87287901_1771485100205_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87287901",
-            "found_at": "2026-02-20 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Hebi",
-            "title": "도굴왕 : 엔드라인 OST",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/663/87879663_1783930312550_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87879663",
-            "found_at": "2026-07-14 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Hebi",
-            "title": "Catalepsy",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/245/87679245_1779870421294_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87679245",
-            "found_at": "2026-06-02 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Hebi",
-            "title": "Allergy",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/462/342/87462342_1775208091895_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87462342",
-            "found_at": "2026-04-06 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "HwaSa",
-            "title": "So Cute",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/481/426/87481426_1775649113805_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87481426",
-            "found_at": "2026-04-09 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "i-dle",
-            "title": "We made",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/602/87745602_1783138959792_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87745602",
-            "found_at": "2026-07-06 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "i-dle",
-            "title": "HIDE AND SEEK",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/520/022/87520022_1776527190718_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87520022",
-            "found_at": "2026-04-22 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "ILLIT",
-            "title": "I Got Your Back",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/926/794/87926794_1784861614662_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87926794",
-            "found_at": "2026-07-26 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "ILLIT",
-            "title": "MAMIHLAPINATAPAI",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/567/808/87567808_1777456326075_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87567808",
-            "found_at": "2026-04-30 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "ILLIT",
-            "title": "Bubee (Korean Ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/169/87498169_1776045101740_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87498169",
-            "found_at": "2026-04-13 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "ILLIT",
-            "title": "Bubee",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/457/999/87457999_1775107632813_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87457999",
-            "found_at": "2026-04-06 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "ITZY",
-            "title": "Motto (Remixes)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/650/969/87650969_1779247305789_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87650969",
-            "found_at": "2026-05-22 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "ITZY",
-            "title": "Motto",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/632/621/87632621_1778830396872_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87632621",
-            "found_at": "2026-05-18 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "IVE",
-            "title": "LUCID DREAM (Shin Sakiura Remix)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/815/856/87815856_1782450721274_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87815856",
-            "found_at": "2026-07-08 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "IVE",
-            "title": "LUCID DREAM (Taku Takahashi Remix)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/780/547/87780547_1781785605721_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87780547",
-            "found_at": "2026-07-01 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "IVE",
-            "title": "LUCID DREAM",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/623/711/87623711_1778649102712_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87623711",
-            "found_at": "2026-05-27 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "IVE",
-            "title": "LUCID DREAM",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/623/721/87623721_1778649105619_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87623721",
-            "found_at": "2026-05-20 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "IVE",
-            "title": "Fashion",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/418/275/87418275_1774343860097_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87418275",
-            "found_at": "2026-04-03 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "IVE",
-            "title": "REVIVE＋",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/225/87233225_1771579384466_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87233225",
-            "found_at": "2026-02-23 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "izna",
-            "title": "SET THE TEMPO",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/714/869/87714869_1780626721646_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87714869",
-            "found_at": "2026-06-08 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "izna",
-            "title": "Love All",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/327/844/87327844_1772431940884_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87327844",
-            "found_at": "2026-03-16 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Jennie",
-            "title": "Less than a Lover",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/660/87922660_1784793410845_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922660",
-            "found_at": "2026-07-24 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Jennie",
-            "title": "Ruby (The Complete Collection)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/038/87344038_1772761632514_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87344038",
-            "found_at": "2026-03-06 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Kep1er",
-            "title": "CRACK CODE",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/433/713/87433713_1774597914680_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87433713",
-            "found_at": "2026-03-31 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Kep1er",
-            "title": "I Stay (From '너자 2')",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/302/277/87302277_1771920820823_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87302277",
-            "found_at": "2026-02-25 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "KiiiKiii",
-            "title": "21세기 대군부인 OST Part.2",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/811/87484811_1775713596338_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87484811",
-            "found_at": "2026-04-11 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "KISS OF LIFE",
-            "title": "BREAK IT",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/829/412/87829412_1782900245112_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87829412",
-            "found_at": "2026-07-04 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "KISS OF LIFE",
-            "title": "Who is she",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/462/340/87462340_1775207815736_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87462340",
-            "found_at": "2026-04-06 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Kwon Eun Bi",
-            "title": "사랑이 온다 OST Part.1",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/915/884/87915884_1785138801712_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87915884",
-            "found_at": "2026-07-25 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "KyoungSeo",
-            "title": "슈퍼스타",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/826/522/87826522_1782721605743_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87826522",
-            "found_at": "2026-06-30 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "KyoungSeo",
-            "title": "어느 멋진 도망 OST '말 대신'",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/629/342/87629342_1778745162584_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87629342",
-            "found_at": "2026-05-17 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "LATENCY",
-            "title": "LATE O' CLOCK",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/691/87390691_1773736899297_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87390691",
-            "found_at": "2026-03-18 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "LE SSERAFIM",
-            "title": "BOOMPALA (Champions Remix)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/699/162/87699162_1780368692329_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87699162",
-            "found_at": "2026-06-03 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "LE SSERAFIM",
-            "title": "CELEBRATION (Supergirl ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/685/547/87685547_1780017118048_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87685547",
-            "found_at": "2026-05-31 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "LE SSERAFIM",
-            "title": "BOOMPALA (LE SSERAFIM Packages)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/658/714/87658714_1779420991115_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87658714",
-            "found_at": "2026-05-25 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "LE SSERAFIM",
-            "title": "BOOMPALA (Remixes)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/658/708/87658708_1779420704435_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87658708",
-            "found_at": "2026-05-23 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "LE SSERAFIM",
-            "title": "'PUREFLOW' pt.1",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/544/291/87544291_1779416485779_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87544291",
-            "found_at": "2026-05-22 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "LE SSERAFIM",
-            "title": "CELEBRATION (Remixes)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/545/562/87545562_1777008090886_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87545562",
-            "found_at": "2026-04-25 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "LEE CHAE YEON",
-            "title": "Till I Die",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/554/586/87554586_1777253190589_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87554586",
-            "found_at": "2026-04-28 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "LEE HI",
-            "title": "2 EASY 2 BE HON2ST",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/562/117/87562117_1777372968349_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87562117",
-            "found_at": "2026-05-05 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Mamamoo",
-            "title": "4WARD",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/700/556/87700556_1780390075897_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87700556",
-            "found_at": "2026-06-04 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Minnie",
-            "title": "세이렌 OST Part.3",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/375/503/87375503_1773362501920_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87375503",
-            "found_at": "2026-03-16 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Miyeon",
-            "title": "Bloom Again (Prod by Yoon Ilsang)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/487/929/87487929_1775784715132_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87487929",
-            "found_at": "2026-04-13 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Moonbyul",
-            "title": "REV",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/418/151/87418151_1774342650161_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87418151",
-            "found_at": "2026-03-25 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "MRCH",
-            "title": "상생관계",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/852/130/87852130_1783311698842_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87852130",
-            "found_at": "2026-07-07 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "MRCH",
-            "title": "내일도 출근! OST Part.2",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/801/050/87801050_1782205382497_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87801050",
-            "found_at": "2026-06-24 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "MRCH",
-            "title": "미혼남녀의 효율적 만남 OST Part.2",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/338/344/87338344_1772705467033_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87338344",
-            "found_at": "2026-03-08 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "NAYEON",
-            "title": "괜찮아 사랑이니까 (from 오늘도 매진했습니다 OST Part 7)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/592/626/87592626_1778031690839_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87592626",
-            "found_at": "2026-05-07 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "NMIXX",
-            "title": "Heavy Serenade",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/559/009/87559009_1778234658689_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87559009",
-            "found_at": "2026-05-11 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "NMIXX",
-            "title": "TIC TIC (feat. Pabllo Vittar)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/309/360/87309360_1771985276037_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87309360",
-            "found_at": "2026-02-26 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "QWER",
-            "title": "To Be Continued",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/933/741/87933741_1784994399309_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87933741",
-            "found_at": "2026-07-29 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "QWER",
-            "title": "SHOW DOWN",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/848/962/87848962_1783179694815_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87848962",
-            "found_at": "2026-07-08 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "QWER",
-            "title": "4th Mini Album 'CEREMONY'",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/540/872/87540872_1776931301386_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87540872",
-            "found_at": "2026-04-27 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "RESCENE",
-            "title": "Pretty Girl - Special Single",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/826/104/87826104_1782713508473_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87826104",
-            "found_at": "2026-07-08 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "RESCENE",
-            "title": "Runaway",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/458/490/87458490_1775115096303_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87458490",
-            "found_at": "2026-04-08 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "RESCENE",
-            "title": "［RESCENE X ???］",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/301/643/87301643_1772154691174_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87301643",
-            "found_at": "2026-02-27 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Rothy",
-            "title": "First Train",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/571/87922571_1784792201402_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922571",
-            "found_at": "2026-07-26 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Rothy",
-            "title": "파도",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/834/987/87834987_1782968764027_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87834987",
-            "found_at": "2026-07-07 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Rothy",
-            "title": "Don't Be",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/398/87763398_1781508400753_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763398",
-            "found_at": "2026-06-16 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Rothy",
-            "title": "샤이닝 OST Part.2",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/497/87344497_1772765813870_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87344497",
-            "found_at": "2026-03-07 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Saebit",
-            "title": "푸른 잎사귀 (あおば)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/783/205/87783205_1781833026846_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87783205",
-            "found_at": "2026-06-21 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Saebit",
-            "title": "지고 피다",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/390/87524390_1776739145535_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87524390",
-            "found_at": "2026-04-22 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Saebit",
-            "title": "블리치! (ブリーチ!)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/412/421/87412421_1774230994669_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87412421",
-            "found_at": "2026-03-24 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "siso",
-            "title": "1972",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/024/87372024_1773294127640_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87372024",
-            "found_at": "2026-03-15 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Solar",
-            "title": "總有一顆屬於你的星球 (Your Own Star)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/530/279/87530279_1776757607292_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87530279",
-            "found_at": "2026-04-22 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Solar",
-            "title": "우리는 매일매일 OST Part.7 – 나의 바람은",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/449/846/87449846_1775106589448_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87449846",
-            "found_at": "2026-04-06 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "STAYC",
-            "title": "2:LOVE",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/392/87763392_1781508391064_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763392",
-            "found_at": "2026-06-16 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "STAYC",
-            "title": "STAY ALIVE",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/242/027/87242027_1770564990707_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87242027",
-            "found_at": "2026-02-11 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "STAYC",
-            "title": "STEREOTYPE (Chinese Ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/225/335/87225335_1770194926263_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87225335",
-            "found_at": "2026-02-05 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Taeyeon",
-            "title": "J-POP REMAKE Vol.1",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/812/081/87812081_1782367891095_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87812081",
-            "found_at": "2026-06-29 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Taeyeon",
-            "title": "모두가 자신의 무가치함과 싸우고 있다 OST Part.3",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/545/008/87545008_1776999110650_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87545008",
-            "found_at": "2026-04-26 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "tripleS",
-            "title": "＜Baby Flower City Remixes＞",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/716/242/87716242_1780649502006_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87716242",
-            "found_at": "2026-06-08 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "tripleS",
-            "title": "Baby Flower Japanese Version",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/660/786/87660786_1779453991763_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87660786",
-            "found_at": "2026-06-03 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "tripleS",
-            "title": "＜LOVE&POP＞ pt.1",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/239/87679239_1779870391043_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87679239",
-            "found_at": "2026-06-01 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "tripleS",
-            "title": "Tokimetique",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/216/375/87216375_1770027103950_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87216375",
-            "found_at": "2026-02-05 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "tripleS",
-            "title": "4study4work4inst Vol.3",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/207/080/87207080_1769758025802_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87207080",
-            "found_at": "2026-02-02 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Wendy",
-            "title": "오늘부터 인간입니다만 OST Part.5",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/215/054/87215054_1770000527961_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87215054",
-            "found_at": "2026-02-07 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Wheein",
-            "title": "adagio",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/502/088/87502088_1776132716332_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87502088",
-            "found_at": "2026-04-16 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "WJSN",
-            "title": "Bloom hour",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/305/699/87305699_1771919548979_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87305699",
-            "found_at": "2026-02-25 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "WOOAH",
-            "title": "Wish With W : Vol.3",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/861/952/87861952_1783492299503_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87861952",
-            "found_at": "2026-07-13 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "WOOAH",
-            "title": "WXW(Wish With W)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/610/904/87610904_1778461898396_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87610904",
-            "found_at": "2026-05-13 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "WOOAH",
-            "title": "하염없이 너만",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/540/619/87540619_1777354012314_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87540619",
-            "found_at": "2026-04-28 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "YENA",
-            "title": "ミラミラ(Mirror Mirror) / STAR! (feat. Hatsune Miku)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/214/87726214_1780897293938_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87726214",
-            "found_at": "2026-06-10 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "YENA",
-            "title": "ミラミラ(Mirror Mirror)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/561/193/87561193_1777363619593_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87561193",
-            "found_at": "2026-04-29 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "YENA",
-            "title": "Catch Catch (Chinese Ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/530/215/87530215_1776756715533_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87530215",
-            "found_at": "2026-04-25 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "YENA",
-            "title": "캐치 캐치 (Sped Up)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/384/854/87384854_1773628296803_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87384854",
-            "found_at": "2026-03-17 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "YENA",
-            "title": "LOVE CATCHER",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/346/195/87346195_1772787097585_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87346195",
-            "found_at": "2026-03-11 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Yerin",
-            "title": "REACH YOU",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/709/157/87709157_1780646974160_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87709157",
-            "found_at": "2026-06-09 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Yerin",
-            "title": "너무 예뻐 (예린 (YERIN) X 룰루랄라 프렌즈 2)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/624/987/87624987_1778664692424_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87624987",
-            "found_at": "2026-05-14 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Younha",
-            "title": "윤하 리메이크 앨범 '써브캐릭터 원'",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/207/064/87207064_1772788347139_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87207064",
-            "found_at": "2026-03-09 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Yuju",
-            "title": "첫사랑은 저주다",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/529/962/87529962_1777373271477_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87529962",
-            "found_at": "2026-04-29 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Yunsae",
-            "title": "Forevermore",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/272/111/87272111_1771127798878_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87272111",
-            "found_at": "2026-02-27 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "OURBIRTHDAY",
-            "title": "HUNGRY (Side A)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/911/242/87911242_1784624866511_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87911242",
-            "found_at": "2026-07-22 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Ado",
-            "title": "Love me forever!",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/831/424/87831424_1783008990728_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87831424",
-            "found_at": "2026-07-03 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Ado",
-            "title": "Haru Ni Mau",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/607/350/87607350_1778516490572_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87607350",
-            "found_at": "2026-05-12 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Ado",
-            "title": "KIRA",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/522/553/87522553_1776788490416_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87522553",
-            "found_at": "2026-04-22 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Ado",
-            "title": "AiAiA",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/381/443/87381443_1779569790625_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87381443",
-            "found_at": "2026-03-16 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Ado",
-            "title": "Vivarium",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/273/650/87273650_1771345301163_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87273650",
-            "found_at": "2026-02-18 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Ai Tomioka",
-            "title": "ジレンマ(dilemma)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/857/082/87857082_1783410762065_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87857082",
-            "found_at": "2026-07-08 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Ai Tomioka",
-            "title": "soulmate",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/447/87674447_1779784937603_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87674447",
-            "found_at": "2026-05-27 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Ai Tomioka",
-            "title": "愛が溶けないうちに(Ai ga tokenai uchini)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/305/063/87305063_1771909593243_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87305063",
-            "found_at": "2026-02-25 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Aimer",
-            "title": "Live to Survive",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/780/374/87780374_1781782909090_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87780374",
-            "found_at": "2026-07-01 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Aooo",
-            "title": "DAYS!",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/840/250/87840250_1782983496836_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87840250",
-            "found_at": "2026-07-12 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Aooo",
-            "title": "Rooom",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/652/615/87652615_1779275808710_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87652615",
-            "found_at": "2026-06-03 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Aooo",
-            "title": "CALL",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/835/87524835_1776674819570_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87524835",
-            "found_at": "2026-05-06 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Aooo",
-            "title": "Question",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/368/051/87368051_1773228093786_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87368051",
-            "found_at": "2026-03-25 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "ATARAYO",
-            "title": "Fish",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/835/887/87835887_1782894867189_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87835887",
-            "found_at": "2026-07-22 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "ATARAYO",
-            "title": "Spring is coming",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/173/652/87173652_1768971501140_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87173652",
-            "found_at": "2026-02-11 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "BAND-MAID",
-            "title": "ENERGETIC",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/746/211/87746211_1782120257030_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87746211",
-            "found_at": "2026-06-24 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "chilldspot",
-            "title": "Drama",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/800/968/87800968_1783410312261_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87800968",
-            "found_at": "2026-07-08 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "chilldspot",
-            "title": "Ladyy",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/710/598/87710598_1780908212745_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87710598",
-            "found_at": "2026-06-10 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "chilldspot",
-            "title": "prank call - remix #001",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/616/935/87616935_1779069233134_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87616935",
-            "found_at": "2026-05-20 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "chilldspot",
-            "title": "dance now!",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/764/87372764_1773997498436_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87372764",
-            "found_at": "2026-03-25 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Chilli Beans",
-            "title": "breath",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/578/844/87578844_1777690346286_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87578844",
-            "found_at": "2026-05-27 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Faulieu",
-            "title": "MiX",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/404/87448404_1775613644589_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87448404",
-            "found_at": "2026-04-08 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Faulieu",
-            "title": "蒼い春 (푸른 봄)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/396/87448396_1775195581525_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87448396",
-            "found_at": "2026-04-05 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "HANA",
-            "title": "Bad Girl",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/368/071/87368071_1773228147689_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87368071",
-            "found_at": "2026-03-27 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "HANA",
-            "title": "HANA",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/245/394/87245394_1770626230914_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87245394",
-            "found_at": "2026-02-23 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "LiSA",
-            "title": "AzukiArai",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/780/400/87780400_1781783206257_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87780400",
-            "found_at": "2026-07-01 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "LiSA",
-            "title": "YES",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/818/87524818_1776674516980_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87524818",
-            "found_at": "2026-05-08 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "LiSA",
-            "title": "LACE UP",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/459/148/87459148_1775130110329_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87459148",
-            "found_at": "2026-04-15 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "LiSA",
-            "title": "DECOTORA15",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/413/575/87413575_1774257094186_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87413575",
-            "found_at": "2026-04-03 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "LiSA",
-            "title": "SWEET MAGIC",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/179/861/87179861_1769083915119_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87179861",
-            "found_at": "2026-02-06 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Majiko",
-            "title": "Kuraikurai",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/395/576/87395576_1773815216545_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87395576",
-            "found_at": "2026-04-09 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Majiko",
-            "title": "Ribbon (TV size)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/401/603/87401603_1773916625729_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87401603",
-            "found_at": "2026-04-05 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "NEK!",
-            "title": "MAGiC VoX",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/911/271/87911271_1785140153387_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87911271",
-            "found_at": "2026-07-29 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "NEK!",
-            "title": "FLiCK",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/710/621/87710621_1780908225014_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87710621",
-            "found_at": "2026-06-10 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "ReoNa",
-            "title": "Amore (Special Edition)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/863/110/87863110_1783510920990_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87863110",
-            "found_at": "2026-07-22 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "ReoNa",
-            "title": "Amore",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/794/533/87794533_1782109010119_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87794533",
-            "found_at": "2026-07-08 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "ReoNa",
-            "title": "Lv.1 Class: Human",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/795/178/87795178_1782119513089_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87795178",
-            "found_at": "2026-07-03 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "ReoNa",
-            "title": "CLUTCH!",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/670/160/87670160_1779704230516_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87670160",
-            "found_at": "2026-06-08 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "ReoNa",
-            "title": "Yuiyuinouta",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/284/275/87284275_1771395090329_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87284275",
-            "found_at": "2026-03-07 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "TRiDENT",
-            "title": "Meihitensei",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/658/556/87658556_1779776943662_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87658556",
-            "found_at": "2026-05-28 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "tuki.",
-            "title": "The Third Planet",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/863/100/87863100_1783510903848_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87863100",
-            "found_at": "2026-07-24 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "tuki.",
-            "title": "SOS",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/743/87726743_1780913606629_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87726743",
-            "found_at": "2026-06-22 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "tuki.",
-            "title": "15 - Live Edition(NIPPON BUDOKAN)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/648/405/87648405_1779211301161_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87648405",
-            "found_at": "2026-05-27 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "tuki.",
-            "title": "zero",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/396/840/87396840_1773832302903_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87396840",
-            "found_at": "2026-04-04 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "yama",
-            "title": "U and I",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/836/558/87836558_1782904368368_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87836558",
-            "found_at": "2026-07-15 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "yama",
-            "title": "plate",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/820/610/87820610_1782540698095_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87820610",
-            "found_at": "2026-06-25 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "yama",
-            "title": "dehumidification",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/820/622/87820622_1782541060992_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87820622",
-            "found_at": "2026-06-25 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "yama",
-            "title": "palm tree",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/820/763/87820763_1782544298846_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87820763",
-            "found_at": "2026-06-25 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "yama",
-            "title": "common",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/821/633/87821633_1782557198156_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87821633",
-            "found_at": "2026-06-25 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "yama",
-            "title": "correction",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/821/644/87821644_1782557515389_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87821644",
-            "found_at": "2026-06-25 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "YOASOBI",
-            "title": "Orion (English Version)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/855/035/87855035_1783375342804_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87855035",
-            "found_at": "2026-07-10 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "YOASOBI",
-            "title": "THE BOOK for,",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/707/194/87707194_1780916248869_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87707194",
-            "found_at": "2026-06-26 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "YOASOBI",
-            "title": "E-SIDE 4",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/532/830/87532830_1776802620119_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87532830",
-            "found_at": "2026-04-24 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Yorushika",
-            "title": "Bubble",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/523/479/87523479_1776820922170_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87523479",
-            "found_at": "2026-04-22 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Yorushika",
-            "title": "second person",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/327/291/87327291_1772586991472_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87327291",
-            "found_at": "2026-03-04 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Yorushika",
-            "title": "Madder",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/215/028/87215028_1770168406045_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87215028",
-            "found_at": "2026-02-04 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Yuika",
-            "title": "Invisible Youth",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/718/977/87718977_1780881387496_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87718977",
-            "found_at": "2026-06-08 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Yuika",
-            "title": "Triangle Game",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/470/753/87470753_1775611590399_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87470753",
-            "found_at": "2026-04-08 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "Yuika",
-            "title": "I Can't Be a Princess",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/236/515/87236515_1770599808781_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87236515",
-            "found_at": "2026-02-09 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "ZUTOMAYO",
-            "title": "Fig Smoke",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/848/854/87848854_1783167990804_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87848854",
-            "found_at": "2026-07-06 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "ZUTOMAYO",
-            "title": "KEISOUDO",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/411/536/87411536_1774369612789_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87411536",
-            "found_at": "2026-03-25 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "ZUTOMAYO",
-            "title": "yomosugara",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/333/730/87333730_1772540791779_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87333730",
-            "found_at": "2026-03-05 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "ねぎ塩豚丼",
-            "title": "夏の幻",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/873/821/87873821_1783731756966_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87873821",
-            "found_at": "2026-07-29 00:00",
-            "is_tracked": true
-        }
-    ]
+    "JP": {
+        "80163641": "Ado",
+        "82204740": "Ai Tomioka",
+        "80430477": "Aimer",
+        "80566612": "aimyon",
+        "82623175": "Aooo",
+        "81084320": "ATARAYO",
+        "81016237": "BAND-MAID",
+        "80923631": "chilldspot",
+        "81189253": "Chilli Beans",
+        "82802328": "Faulieu",
+        "82779519": "HANA",
+        "80163390": "LiSA",
+        "80622875": "Majiko",
+        "82570285": "NEK!",
+        "80649539": "ReoNa",
+        "81408764": "TRiDENT",
+        "82389809": "tuki.",
+        "81021172": "yama",
+        "80847403": "YOASOBI",
+        "80729088": "Yorushika",
+        "81145659": "Yuika",
+        "80661613": "ZUTOMAYO",
+        "82783169": "ねぎ塩豚丼"
+        # ⚠️ 請在此處繼續加入
+    }
 }
+
+DATA_FILE = "songs_data.json"
+
+# ==========================================
+# 工具函式
+# ==========================================
+def get_taiwan_timezone():
+    return timezone(timedelta(hours=8))
+
+def get_taiwan_time():
+    return datetime.now(get_taiwan_timezone())
+
+def load_existing_data():
+    if os.path.exists(DATA_FILE):
+        try:
+            with open(DATA_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                if "songs" in data: return data["songs"]
+                return []
+        except: return []
+    return []
+
+# ==========================================
+# 爬取「單一藝人自己的頁面」，抓他最新發行的專輯
+# 💡 這是解決 J-POP（或其他分類）漏爬問題的核心：
+#    不管 Genie 把這張專輯歸類成什麼分類，
+#    只要它出現在該藝人自己的「발매 앨범」列表裡，就一定抓得到。
+#    頁面預設就會顯示該藝人最新的幾張專輯，且已經是新到舊排序。
+# ==========================================
+def scrape_artist_page(artist_id, artist_display_name, existing_links, seen_links):
+    new_songs = []
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    url = f"https://www.genie.co.kr/detail/artistInfo?xxnm={artist_id}"
+
+    try:
+        response = requests.get(url, headers=headers, timeout=20)
+        soup = BeautifulSoup(response.text, 'html.parser')
+
+        album_section = soup.select_one("#artist-album")
+        if not album_section:
+            return new_songs
+
+        album_items = album_section.select("ul > li")
+
+        for item in album_items:
+            try:
+                thumb_elem = item.select_one("a.album-thumb")
+                title_elem = item.select_one("a.artist")  # 💡 這裡的 class="artist" 其實是專輯標題連結
+                date_elem = item.select_one("span.date")
+
+                onclick_src = ""
+                if thumb_elem and 'onclick' in thumb_elem.attrs:
+                    onclick_src = thumb_elem['onclick']
+                elif title_elem and 'onclick' in title_elem.attrs:
+                    onclick_src = title_elem['onclick']
+
+                match_album = re.search(r'fnViewAlbumLayer\((\d+)\)', onclick_src)
+                if not match_album:
+                    continue
+                album_id = match_album.group(1)
+
+                final_link = f"https://www.genie.co.kr/detail/albumInfo?axnm={album_id}"
+
+                # 檢查是否已經抓過
+                if final_link in existing_links or final_link in seen_links:
+                    continue
+                seen_links.add(final_link)
+
+                title = title_elem.text.strip() if title_elem else "未知專輯"
+
+                # === 用頁面上真實的發行日期，而不是「現在爬蟲執行的時間」 ===
+                # 💡 這裡的日期格式是 "2026.07.29"，沒有時分資訊，統一補 00:00
+                #    避免把明明是很久以前發行的專輯，誤標成「今天發現」
+                date_text = date_elem.text.strip() if date_elem else ""
+                release_date = None
+                if date_text:
+                    try:
+                        release_date = datetime.strptime(date_text, "%Y.%m.%d")
+                    except ValueError:
+                        release_date = None
+
+                if release_date:
+                    found_at = release_date.strftime("%Y-%m-%d") + " 00:00"
+                else:
+                    # 抓不到日期的極端情況才退回用現在時間，避免整筆資料被跳過
+                    found_at = get_taiwan_time().strftime("%Y-%m-%d %H:%M")
+
+                img_elem = item.select_one("span.cover img")
+                img_src = ""
+                if img_elem and img_elem.get('src'):
+                    src = img_elem['src']
+                    img_src = "https:" + src if src.startswith("//") else src
+
+                new_song = {
+                    "artist": artist_display_name,
+                    "title": title,
+                    "image": img_src,
+                    "link": final_link,
+                    "found_at": found_at,
+                    "is_tracked": True
+                }
+                new_songs.append(new_song)
+                print(f"   -> ⭐ 關注（藝人頁）：{artist_display_name} - {title}")
+
+            except Exception:
+                continue
+
+    except Exception as e:
+        print(f"⚠️ 藝人頁面爬蟲錯誤 ({artist_display_name} / {artist_id}): {e}")
+
+    return new_songs
+
+
+# ==========================================
+# 主邏輯
+# ==========================================
+def scrape_job():
+    print(f"[{get_taiwan_time().strftime('%Y-%m-%d %H:%M:%S')}] 雲端爬蟲啟動 (Taiwan Time)...")
+
+    existing_songs = load_existing_data()
+    existing_links = {song['link'] for song in existing_songs}
+    new_songs = []
+    seen_links = set()  # 這次執行中，避免不同來源重複收到同一首歌
+
+    # 將分類的藝人 ID 扁平化，方便快速比對
+    flat_tracked_ids = {}
+    for category, artists in TRACKED_ARTISTS.items():
+        for artist_id, artist_name in artists.items():
+            flat_tracked_ids[str(artist_id)] = artist_name
+
+    # 依序爬取每個追蹤藝人「自己的頁面」
+    # 這一步不受 Genie 的分類（國內/J-POP/其他海外分類...）影響，
+    # 只要是該藝人自己頁面上列出的新專輯，一定抓得到。
+    print(f"[{get_taiwan_time().strftime('%Y-%m-%d %H:%M:%S')}] 開始逐一檢查 {len(flat_tracked_ids)} 位追蹤藝人的個人頁面...")
+    for artist_id, artist_display_name in flat_tracked_ids.items():
+        new_songs.extend(scrape_artist_page(artist_id, artist_display_name, existing_links, seen_links))
+        time.sleep(0.5)  # 禮貌性延遲，避免短時間內對同一網站發出過多請求
+
+    full_song_list = new_songs + existing_songs
+    now_tw = get_taiwan_time()
+    today_date = now_tw.date()
+    cutoff_180 = now_tw - timedelta(days=180)
+    final_list = []
+    tz_tw = get_taiwan_timezone()
+
+    for song in full_song_list:
+        try:
+            song_datetime_naive = datetime.strptime(song['found_at'], "%Y-%m-%d %H:%M")
+            song_datetime = song_datetime_naive.replace(tzinfo=tz_tw)
+            song_date = song_datetime.date()
+            is_my_artist = song.get('is_tracked', False)
+            
+            if is_my_artist:
+                if song_datetime > cutoff_180:
+                    final_list.append(song)
+            else:
+                if song_date == today_date:
+                    final_list.append(song)
+        except ValueError:
+            final_list.append(song)
+
+        # 這裡會從 TRACKED_ARTISTS 裡抓取「你自訂的名字」送到前端側邊欄
+        sorted_tracked_artists = {
+            category: sorted(list(artists.values()), key=lambda x: x.lower()) 
+            for category, artists in TRACKED_ARTISTS.items() if artists
+        }
+
+    # 3. 存檔
+    data_to_save = {
+        "updated_at": get_taiwan_time().strftime("%Y-%m-%d %H:%M:%S"),
+        "tracked_artists": sorted_tracked_artists, 
+        "songs": final_list
+    }
+    
+    with open(DATA_FILE, "w", encoding="utf-8") as f:
+        json.dump(data_to_save, f, ensure_ascii=False, indent=4)
+        
+    print(f"✅ 資料已更新。目前資料庫總數: {len(final_list)}")
+
+if __name__ == "__main__":
+    scrape_job()
