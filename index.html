@@ -7,22 +7,25 @@
     <title>genie radar</title>
     <link rel="icon" type="image/png" href="static/icon.png">
     <link
-        href="https://fonts.googleapis.com/css2?family=Barlow:wght@600;800&family=Open+Sans:wght@400;600;700&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Barlow:wght@600;700;800&family=Open+Sans:wght@400;600;700&display=swap"
         rel="stylesheet">
     <style>
         :root {
-            --bg-main: #121212;
-            --bg-header: #000000;
-            --card-bg: #181818;
-            --card-border: #282828;
-            --card-hover-bg: #222222;
+            --bg-main: #121316;
+            --bg-header: #0A0A0C;
+            --card-bg: #1B1C20;
+            --card-border: #2C2D33;
             --accent-color: #5CC9F5;
-            --text-main: #FFFFFF;
-            --text-sub: #B0B0B0;
-            --input-bg: #222222;
-            --input-focus-bg: #333333;
-            --tag-bg: #1f1f1f;
-            --tag-hover: #333;
+            --text-main: #F5F5F7;
+            --text-sub: #8B8B93;
+            --input-bg: #1E1F24;
+            --tag-bg: #1E1F24;
+            --tag-hover: #2C2D33;
+            --radius: 6px;
+        }
+
+        * {
+            box-sizing: border-box;
         }
 
         body {
@@ -48,7 +51,7 @@
             left: 0;
             right: 0;
             z-index: 1000;
-            border-bottom: 1px solid #1f1f1f;
+            border-bottom: 1px solid var(--card-border);
         }
 
         .logo {
@@ -81,18 +84,16 @@
             width: 100%;
             background-color: var(--input-bg);
             border: 1px solid var(--card-border);
-            border-radius: 20px;
+            border-radius: var(--radius);
             padding: 8px 34px 8px 35px;
             color: var(--text-main);
             font-size: 14px;
             outline: none;
-            transition: all 0.3s ease;
+            transition: border-color 0.2s ease;
         }
 
         .search-input:focus {
-            background-color: var(--input-focus-bg);
             border-color: var(--accent-color);
-            box-shadow: 0 0 8px rgba(92, 201, 245, 0.2);
         }
 
         .search-icon {
@@ -117,18 +118,18 @@
             font-size: 13px;
             line-height: 1;
             cursor: pointer;
-            border-radius: 50%;
-            transition: all 0.2s ease;
+            border-radius: 3px;
+            transition: color 0.15s ease, background-color 0.15s ease;
         }
 
         .search-clear-btn:hover {
             color: var(--text-main);
-            background-color: rgba(255, 255, 255, 0.1);
+            background-color: var(--tag-hover);
         }
 
         .update-info {
             font-size: 12px;
-            color: #888;
+            color: var(--text-sub);
             white-space: nowrap;
             margin-left: 20px;
         }
@@ -139,70 +140,32 @@
             padding: 30px;
         }
 
-        /* === Tabs 分頁樣式 === */
-        .tabs {
+        /* === 區塊標題 === */
+        .section-header {
             display: flex;
-            gap: 20px;
-            border-bottom: 1px solid var(--card-border);
+            align-items: center;
+            gap: 10px;
+            padding-bottom: 14px;
             margin-bottom: 20px;
+            border-bottom: 2px solid var(--card-border);
         }
 
-        .tab-btn {
-            background: none;
-            border: none;
-            color: var(--text-sub);
+        .section-header h1 {
+            margin: 0;
             font-size: 18px;
             font-weight: 700;
-            padding: 10px 0;
-            cursor: pointer;
-            position: relative;
-            transition: color 0.3s;
             font-family: 'Barlow', sans-serif;
-        }
-
-        .tab-btn:hover {
             color: var(--text-main);
         }
 
-        .tab-btn.active {
-            color: var(--text-main);
-        }
-
-        .tab-btn.active::after {
-            content: '';
-            position: absolute;
-            bottom: -1px;
-            left: 0;
-            width: 100%;
-            height: 3px;
-            background-color: var(--accent-color);
-            border-radius: 3px 3px 0 0;
-            transition: background-color 1.5s ease;
-        }
-
-        .tab-count {
+        .section-count {
             font-size: 12px;
-            background: #333;
-            padding: 2px 6px;
-            border-radius: 10px;
-            margin-left: 5px;
-            vertical-align: middle;
-        }
-
-        .tab-btn.active .tab-count {
-            background: var(--accent-color);
+            font-weight: 700;
+            background-color: var(--accent-color);
             color: #000;
-            transition: background 1.5s ease;
-        }
-
-        /* === 內容區塊 === */
-        .content-section {
-            display: none;
-            animation: fadeIn 0.4s ease;
-        }
-
-        .content-section.active {
-            display: block;
+            padding: 2px 8px;
+            border-radius: var(--radius);
+            transition: background-color 1.5s ease;
         }
 
         /* === 歌曲列表 === */
@@ -236,22 +199,26 @@
             background-color: var(--card-bg);
             border: 1px solid var(--card-border);
             padding: 12px;
-            border-radius: 8px;
+            border-radius: var(--radius);
             display: flex;
             flex-direction: column;
-            transition: all 0.3s;
+            transition: border-color 0.2s ease;
             position: relative;
             color: inherit;
             cursor: default;
+        }
+
+        .card:hover {
+            border-color: var(--accent-color);
         }
 
         .img-wrapper {
             position: relative;
             width: 100%;
             aspect-ratio: 1/1;
-            background-color: #111;
+            background-color: #0E0E10;
             overflow: hidden;
-            border-radius: 6px;
+            border-radius: 4px;
             margin-bottom: 10px;
         }
 
@@ -267,28 +234,21 @@
             align-items: center;
             gap: 3px;
             padding: 1px 6px;
-            border-radius: 4px;
+            border-radius: 3px;
             font-size: 9px;
             font-weight: 700;
             font-family: 'Barlow', sans-serif;
             letter-spacing: 0.3px;
-            background-color: rgba(255, 255, 255, 0.06);
             flex-shrink: 0;
+            color: #0A0A0C;
         }
 
         .category-badge.cat-kr {
-            color: #5CC9F5;
-            border: 1px solid rgba(92, 201, 245, 0.5);
+            background-color: #5CC9F5;
         }
 
         .category-badge.cat-jp {
-            color: #FF85C2;
-            border: 1px solid rgba(255, 133, 194, 0.5);
-        }
-
-        .card:hover {
-            transform: translateY(-5px);
-            border-color: var(--accent-color);
+            background-color: #FF85C2;
         }
 
         .song-title {
@@ -328,11 +288,11 @@
             flex: 1;
             text-decoration: none;
             padding: 6px 0;
-            border-radius: 6px;
+            border-radius: var(--radius);
             font-size: 12px;
             font-weight: 600;
             text-align: center;
-            transition: all 0.2s;
+            transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -340,9 +300,9 @@
         }
 
         .btn-genie {
-            background-color: #1f2937;
+            background-color: var(--input-bg);
             color: #5CC9F5;
-            border: 1px solid #2d3748;
+            border: 1px solid var(--card-border);
         }
 
         .btn-genie:hover {
@@ -352,34 +312,26 @@
         }
 
         .btn-copy {
-            background-color: #1f2937;
-            color: #a0aec0;
-            border: 1px solid #2d3748;
+            background-color: var(--input-bg);
+            color: var(--text-sub);
+            border: 1px solid var(--card-border);
             cursor: pointer;
         }
 
         .btn-copy:hover {
-            background-color: #4a5568;
-            color: #ffffff;
-            border-color: #a0aec0;
+            background-color: var(--tag-hover);
+            color: var(--text-main);
+            border-color: var(--text-sub);
         }
 
         .status-msg {
             text-align: center;
             padding: 40px;
             color: var(--text-sub);
-            border: 1px dashed #333;
-            border-radius: 8px;
+            border: 1px dashed var(--card-border);
+            border-radius: var(--radius);
             margin-top: 10px;
             font-size: 14px;
-        }
-
-        #othersArea .card {
-            opacity: 0.9;
-        }
-
-        #othersArea .card:hover {
-            opacity: 1;
         }
 
         /* === 側邊欄 (Sidebar) === */
@@ -407,11 +359,10 @@
             height: calc(100vh - 70px);
             background-color: var(--card-bg);
             border-right: 1px solid var(--card-border);
-            transition: left 0.3s ease;
+            transition: left 0.25s ease;
             z-index: 900;
             display: flex;
             flex-direction: column;
-            box-shadow: 5px 0 15px rgba(0, 0, 0, 0.5);
         }
 
         .sidebar.open {
@@ -457,7 +408,7 @@
             color: var(--accent-color);
             margin: 0 0 12px 0;
             font-family: 'Barlow', sans-serif;
-            border-bottom: 1px dashed #333;
+            border-bottom: 1px dashed var(--card-border);
             padding-bottom: 5px;
         }
 
@@ -475,10 +426,10 @@
             background-color: var(--tag-bg);
             color: var(--text-sub);
             padding: 6px 12px;
-            border-radius: 6px;
+            border-radius: var(--radius);
             font-size: 12px;
             cursor: pointer;
-            transition: all 0.2s;
+            transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
             border: 1px solid transparent;
         }
 
@@ -486,11 +437,10 @@
             background-color: var(--tag-hover);
             color: var(--text-main);
             border-color: var(--accent-color);
-            transform: translateY(-2px);
         }
 
-        /* 浮動開啟按鈕 */
-        .sidebar-toggle-btn {
+        /* 浮動按鈕 */
+        .float-btn {
             position: fixed;
             bottom: 30px;
             right: 30px;
@@ -498,25 +448,23 @@
             border: 1px solid var(--card-border);
             color: var(--text-main);
             padding: 12px 20px;
-            border-radius: 30px;
+            border-radius: var(--radius);
             cursor: pointer;
             z-index: 800;
             display: flex;
             align-items: center;
             gap: 8px;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
-            transition: all 0.3s;
+            transition: border-color 0.15s ease, color 0.15s ease;
             font-family: 'Barlow', sans-serif;
             font-size: 14px;
         }
 
-        .sidebar-toggle-btn:hover {
+        .float-btn:hover {
             border-color: var(--accent-color);
             color: var(--accent-color);
-            transform: translateY(-3px);
         }
 
-        .sidebar-toggle-btn.btn-left {
+        .float-btn.btn-left {
             left: 30px;
             right: auto;
         }
@@ -524,13 +472,15 @@
         @keyframes fadeIn {
             from {
                 opacity: 0;
-                transform: translateY(5px);
             }
 
             to {
                 opacity: 1;
-                transform: translateY(0);
             }
+        }
+
+        .container {
+            animation: fadeIn 0.3s ease;
         }
 
         @media (max-width: 600px) {
@@ -577,31 +527,21 @@
         <div id="artistTagsContainer" class="sidebar-content"></div>
     </div>
 
-    <button id="toggleBtn" class="sidebar-toggle-btn btn-left" onclick="toggleSidebar()">
+    <button id="toggleBtn" class="float-btn btn-left" onclick="toggleSidebar()">
         <span>📋</span> Show Tracked Artists
     </button>
 
-    <button id="backToTopBtn" class="sidebar-toggle-btn" onclick="scrollToTop()" style="display:none;">
+    <button id="backToTopBtn" class="float-btn" onclick="scrollToTop()" style="display:none;">
         <span>⬆️</span> Back to Top
     </button>
 
     <div class="container">
-        <div class="tabs" id="mainTabs">
-            <button class="tab-btn active" onclick="switchTab('my')">
-                ⭐ My Artists <span id="myCount" class="tab-count">0</span>
-            </button>
-            <button class="tab-btn" onclick="switchTab('others')">
-                🌍 Daily Others <span id="othersCount" class="tab-count">0</span>
-            </button>
+        <div class="section-header">
+            <h1>⭐ My Artists</h1>
+            <span id="myCount" class="section-count">0</span>
         </div>
 
-        <div id="mySection" class="content-section active">
-            <div id="myArea"></div>
-        </div>
-
-        <div id="othersSection" class="content-section">
-            <div id="othersArea"></div>
-        </div>
+        <div id="myArea"></div>
     </div>
 
     <script>
@@ -641,7 +581,6 @@
         }, 4000);
 
         let globalSongs = [];
-        let currentTab = 'my';
         let artistCategoryMap = {};
 
         document.addEventListener('DOMContentLoaded', fetchData);
@@ -702,7 +641,7 @@
 
         function renderArtistList(artistsData) {
             const container = document.getElementById('artistTagsContainer');
-            let html = '<div style="font-size: 12px; color: #888; margin-bottom: 20px;">Click to search:</div>';
+            let html = '<div style="font-size: 12px; color: var(--text-sub); margin-bottom: 20px;">Click to search:</div>';
 
             for (const [category, artists] of Object.entries(artistsData)) {
                 html += `<div class="category-section">`;
@@ -741,20 +680,8 @@
             filterData();
         }
 
-        function switchTab(tabName) {
-            currentTab = tabName;
-            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
-            if (tabName === 'my') document.querySelector('.tab-btn:nth-child(1)').classList.add('active');
-            else document.querySelector('.tab-btn:nth-child(2)').classList.add('active');
-
-            document.querySelectorAll('.content-section').forEach(sec => sec.classList.remove('active'));
-            if (tabName === 'my') document.getElementById('mySection').classList.add('active');
-            else document.getElementById('othersSection').classList.add('active');
-        }
-
         function filterData() {
             const query = document.getElementById('searchInput').value.toLowerCase().trim();
-            const isSearching = query.length > 0;
 
             const filteredSongs = globalSongs.filter(song => {
                 const title = song.title ? song.title.toLowerCase() : "";
@@ -762,30 +689,8 @@
                 return title.includes(query) || artist.includes(query);
             });
 
-            const mySongs = filteredSongs.filter(s => s.is_tracked);
-            const otherSongs = filteredSongs.filter(s => !s.is_tracked);
-
-            document.getElementById('myCount').innerText = mySongs.length;
-            document.getElementById('othersCount').innerText = otherSongs.length;
-
-            renderGroup(mySongs, 'myArea', 180);
-            renderGroup(otherSongs, 'othersArea', 1);
-
-            const mySec = document.getElementById('mySection');
-            const otherSec = document.getElementById('othersSection');
-            const tabsDiv = document.getElementById('mainTabs');
-
-            if (isSearching) {
-                mySec.classList.add('active');
-                otherSec.classList.add('active');
-                tabsDiv.style.display = 'none';
-            } else {
-                tabsDiv.style.display = 'flex';
-                mySec.classList.remove('active');
-                otherSec.classList.remove('active');
-                if (currentTab === 'my') mySec.classList.add('active');
-                else otherSec.classList.add('active');
-            }
+            document.getElementById('myCount').innerText = filteredSongs.length;
+            renderGroup(filteredSongs, 'myArea', 180);
         }
 
         function renderGroup(songs, containerId, keepDays) {
