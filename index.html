@@ -82,7 +82,7 @@
             background-color: var(--input-bg);
             border: 1px solid var(--card-border);
             border-radius: 20px;
-            padding: 8px 15px 8px 35px;
+            padding: 8px 34px 8px 35px;
             color: var(--text-main);
             font-size: 14px;
             outline: none;
@@ -101,6 +101,29 @@
             color: var(--text-sub);
             font-size: 14px;
             pointer-events: none;
+        }
+
+        .search-clear-btn {
+            position: absolute;
+            right: 8px;
+            width: 20px;
+            height: 20px;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            background: none;
+            border: none;
+            color: var(--text-sub);
+            font-size: 13px;
+            line-height: 1;
+            cursor: pointer;
+            border-radius: 50%;
+            transition: all 0.2s ease;
+        }
+
+        .search-clear-btn:hover {
+            color: var(--text-main);
+            background-color: rgba(255, 255, 255, 0.1);
         }
 
         .update-info {
@@ -236,6 +259,36 @@
             width: 100%;
             height: 100%;
             object-fit: cover;
+        }
+
+        /* === KR / JP 分類徽章 === */
+        .category-badge {
+            position: absolute;
+            top: 8px;
+            left: 8px;
+            z-index: 2;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            padding: 3px 7px;
+            border-radius: 5px;
+            font-size: 10px;
+            font-weight: 700;
+            font-family: 'Barlow', sans-serif;
+            letter-spacing: 0.5px;
+            background-color: rgba(0, 0, 0, 0.6);
+            backdrop-filter: blur(3px);
+            -webkit-backdrop-filter: blur(3px);
+        }
+
+        .category-badge.cat-kr {
+            color: #5CC9F5;
+            border: 1px solid rgba(92, 201, 245, 0.6);
+        }
+
+        .category-badge.cat-jp {
+            color: #FF85C2;
+            border: 1px solid rgba(255, 133, 194, 0.6);
         }
 
         .card:hover {
@@ -500,7 +553,8 @@
         <div class="search-container">
             <span class="search-icon">🔍</span>
             <input type="text" id="searchInput" class="search-input" placeholder="Search artist or album..."
-                oninput="filterData()">
+                oninput="handleSearchInput()">
+            <button id="searchClearBtn" class="search-clear-btn" onclick="clearSearch()" title="Clear search">✕</button>
         </div>
         <div class="update-info" id="statusText">Connecting...</div>
     </header>
@@ -595,8 +649,7 @@
             }
         }
 
-        function getCopyCommand(artistName, link) {
-            let cat = null;
+        function getArtistCategory(artistName) {
             let textLower = artistName.toLowerCase();
 
             for (const [category, artists] of Object.entries(artistCategoryMap)) {
@@ -611,13 +664,14 @@
                         if (textLower.includes(targetLower)) isMatch = true;
                     }
 
-                    if (isMatch) {
-                        cat = category;
-                        break;
-                    }
+                    if (isMatch) return category;
                 }
-                if (cat) break;
             }
+            return null;
+        }
+
+        function getCopyCommand(artistName, link) {
+            const cat = getArtistCategory(artistName);
 
             if (cat === 'KR') return `!dl ${link} -sk`;
             if (cat === 'JP') return `!dl ${link} -jp`;
@@ -645,11 +699,26 @@
         function searchArtist(name) {
             const input = document.getElementById('searchInput');
             input.value = name;
+            document.getElementById('searchClearBtn').style.display = name.length > 0 ? 'flex' : 'none';
             filterData();
             window.scrollTo({ top: 0, behavior: 'smooth' });
 
             document.getElementById('sidebar').classList.remove('open');
             document.getElementById('sidebarOverlay').classList.remove('show');
+        }
+
+        function handleSearchInput() {
+            const input = document.getElementById('searchInput');
+            document.getElementById('searchClearBtn').style.display = input.value.length > 0 ? 'flex' : 'none';
+            filterData();
+        }
+
+        function clearSearch() {
+            const input = document.getElementById('searchInput');
+            input.value = '';
+            document.getElementById('searchClearBtn').style.display = 'none';
+            filterData();
+            input.focus();
         }
 
         function switchTab(tabName) {
@@ -729,10 +798,14 @@
                 }
 
                 const copyCommand = getCopyCommand(song.artist, song.link).replace(/'/g, "\\'");
+                const cat = getArtistCategory(song.artist);
+                const badgeHtml = cat
+                    ? `<div class="category-badge cat-${cat.toLowerCase()}">${cat === 'KR' ? '🇰🇷' : '🇯🇵'} ${cat}</div>`
+                    : '';
 
                 currentGrid.innerHTML += `
                     <div class="card">
-                        <div class="img-wrapper"><img src="${song.image}" onerror="this.src='https://via.placeholder.com/200?text=No+Cover'"></div>
+                        <div class="img-wrapper">${badgeHtml}<img src="${song.image}" onerror="this.src='https://via.placeholder.com/200?text=No+Cover'"></div>
                         <div class="song-title">${song.title}</div>
                         <div class="artist-name">${song.artist}</div>
                         
