@@ -224,7 +224,7 @@ def fetch_album_genre(album_link, headers):
         return None
 
 
-
+def scrape_artist_page(artist_id, artist_display_name, existing_links, seen_links):
     new_songs = []
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
