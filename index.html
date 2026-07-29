@@ -513,6 +513,11 @@
             transform: translateY(-3px);
         }
 
+        .sidebar-toggle-btn.btn-left {
+            left: 30px;
+            right: auto;
+        }
+
         @keyframes fadeIn {
             from {
                 opacity: 0;
@@ -569,8 +574,12 @@
         <div id="artistTagsContainer" class="sidebar-content"></div>
     </div>
 
-    <button id="toggleBtn" class="sidebar-toggle-btn" onclick="toggleSidebar()">
+    <button id="toggleBtn" class="sidebar-toggle-btn btn-left" onclick="toggleSidebar()">
         <span>📋</span> Show Tracked Artists
+    </button>
+
+    <button id="backToTopBtn" class="sidebar-toggle-btn" onclick="scrollToTop()" style="display:none;">
+        <span>⬆️</span> Back to Top
     </button>
 
     <div class="container">
@@ -597,6 +606,15 @@
             document.getElementById('sidebar').classList.toggle('open');
             document.getElementById('sidebarOverlay').classList.toggle('show');
         }
+
+        function scrollToTop() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        window.addEventListener('scroll', () => {
+            const btn = document.getElementById('backToTopBtn');
+            btn.style.display = window.scrollY > 300 ? 'flex' : 'none';
+        });
 
         function copyToClipboard(text, btnElement) {
             navigator.clipboard.writeText(text).then(() => {
@@ -718,7 +736,6 @@
             input.value = '';
             document.getElementById('searchClearBtn').style.display = 'none';
             filterData();
-            input.focus();
         }
 
         function switchTab(tabName) {
