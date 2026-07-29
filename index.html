@@ -261,34 +261,29 @@
             object-fit: cover;
         }
 
-        /* === KR / JP 分類徽章 === */
+        /* === KR / JP 分類徽章（顯示在藝人名稱前） === */
         .category-badge {
-            position: absolute;
-            top: 8px;
-            left: 8px;
-            z-index: 2;
-            display: flex;
+            display: inline-flex;
             align-items: center;
-            gap: 4px;
-            padding: 3px 7px;
-            border-radius: 5px;
-            font-size: 10px;
+            gap: 3px;
+            padding: 1px 6px;
+            border-radius: 4px;
+            font-size: 9px;
             font-weight: 700;
             font-family: 'Barlow', sans-serif;
-            letter-spacing: 0.5px;
-            background-color: rgba(0, 0, 0, 0.6);
-            backdrop-filter: blur(3px);
-            -webkit-backdrop-filter: blur(3px);
+            letter-spacing: 0.3px;
+            background-color: rgba(255, 255, 255, 0.06);
+            flex-shrink: 0;
         }
 
         .category-badge.cat-kr {
             color: #5CC9F5;
-            border: 1px solid rgba(92, 201, 245, 0.6);
+            border: 1px solid rgba(92, 201, 245, 0.5);
         }
 
         .category-badge.cat-jp {
             color: #FF85C2;
-            border: 1px solid rgba(255, 133, 194, 0.6);
+            border: 1px solid rgba(255, 133, 194, 0.5);
         }
 
         .card:hover {
@@ -307,11 +302,19 @@
         }
 
         .artist-name {
+            display: flex;
+            align-items: center;
+            gap: 5px;
             font-size: 12px;
             color: var(--text-sub);
             white-space: nowrap;
             overflow: hidden;
+        }
+
+        .artist-name-text {
+            overflow: hidden;
             text-overflow: ellipsis;
+            white-space: nowrap;
         }
 
         /* === 按鈕區塊樣式 === */
@@ -398,21 +401,21 @@
         .sidebar {
             position: fixed;
             top: 70px;
-            right: -350px;
+            left: -350px;
             width: 320px;
             max-width: 85vw;
             height: calc(100vh - 70px);
             background-color: var(--card-bg);
-            border-left: 1px solid var(--card-border);
-            transition: right 0.3s ease;
+            border-right: 1px solid var(--card-border);
+            transition: left 0.3s ease;
             z-index: 900;
             display: flex;
             flex-direction: column;
-            box-shadow: -5px 0 15px rgba(0, 0, 0, 0.5);
+            box-shadow: 5px 0 15px rgba(0, 0, 0, 0.5);
         }
 
         .sidebar.open {
-            right: 0;
+            left: 0;
         }
 
         .sidebar-header {
@@ -822,9 +825,9 @@
 
                 currentGrid.innerHTML += `
                     <div class="card">
-                        <div class="img-wrapper">${badgeHtml}<img src="${song.image}" onerror="this.src='https://via.placeholder.com/200?text=No+Cover'"></div>
+                        <div class="img-wrapper"><img src="${song.image}" onerror="this.src='https://via.placeholder.com/200?text=No+Cover'"></div>
                         <div class="song-title">${song.title}</div>
-                        <div class="artist-name">${song.artist}</div>
+                        <div class="artist-name">${badgeHtml}<span class="artist-name-text">${song.artist}</span></div>
                         
                         <div class="action-container">
                             <a href="${song.link}" target="_blank" class="btn-link btn-genie">
