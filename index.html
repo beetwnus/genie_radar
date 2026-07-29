@@ -287,7 +287,7 @@
             object-fit: cover;
         }
 
-        /* === KR / JP 分類標籤（顯示在藝人名稱前，純文字無底色） === */
+        /* === 分類 / 曲風標籤（KR、JP、K-POP、J-POP、OST 皆同灰色） === */
         .category-badge {
             display: inline-flex;
             align-items: center;
@@ -298,14 +298,7 @@
             flex-shrink: 0;
             background: none;
             padding: 0;
-        }
-
-        .category-badge.cat-kr {
-            color: #5CC9F5;
-        }
-
-        .category-badge.cat-jp {
-            color: #FF85C2;
+            color: var(--text-sub);
         }
 
         .category-sep {
@@ -335,6 +328,8 @@
         }
 
         .artist-name-text {
+            flex: 1;
+            min-width: 0;
             overflow: hidden;
             text-overflow: ellipsis;
             white-space: nowrap;
@@ -820,14 +815,17 @@
                 const copyCommand = getCopyCommand(song.artist, song.link).replace(/'/g, "\\'");
                 const cat = getArtistCategory(song.artist);
                 const badgeHtml = cat
-                    ? `<span class="category-badge cat-${cat.toLowerCase()}">${cat}</span><span class="category-sep">|</span>`
+                    ? `<span class="category-badge">${cat}</span><span class="category-sep">|</span>`
+                    : '';
+                const genreHtml = song.genre
+                    ? `<span class="category-sep">|</span><span class="category-badge">${song.genre}</span>`
                     : '';
 
                 currentGrid.innerHTML += `
                     <div class="card">
                         <div class="img-wrapper"><img src="${song.image}" onerror="this.src='https://via.placeholder.com/200?text=No+Cover'"></div>
                         <div class="song-title">${song.title}</div>
-                        <div class="artist-name">${badgeHtml}<span class="artist-name-text">${song.artist}</span></div>
+                        <div class="artist-name">${badgeHtml}<span class="artist-name-text">${song.artist}</span>${genreHtml}</div>
                         
                         <div class="action-container">
                             <a href="${song.link}" target="_blank" class="btn-link btn-genie">
