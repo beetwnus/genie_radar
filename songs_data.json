@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-29 16:45:32",
+    "updated_at": "2026-07-29 19:35:06",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -133,6 +133,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "LATENCY",
+            "title": "WE JUST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/942/659/87942659_1785228718469_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87942659",
+            "found_at": "2026-07-29 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "aespa",
             "title": "KISS N TELL",
