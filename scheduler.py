@@ -148,16 +148,6 @@ TRACKED_ARTISTS = {
 DATA_FILE = "songs_data.json"
 
 # ==========================================
-# 爬蟲來源網址清單
-# 💡 這裡只負責產生「今日綜合新歌」清單（給非追蹤藝人用）。
-#    追蹤藝人的新歌不靠這裡的分類篩選，而是靠下面 scrape_artist_page()
-#    直接爬每個藝人自己的頁面，所以不受 Genie 的分類(國內/J-POP/其他)影響。
-# ==========================================
-SOURCE_URLS = [
-    "https://www.genie.co.kr/newest/song",  # 國內 (가요)
-]
-
-# ==========================================
 # 工具函式
 # ==========================================
 def get_taiwan_timezone():
@@ -175,92 +165,6 @@ def load_existing_data():
                 return []
         except: return []
     return []
-
-# ==========================================
-# 爬取單一來源網址，回傳這個網址上找到的新歌清單
-# ==========================================
-def scrape_one_source(url, existing_links, seen_links, flat_tracked_ids):
-    new_songs = []
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    }
-
-    try:
-        response = requests.get(url, headers=headers, timeout=20)
-        soup = BeautifulSoup(response.text, 'html.parser')
-        song_list = soup.select("table.list-wrap > tbody > tr")
-        print(f"   [來源] {url} -> 找到 {len(song_list)} 筆")
-
-        for song in song_list:
-            try:
-                artist_elem = song.select_one("a.artist")
-                original_artist_name = artist_elem.text.strip() if artist_elem else "未知藝人"
-
-                # === 抓取 onclick 裡的藝人 ID ===
-                artist_id = ""
-                if artist_elem and 'onclick' in artist_elem.attrs:
-                    match_artist = re.search(r'fnViewArtist\((\d+)\)', artist_elem['onclick'])
-                    if match_artist:
-                        artist_id = match_artist.group(1)
-
-                # === 判斷是否為追蹤藝人 ===
-                is_tracked = False
-                # 💡 這裡直接保持原始名稱，不再用我們字典裡的名稱覆蓋它
-                display_artist_name = original_artist_name
-
-                if artist_id and artist_id in flat_tracked_ids:
-                    is_tracked = True
-
-                link_id = song['songid']
-                song_link = f"https://www.genie.co.kr/detail/songInfo?xgnm={link_id}"
-
-                album_elem = song.select_one("a.albumtitle")
-                title = album_elem.text.strip() if album_elem else "未知專輯"
-                if "TITLE" in title: title = title.replace("TITLE", "").strip()
-                if "19금" in title: title = title.replace("19금", "").strip()
-
-                # === 抓取 onclick 裡的專輯 ID ===
-                album_id = ""
-                if album_elem and 'onclick' in album_elem.attrs:
-                    match_album = re.search(r'fnViewAlbumLayer\((\d+)\)', album_elem['onclick'])
-                    if match_album:
-                        album_id = match_album.group(1)
-
-                # === 組成專輯連結 ===
-                final_link = f"https://www.genie.co.kr/detail/albumInfo?axnm={album_id}" if album_id else song_link
-
-                # 檢查是否已經抓過（含這次執行中其他來源已抓到的，避免同一首歌重複）
-                if song_link in existing_links or final_link in existing_links:
-                    continue
-                if song_link in seen_links or final_link in seen_links:
-                    continue
-                seen_links.add(song_link)
-                seen_links.add(final_link)
-
-                img_elem = song.select_one("a.cover img")
-                img_src = "https:" + img_elem['src'] if img_elem else ""
-
-                new_song = {
-                    "artist": display_artist_name,
-                    "title": title,
-                    "image": img_src,
-                    "link": final_link,
-                    "found_at": get_taiwan_time().strftime("%Y-%m-%d %H:%M"),
-                    "is_tracked": is_tracked
-                }
-                new_songs.append(new_song)
-
-                log_prefix = "⭐ 關注" if is_tracked else "   其他"
-                print(f"   -> {log_prefix}：{display_artist_name} - {title}")
-
-            except Exception as e:
-                continue
-
-    except Exception as e:
-        print(f"⚠️ 爬蟲錯誤 ({url}): {e}")
-
-    return new_songs
-
 
 # ==========================================
 # 爬取「單一藝人自己的頁面」，抓他最新發行的專輯
@@ -372,11 +276,7 @@ def scrape_job():
         for artist_id, artist_name in artists.items():
             flat_tracked_ids[str(artist_id)] = artist_name
 
-    # 依序爬取每個來源網址(國內 + J-POP，未來可在 SOURCE_URLS 繼續加)
-    for source_url in SOURCE_URLS:
-        new_songs.extend(scrape_one_source(source_url, existing_links, seen_links, flat_tracked_ids))
-
-    # === 核心修正：逐一爬每個追蹤藝人「自己的頁面」 ===
+    # 依序爬取每個追蹤藝人「自己的頁面」
     # 這一步不受 Genie 的分類（國內/J-POP/其他海外分類...）影響，
     # 只要是該藝人自己頁面上列出的新專輯，一定抓得到。
     print(f"[{get_taiwan_time().strftime('%Y-%m-%d %H:%M:%S')}] 開始逐一檢查 {len(flat_tracked_ids)} 位追蹤藝人的個人頁面...")
