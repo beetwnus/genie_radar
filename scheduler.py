@@ -173,7 +173,58 @@ def load_existing_data():
 #    只要它出現在該藝人自己的「발매 앨범」列表裡，就一定抓得到。
 #    頁面預設就會顯示該藝人最新的幾張專輯，且已經是新到舊排序。
 # ==========================================
-def scrape_artist_page(artist_id, artist_display_name, existing_links, seen_links):
+# ==========================================
+# 抓取「單一專輯頁面」的 장르/스타일 欄位，轉換成前端要顯示的曲風標籤
+#    가요 -> K-POP；OST、J-POP 等其他分類則照字面顯示
+# ==========================================
+def map_style_to_genre_label(style_text):
+    style_text = style_text.strip()
+    if not style_text:
+        return None
+    if style_text == "가요":
+        return "K-POP"
+    return style_text
+
+
+def fetch_album_genre(album_link, headers):
+    try:
+        response = requests.get(album_link, headers=headers, timeout=15)
+        soup = BeautifulSoup(response.text, 'html.parser')
+
+        style_text = ""
+
+        # 先嘗試常見的資訊清單結構（依 Genie 專輯頁面版型可能為 dl/dt/dd 或 li 結構）
+        for row in soup.select("li"):
+            label = row.select_one(".info, dt, .title, span")
+            row_text = row.get_text(" ", strip=True)
+            if row_text.startswith("장르") or "장르/스타일" in row_text or "장르 / 스타일" in row_text:
+                style_text = row_text
+                break
+
+        if not style_text:
+            # 後備方案：直接在整頁純文字中定位「장르/스타일」欄位內容
+            page_text = soup.get_text(" ", strip=True)
+            match = re.search(r'장르\s*/?\s*스타일\s*([^\s].*?)(?:발매사|기획사|발매일|$)', page_text)
+            if match:
+                style_text = "장르/스타일 " + match.group(1).strip()
+
+        if not style_text:
+            return None
+
+        # 欄位格式通常是「장르/스타일  댄스 / 가요」或「장르/스타일  팝 / J-POP」
+        # 去掉欄位標籤本身，取「/」分隔後的最後一段（스타일）
+        cleaned = style_text.replace("장르/스타일", "").replace("장르 / 스타일", "").strip()
+        parts = [p.strip() for p in cleaned.split("/") if p.strip()]
+        if not parts:
+            return None
+
+        return map_style_to_genre_label(parts[-1])
+
+    except Exception:
+        return None
+
+
+
     new_songs = []
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
@@ -239,16 +290,19 @@ def scrape_artist_page(artist_id, artist_display_name, existing_links, seen_link
                     src = img_elem['src']
                     img_src = "https:" + src if src.startswith("//") else src
 
+                genre_label = fetch_album_genre(final_link, headers)
+
                 new_song = {
                     "artist": artist_display_name,
                     "title": title,
                     "image": img_src,
                     "link": final_link,
                     "found_at": found_at,
-                    "is_tracked": True
+                    "is_tracked": True,
+                    "genre": genre_label
                 }
                 new_songs.append(new_song)
-                print(f"   -> ⭐ 關注（藝人頁）：{artist_display_name} - {title}")
+                print(f"   -> ⭐ 關注（藝人頁）：{artist_display_name} - {title}" + (f" [{genre_label}]" if genre_label else ""))
 
             except Exception:
                 continue
