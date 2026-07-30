@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-30 19:21:13",
+    "updated_at": "2026-07-31 00:45:59",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -133,6 +133,54 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Ado",
+            "title": "Ado 1st Live Kigeki (Live At Zepp DiverCity, 2022)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/943/486/87943486_1785255127140_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87943486",
+            "found_at": "2026-07-31 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Ado",
+            "title": "Ado JAPAN TOUR 2024 Profile of Mona Lisa (Live At K-Arena Yokohama, 2024)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/943/496/87943496_1785255146120_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87943496",
+            "found_at": "2026-07-31 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Ado",
+            "title": "Ado 2nd Live Campanella (Live At Saitama Super Arena, 2022)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/943/497/87943497_1785255390751_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87943497",
+            "found_at": "2026-07-31 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Ado",
+            "title": "Ado WORLD TOUR 'Hibana' (Live At Saitama Super Arena, 2025)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/943/595/87943595_1785256943153_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87943595",
+            "found_at": "2026-07-31 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Ado",
+            "title": "Ado Nationwide Tour 2023 Mars (Live At Nippon Budokan, 2023)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/943/622/87943622_1785257197293_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87943622",
+            "found_at": "2026-07-31 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Ado",
+            "title": "Ado THE FIRST WORLD TOUR 'Wish' (Live At Peacock Theater, Los Angeles, 2024)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/943/626/87943626_1785257504758_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87943626",
+            "found_at": "2026-07-31 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "LATENCY",
             "title": "WE JUST",
