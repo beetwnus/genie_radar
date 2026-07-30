@@ -42,7 +42,8 @@
         header {
             background-color: var(--bg-header);
             height: 70px;
-            display: flex;
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
             align-items: center;
             gap: 24px;
             padding: 0 30px;
@@ -62,7 +63,7 @@
             align-items: center;
             color: var(--text-main);
             white-space: nowrap;
-            margin-right: 20px;
+            justify-self: start;
         }
 
         .highlight-text {
@@ -71,10 +72,10 @@
             margin-right: 4px;
         }
 
-        /* === 搜尋框 === */
+        /* === 搜尋框（置中於 header） === */
         .search-container {
-            flex-grow: 1;
-            max-width: 400px;
+            width: min(400px, 40vw);
+            justify-self: center;
             position: relative;
             display: flex;
             align-items: center;
@@ -135,7 +136,7 @@
             width: 42px;
             height: 42px;
             flex-shrink: 0;
-            margin-left: auto;
+            justify-self: end;
             background-color: var(--input-bg);
             border: 1px solid var(--card-border);
             border-radius: 50%;
@@ -540,17 +541,18 @@
 
         @media (max-width: 600px) {
             header {
+                grid-template-columns: auto 1fr auto;
                 padding: 0 15px;
                 gap: 10px;
             }
 
             .logo {
                 font-size: 20px;
-                margin-right: 0;
             }
 
             .search-container {
-                max-width: 100%;
+                width: 100%;
+                justify-self: stretch;
             }
 
             .section-update-info {
@@ -680,6 +682,12 @@
         }
 
         function getArtistCategory(artistName) {
+            // 先做「完全比對（區分大小寫）」，避免像 LiSA（JP）跟 Lisa（KR）
+            // 這種只差大小寫的不同藝人被誤判成同一人
+            for (const [category, artists] of Object.entries(artistCategoryMap)) {
+                if (artists.includes(artistName)) return category;
+            }
+
             let textLower = artistName.toLowerCase();
 
             for (const [category, artists] of Object.entries(artistCategoryMap)) {
