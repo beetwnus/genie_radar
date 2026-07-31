@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-31 19:36:34",
+    "updated_at": "2026-08-01 00:54:50",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -133,6 +133,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "tripleS",
+            "title": "Dream Dress",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/924/232/87924232_1784823103125_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87924232",
+            "found_at": "2026-08-01 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Ado",
             "title": "Ado 1st Live Kigeki (Live At Zepp DiverCity, 2022)",
@@ -1230,15 +1238,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/216/375/87216375_1770027103950_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87216375",
             "found_at": "2026-02-05 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "tripleS",
-            "title": "4study4work4inst Vol.3",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/207/080/87207080_1769758025802_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87207080",
-            "found_at": "2026-02-02 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
