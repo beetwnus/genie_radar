@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-03 00:13:22",
+    "updated_at": "2026-08-03 20:39:00",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -133,6 +133,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Hebi",
+            "title": "Placebo",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/956/685/87956685_1785475355838_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87956685",
+            "found_at": "2026-08-03 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Red Velvet",
+            "title": "Velvet Summer - Summer Mini Album",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/956/688/87956688_1785475365699_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87956688",
+            "found_at": "2026-08-03 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "LEE HI",
             "title": "유부녀 킬러 OST Part 1",
