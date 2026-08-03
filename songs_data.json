@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-03 20:39:00",
+    "updated_at": "2026-08-04 01:22:02",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -1203,15 +1203,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "STAYC",
-            "title": "STEREOTYPE (Chinese Ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/225/335/87225335_1770194926263_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87225335",
-            "found_at": "2026-02-05 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "Taeyeon",
             "title": "J-POP REMAKE Vol.1",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/812/081/87812081_1782367891095_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1253,15 +1244,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/239/87679239_1779870391043_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87679239",
             "found_at": "2026-06-01 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "tripleS",
-            "title": "Tokimetique",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/216/375/87216375_1770027103950_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87216375",
-            "found_at": "2026-02-05 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
