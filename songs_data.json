@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-04 19:34:01",
+    "updated_at": "2026-08-05 01:02:26",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -133,6 +133,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Gyubin",
+            "title": "You Light Up My Life (Korean Version)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/924/722/87924722_1784828796148_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87924722",
+            "found_at": "2026-08-05 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "KISS OF LIFE",
             "title": "SWEAT",
@@ -1666,15 +1674,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/413/575/87413575_1774257094186_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87413575",
             "found_at": "2026-04-03 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "LiSA",
-            "title": "SWEET MAGIC",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/179/861/87179861_1769083915119_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87179861",
-            "found_at": "2026-02-06 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
