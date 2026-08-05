@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-05 19:30:44",
+    "updated_at": "2026-08-06 00:51:54",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -1260,15 +1260,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/239/87679239_1779870391043_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87679239",
             "found_at": "2026-06-01 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Wendy",
-            "title": "오늘부터 인간입니다만 OST Part.5",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/215/054/87215054_1770000527961_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87215054",
-            "found_at": "2026-02-07 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
