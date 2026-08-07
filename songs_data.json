@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-07 18:11:42",
+    "updated_at": "2026-08-08 00:06:37",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -457,15 +457,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/826/540/87826540_1782722206362_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87826540",
             "found_at": "2026-06-30 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Chung Ha",
-            "title": "Save me",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/227/87233227_1770354435295_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87233227",
-            "found_at": "2026-02-09 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
@@ -1924,15 +1915,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/470/753/87470753_1775611590399_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87470753",
             "found_at": "2026-04-08 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Yuika",
-            "title": "I Can't Be a Princess",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/236/515/87236515_1770599808781_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87236515",
-            "found_at": "2026-02-09 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
