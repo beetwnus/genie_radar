@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-06 19:33:24",
+    "updated_at": "2026-08-07 18:11:42",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -133,6 +133,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "izna",
+            "title": "DUMB HOT!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/949/071/87949071_1785343291713_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87949071",
+            "found_at": "2026-08-07 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Ado",
+            "title": "Monstruo",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/971/778/87971778_1786033329723_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87971778",
+            "found_at": "2026-08-07 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Gyubin",
             "title": "You Light Up My Life (Korean Version)",
