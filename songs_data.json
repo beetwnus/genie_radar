@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-08 23:42:38",
+    "updated_at": "2026-08-09 17:55:45",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -133,6 +133,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "aespa",
+            "title": "SYNK : aeXIS LINE - 2026 Special Digital Single",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/983/705/87983705_1786066963066_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87983705",
+            "found_at": "2026-08-09 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Minnie",
+            "title": "오싹한 연애 OST Part 6",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/975/660/87975660_1785906771499_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87975660",
+            "found_at": "2026-08-09 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "izna",
             "title": "DUMB HOT!",
