@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-09 17:55:45",
+    "updated_at": "2026-08-09 23:24:42",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -133,6 +133,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Hearts2Hearts",
+            "title": "ICONIC HEART",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/980/252/87980252_1786006637373_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87980252",
+            "found_at": "2026-08-10 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "aespa",
             "title": "SYNK : aeXIS LINE - 2026 Special Digital Single",
