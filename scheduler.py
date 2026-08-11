@@ -75,7 +75,6 @@ TRACKED_ARTISTS = {
         "80468933": "NAYEON",
         "81490206": "NewJeans",
         "81326040": "NMIXX",
-        "80357324": "OH MY GIRL",
         "82209678": "QWER",
         "80284018": "Red Velvet",
         "82379125": "RESCENE",
