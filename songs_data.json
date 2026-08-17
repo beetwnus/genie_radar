@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-16 23:33:52",
+    "updated_at": "2026-08-17 17:55:11",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -128,6 +128,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Rothy",
+            "title": "Sweetest",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/010/885/88010885_1786589021494_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88010885",
+            "found_at": "2026-08-17 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "tripleS",
+            "title": "＜World Wild Women＞",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/011/249/88011249_1786592560959_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88011249",
+            "found_at": "2026-08-17 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "yama",
             "title": "low back pain",
@@ -1496,15 +1512,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/381/443/87381443_1779569790625_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87381443",
             "found_at": "2026-03-16 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Ado",
-            "title": "Vivarium",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/273/650/87273650_1771345301163_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87273650",
-            "found_at": "2026-02-18 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
