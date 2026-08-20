@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-20 17:47:47",
+    "updated_at": "2026-08-20 23:45:39",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -128,6 +128,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Yuika",
+            "title": "Dear Emerald",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/040/805/88040805_1787122290753_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88040805",
+            "found_at": "2026-08-21 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "OURBIRTHDAY",
             "title": "Our Birthday",
