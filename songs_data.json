@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-21 23:45:16",
+    "updated_at": "2026-08-22 17:39:48",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -128,6 +128,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "H1-KEY",
+            "title": "행복합니다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/046/229/88046229_1787280223046_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88046229",
+            "found_at": "2026-08-22 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Yuika",
             "title": "Dear Emerald",
@@ -877,15 +885,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/418/275/87418275_1774343860097_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87418275",
             "found_at": "2026-04-03 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "IVE",
-            "title": "REVIVE＋",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/225/87233225_1771579384466_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87233225",
-            "found_at": "2026-02-23 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
@@ -1696,15 +1695,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/368/071/87368071_1773228147689_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87368071",
             "found_at": "2026-03-27 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "HANA",
-            "title": "HANA",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/245/394/87245394_1770626230914_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87245394",
-            "found_at": "2026-02-23 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
