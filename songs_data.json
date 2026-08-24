@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-23 23:34:43",
+    "updated_at": "2026-08-24 18:01:11",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -942,15 +942,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "Kep1er",
-            "title": "I Stay (From '너자 2')",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/302/277/87302277_1771920820823_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87302277",
-            "found_at": "2026-02-25 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "KiiiKiii",
             "title": "21세기 대군부인 OST Part.2",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/811/87484811_1775713596338_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1383,15 +1374,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "WJSN",
-            "title": "Bloom hour",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/305/699/87305699_1771919548979_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87305699",
-            "found_at": "2026-02-25 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "WOOAH",
             "title": "Wish With W : Vol.3",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/861/952/87861952_1783492299503_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1559,15 +1541,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/447/87674447_1779784937603_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87674447",
             "found_at": "2026-05-27 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Ai Tomioka",
-            "title": "愛が溶けないうちに(Ai ga tokenai uchini)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/305/063/87305063_1771909593243_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87305063",
-            "found_at": "2026-02-25 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
