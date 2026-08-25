@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-24 23:52:45",
+    "updated_at": "2026-08-25 17:49:27",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -1154,15 +1154,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/559/009/87559009_1778234658689_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87559009",
             "found_at": "2026-05-11 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "NMIXX",
-            "title": "TIC TIC (feat. Pabllo Vittar)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/309/360/87309360_1771985276037_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87309360",
-            "found_at": "2026-02-26 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
