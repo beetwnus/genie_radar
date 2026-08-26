@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-25 23:56:51",
+    "updated_at": "2026-08-26 17:56:18",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -550,24 +550,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/570/747/87570747_1777876701801_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87570747",
             "found_at": "2026-05-06 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "BLACKPINK",
-            "title": "DEADLINE",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/316/669/87316669_1772157302225_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87316669",
-            "found_at": "2026-02-27 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "BLACKPINK",
-            "title": "DEADLINE",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/316/685/87316685_1772156918165_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87316685",
-            "found_at": "2026-02-27 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
@@ -1211,15 +1193,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "RESCENE",
-            "title": "［RESCENE X ???］",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/301/643/87301643_1772154691174_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87301643",
-            "found_at": "2026-02-27 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "Rothy",
             "title": "First Train",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/571/87922571_1784792201402_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1477,15 +1450,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/529/962/87529962_1777373271477_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87529962",
             "found_at": "2026-04-29 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Yunsae",
-            "title": "Forevermore",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/272/111/87272111_1771127798878_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87272111",
-            "found_at": "2026-02-27 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
