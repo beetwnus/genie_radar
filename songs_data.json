@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-30 22:26:41",
+    "updated_at": "2026-08-31 02:36:30",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -1906,15 +1906,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/523/479/87523479_1776820922170_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87523479",
             "found_at": "2026-04-22 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Yorushika",
-            "title": "second person",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/327/291/87327291_1772586991472_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87327291",
-            "found_at": "2026-03-04 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
