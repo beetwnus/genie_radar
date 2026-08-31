@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-08-31 02:36:30",
+    "updated_at": "2026-09-01 01:04:51",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -709,15 +709,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/330/87512330_1776327725619_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87512330",
             "found_at": "2026-04-17 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "H1-KEY",
-            "title": "LOVECHAPTER",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/336/847/87336847_1772593892162_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87336847",
-            "found_at": "2026-03-05 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
@@ -1942,15 +1933,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/411/536/87411536_1774369612789_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87411536",
             "found_at": "2026-03-25 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "ZUTOMAYO",
-            "title": "yomosugara",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/333/730/87333730_1772540791779_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87333730",
-            "found_at": "2026-03-05 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
