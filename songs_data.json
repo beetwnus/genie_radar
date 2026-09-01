@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-01 22:10:02",
+    "updated_at": "2026-09-02 02:25:32",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -128,6 +128,30 @@
         ]
     },
     "songs": [
+        {
+            "artist": "izna",
+            "title": "HANDLE WITH CARE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/031/303/88031303_1786955790925_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88031303",
+            "found_at": "2026-09-02 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Chilli Beans",
+            "title": "Feel like slowing down feat. WurtS, Deu, Ito, Takeuchi",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/001/640/88001640_1786436870530_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88001640",
+            "found_at": "2026-09-02 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "NEK!",
+            "title": "B!NARY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/073/299/88073299_1788158132654_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88073299",
+            "found_at": "2026-09-02 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Chung Ha",
             "title": "México",
@@ -932,15 +956,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/660/87922660_1784793410845_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922660",
             "found_at": "2026-07-24 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Jennie",
-            "title": "Ruby (The Complete Collection)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/038/87344038_1772761632514_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87344038",
-            "found_at": "2026-03-06 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
