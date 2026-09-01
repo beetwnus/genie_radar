@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-01 01:04:51",
+    "updated_at": "2026-09-01 22:10:02",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -128,6 +128,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Chung Ha",
+            "title": "México",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/095/598/88095598_1788165112078_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88095598",
+            "found_at": "2026-09-01 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "tripleS",
+            "title": "DNA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/042/806/88042806_1787159562536_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88042806",
+            "found_at": "2026-09-01 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "KyoungSeo",
             "title": "별이 떨어질 때",
