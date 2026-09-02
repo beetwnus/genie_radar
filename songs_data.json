@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-02 21:35:20",
+    "updated_at": "2026-09-03 02:38:41",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -1257,15 +1257,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "Rothy",
-            "title": "샤이닝 OST Part.2",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/497/87344497_1772765813870_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87344497",
-            "found_at": "2026-03-07 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "Saebit",
             "title": "푸른 잎사귀 (あおば)",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/783/205/87783205_1781833026846_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1784,15 +1775,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/670/160/87670160_1779704230516_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87670160",
             "found_at": "2026-06-08 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "ReoNa",
-            "title": "Yuiyuinouta",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/284/275/87284275_1771395090329_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87284275",
-            "found_at": "2026-03-07 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
