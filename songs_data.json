@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-03 22:42:17",
+    "updated_at": "2026-09-04 02:35:23",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -1171,15 +1171,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/801/050/87801050_1782205382497_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87801050",
             "found_at": "2026-06-24 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "MRCH",
-            "title": "미혼남녀의 효율적 만남 OST Part.2",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/338/344/87338344_1772705467033_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87338344",
-            "found_at": "2026-03-08 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
