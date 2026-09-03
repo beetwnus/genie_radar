@@ -109,7 +109,8 @@ TRACKED_ARTISTS = {
         "80441313": "Yuju",
         "42114005": "Yunsae",
         "80632473": "Yuqi",
-        "83405256": "OURBIRTHDAY"
+        "83405256": "OURBIRTHDAY",
+        "83417687":"TUIDE"
         # ⚠️ 請在此處繼續加入
     },
     "JP": {
