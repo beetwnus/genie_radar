@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-04 02:35:23",
+    "updated_at": "2026-09-04 21:28:17",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -129,6 +129,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "JISOO",
+            "title": "CLICK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/108/955/88108955_1788401562424_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88108955",
+            "found_at": "2026-09-04 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Lisa",
+            "title": "SaWaDiKa",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/113/538/88113538_1788485105422_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88113538",
+            "found_at": "2026-09-02 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "TUIDE",
             "title": "The 1st EP [TUNE & PLAY]",
