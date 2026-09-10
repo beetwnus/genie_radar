@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-10 21:34:02",
+    "updated_at": "2026-09-11 02:23:02",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -1359,15 +1359,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/412/421/87412421_1774230994669_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87412421",
             "found_at": "2026-03-24 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "siso",
-            "title": "1972",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/024/87372024_1773294127640_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87372024",
-            "found_at": "2026-03-15 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
