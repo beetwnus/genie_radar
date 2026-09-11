@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-11 21:32:00",
+    "updated_at": "2026-09-12 02:26:11",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -1038,15 +1038,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "izna",
-            "title": "Love All",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/327/844/87327844_1772431940884_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87327844",
-            "found_at": "2026-03-16 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "Jennie",
             "title": "Less than a Lover",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/660/87922660_1784793410845_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1205,15 +1196,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/700/556/87700556_1780390075897_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87700556",
             "found_at": "2026-06-04 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Minnie",
-            "title": "세이렌 OST Part.3",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/375/503/87375503_1773362501920_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87375503",
-            "found_at": "2026-03-16 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
@@ -1565,15 +1547,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/522/553/87522553_1776788490416_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87522553",
             "found_at": "2026-04-22 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Ado",
-            "title": "AiAiA",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/381/443/87381443_1779569790625_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87381443",
-            "found_at": "2026-03-16 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
