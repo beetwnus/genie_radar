@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-12 02:26:11",
+    "updated_at": "2026-09-12 20:51:25",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -129,6 +129,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "LE SSERAFIM",
+            "title": "Made My Night (Remixes)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/143/680/88143680_1789092737376_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88143680",
+            "found_at": "2026-09-12 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "LE SSERAFIM",
             "title": "Made My Night",
