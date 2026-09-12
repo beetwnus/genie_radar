@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-12 20:51:25",
+    "updated_at": "2026-09-13 01:47:36",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -830,15 +830,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "fromis_9",
-            "title": "월간남친 Part 2 (Soundtrack from the Netflix Series)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/385/780/87385780_1773646900106_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87385780",
-            "found_at": "2026-03-17 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "Gyubin",
             "title": "You Light Up My Life",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/669/973/87669973_1779701809748_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1492,15 +1483,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/530/215/87530215_1776756715533_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87530215",
             "found_at": "2026-04-25 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "YENA",
-            "title": "캐치 캐치 (Sped Up)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/384/854/87384854_1773628296803_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87384854",
-            "found_at": "2026-03-17 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
