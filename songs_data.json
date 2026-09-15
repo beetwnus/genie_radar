@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-15 22:20:16",
+    "updated_at": "2026-09-16 02:56:25",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -129,6 +129,30 @@
         ]
     },
     "songs": [
+        {
+            "artist": "KISS OF LIFE",
+            "title": "SWEAT -JAPANESE EP-",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/144/409/88144409_1789350676199_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88144409",
+            "found_at": "2026-09-16 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "LIGHTSUM",
+            "title": "Doshite",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/163/152/88163152_1789485405438_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88163152",
+            "found_at": "2026-09-16 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Chilli Beans",
+            "title": "HONESTY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/071/384/88071384_1788455796212_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88071384",
+            "found_at": "2026-09-16 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Yuqi",
             "title": "雨终曲 (비의 마지막 노래)",
