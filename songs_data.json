@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-18 02:59:21",
+    "updated_at": "2026-09-18 21:36:29",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -129,6 +129,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "FIFTY FIFTY",
+            "title": "Called it Love (세레나 X FIFTY FIFTY)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/167/081/88167081_1789635484888_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88167081",
+            "found_at": "2026-09-18 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Rosé",
+            "title": "new trick",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/171/816/88171816_1789607523045_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88171816",
+            "found_at": "2026-09-18 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "LE SSERAFIM",
             "title": "Made My Night (Party Remixes)",
