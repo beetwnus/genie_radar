@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-19 21:06:49",
+    "updated_at": "2026-09-20 01:59:16",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -730,15 +730,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "Baby DONT Cry",
-            "title": "The 1st Mini Album ［AFTER CRY］",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/413/523/87413523_1774254999311_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87413523",
-            "found_at": "2026-03-24 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "BABYMONSTER",
             "title": "SUGAR HONEY ICE TEA",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/715/003/87715003_1780628491038_1_140x140.JPG/dims/resize/Q_80,0",
@@ -879,15 +870,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/595/471/87595471_1778086011496_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87595471",
             "found_at": "2026-05-15 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "FIFTY FIFTY",
-            "title": "Wish You Were Here",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/756/87390756_1773738707708_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87390756",
-            "found_at": "2026-03-24 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
@@ -1401,15 +1383,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/390/87524390_1776739145535_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87524390",
             "found_at": "2026-04-22 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Saebit",
-            "title": "블리치! (ブリーチ!)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/412/421/87412421_1774230994669_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87412421",
-            "found_at": "2026-03-24 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
