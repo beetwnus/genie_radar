@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-20 21:35:53",
+    "updated_at": "2026-09-21 02:13:12",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -129,6 +129,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "ILLIT",
+            "title": "Swingin' Magic",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/178/002/88178002_1789701105063_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88178002",
+            "found_at": "2026-09-21 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "FIFTY FIFTY",
             "title": "Called it Love (세레나 X FIFTY FIFTY)",
@@ -1252,15 +1260,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "Moonbyul",
-            "title": "REV",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/418/151/87418151_1774342650161_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87418151",
-            "found_at": "2026-03-25 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "MRCH",
             "title": "상생관계",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/852/130/87852130_1783311698842_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1630,15 +1629,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "Aooo",
-            "title": "Question",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/368/051/87368051_1773228093786_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87368051",
-            "found_at": "2026-03-25 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "ATARAYO",
             "title": "Fish",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/835/887/87835887_1782894867189_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1680,15 +1670,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/616/935/87616935_1779069233134_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87616935",
             "found_at": "2026-05-20 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "chilldspot",
-            "title": "dance now!",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/764/87372764_1773997498436_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87372764",
-            "found_at": "2026-03-25 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
@@ -1995,15 +1976,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/848/854/87848854_1783167990804_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87848854",
             "found_at": "2026-07-06 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "ZUTOMAYO",
-            "title": "KEISOUDO",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/411/536/87411536_1774369612789_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87411536",
-            "found_at": "2026-03-25 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
