@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-21 02:13:12",
+    "updated_at": "2026-09-21 23:54:53",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -129,6 +129,30 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Minnie",
+            "title": "ขอจีบ (nice to meet you) ［From ''HENRY's First Dates''］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/178/734/88178734_1789967187298_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88178734",
+            "found_at": "2026-09-21 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "QWER",
+            "title": "Special Single '소년만화 & 피카레스크'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/190/514/88190514_1789955542503_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88190514",
+            "found_at": "2026-09-21 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "ねぎ塩豚丼",
+            "title": "REBORN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/190/687/88190687_1789958791580_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88190687",
+            "found_at": "2026-08-29 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "ILLIT",
             "title": "Swingin' Magic",
