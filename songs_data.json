@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-22 22:03:53",
+    "updated_at": "2026-09-23 02:48:22",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -129,6 +129,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "LIGHTSUM",
+            "title": "Re:idol",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/184/779/88184779_1789838196242_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88184779",
+            "found_at": "2026-09-23 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Minnie",
             "title": "ขอจีบ (nice to meet you) ［From ''HENRY's First Dates''］",
@@ -942,15 +950,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "Hearts2Hearts",
-            "title": "iScreaM Vol.39 : RUDE! Remixes",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/428/518/87428518_1774512691192_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87428518",
-            "found_at": "2026-03-27 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "Hebi",
             "title": "도굴왕 : 엔드라인 OST",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/879/663/87879663_1783930312550_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1712,15 +1711,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/396/87448396_1775195581525_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87448396",
             "found_at": "2026-04-05 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "HANA",
-            "title": "Bad Girl",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/368/071/87368071_1773228147689_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87368071",
-            "found_at": "2026-03-27 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
