@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-21 23:54:53",
+    "updated_at": "2026-09-22 22:03:53",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -866,15 +866,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/784/098/87784098_1782094963348_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87784098",
             "found_at": "2026-06-23 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "CSR",
-            "title": "［ASTROCHILD IN THE LONELY PLANET］ CSR(첫사랑) - 숨길 수 없는 맘인걸",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/423/932/87423932_1774424190691_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87423932",
-            "found_at": "2026-03-26 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
