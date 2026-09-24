@@ -24,10 +24,8 @@ TRACKED_ARTISTS = {
         "80519791": "Choi Yoo jung",
         "80519790": "Chung Ha",
         "81394103": "CLASSy",
-        "80347927": "CLC",
         "81491030": "CSR",
         "80560326": "Dreamcatcher",
-        "82164268": "EL7Z UP",
         "81223544": "Ellui",
         "80441312": "Eunha",
         "80682661": "EVERGLOW",
@@ -65,7 +63,6 @@ TRACKED_ARTISTS = {
         "81397289": "LE SSERAFIM",
         "80661363": "LEE CHAE YEON",
         "80158970": "LEE HI",
-        "81131367": "LIGHTSUM",
         "80539781": "Lisa",
         "80279134": "Mamamoo",
         "80632475": "Minnie",
@@ -110,7 +107,8 @@ TRACKED_ARTISTS = {
         "42114005": "Yunsae",
         "80632473": "Yuqi",
         "83405256": "OURBIRTHDAY",
-        "83417687":"TUIDE"
+        "83417687": "TUIDE",
+        "82872375": "HITGS"
         # ⚠️ 請在此處繼續加入
     },
     "JP": {
