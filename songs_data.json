@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-24 22:12:46",
+    "updated_at": "2026-09-25 01:32:22",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -27,6 +27,7 @@
             "Hayeon",
             "Hearts2Hearts",
             "Hebi",
+            "HITGS",
             "HUH YUNJIN",
             "HwaSa",
             "i-dle",
@@ -126,6 +127,46 @@
         ]
     },
     "songs": [
+        {
+            "artist": "HITGS",
+            "title": "Things We Dream : Vol.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/073/853/88073853_1787733137109_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88073853",
+            "found_at": "2026-08-27 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "HITGS",
+            "title": "［Things We Dream : Vol.2］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/811/836/87811836_1782364600663_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87811836",
+            "found_at": "2026-06-26 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "HITGS",
+            "title": "Things We Dream: Vol.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/173/87503173_1776149202928_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87503173",
+            "found_at": "2026-04-15 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Ado",
+            "title": "DND",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/198/208/88198208_1790266591065_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88198208",
+            "found_at": "2026-09-25 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "LiSA",
+            "title": "Sophilia",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/140/372/88140372_1789038692824_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88140372",
+            "found_at": "2026-09-25 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "LIGHTSUM",
             "title": "Re:idol",
