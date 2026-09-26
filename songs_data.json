@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-26 21:45:47",
+    "updated_at": "2026-09-27 02:33:04",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -1155,15 +1155,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/660/87922660_1784793410845_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922660",
             "found_at": "2026-07-24 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Kep1er",
-            "title": "CRACK CODE",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/433/713/87433713_1774597914680_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87433713",
-            "found_at": "2026-03-31 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
