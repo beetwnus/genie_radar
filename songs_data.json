@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-27 22:42:35",
+    "updated_at": "2026-09-28 03:01:30",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -956,15 +956,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/906/990/87906990_1784526699588_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87906990",
             "found_at": "2026-07-21 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "fromis_9",
-            "title": "LIKE YOU BETTER (Japanese ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/447/907/87447907_1774934285313_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87447907",
-            "found_at": "2026-04-01 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
