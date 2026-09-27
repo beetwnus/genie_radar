@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-27 02:33:04",
+    "updated_at": "2026-09-27 22:42:35",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -127,6 +127,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "KyoungSeo",
+            "title": "뮤지컬 까미난떼 OST '나라고'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/191/356/88191356_1789970882224_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88191356",
+            "found_at": "2026-09-27 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "HITGS",
             "title": "Things We Dream : Vol.3",
