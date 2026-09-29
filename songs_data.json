@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-29 01:40:20",
+    "updated_at": "2026-09-29 23:43:19",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -127,6 +127,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "WOOAH",
+            "title": "VOODOO DOLL",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/177/889/88177889_1789699893645_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88177889",
+            "found_at": "2026-09-29 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "KyoungSeo",
             "title": "뮤지컬 까미난떼 OST '나라고'",
