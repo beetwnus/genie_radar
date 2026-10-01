@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-30 23:54:19",
+    "updated_at": "2026-10-02 00:21:25",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -127,6 +127,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Majiko",
+            "title": "Kids",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/134/590/88134590_1788916326579_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88134590",
+            "found_at": "2026-10-02 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "WOOAH",
             "title": "VOODOO DOLL",
@@ -1733,15 +1741,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "Faulieu",
-            "title": "蒼い春 (푸른 봄)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/396/87448396_1775195581525_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87448396",
-            "found_at": "2026-04-05 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "LiSA",
             "title": "AzukiArai",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/780/400/87780400_1781783206257_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1774,15 +1773,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/395/576/87395576_1773815216545_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87395576",
             "found_at": "2026-04-09 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Majiko",
-            "title": "Ribbon (TV size)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/401/603/87401603_1773916625729_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87401603",
-            "found_at": "2026-04-05 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
@@ -1873,15 +1863,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/648/405/87648405_1779211301161_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87648405",
             "found_at": "2026-05-27 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "tuki.",
-            "title": "zero",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/396/840/87396840_1773832302903_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87396840",
-            "found_at": "2026-04-04 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
