@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-02 00:21:25",
+    "updated_at": "2026-10-02 23:45:52",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -127,6 +127,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "BIBI",
+            "title": "Yochi! (TV TOKYO '마메와 무기' OP Theme)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/222/400/88222400_1790731883648_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88222400",
+            "found_at": "2026-10-02 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "YENA",
+            "title": "보기 드문 여자 (Feat. NOWIMYOUNG (나우아임영))",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/237/860/88237860_1790833040919_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88237860",
+            "found_at": "2026-10-02 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Majiko",
             "title": "Kids",
