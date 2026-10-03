@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-02 23:45:52",
+    "updated_at": "2026-10-03 22:21:01",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -1037,15 +1037,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "Hebi",
-            "title": "Allergy",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/462/342/87462342_1775208091895_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87462342",
-            "found_at": "2026-04-06 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "HwaSa",
             "title": "So Cute",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/481/426/87481426_1775649113805_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1096,15 +1087,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/169/87498169_1776045101740_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87498169",
             "found_at": "2026-04-13 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "ILLIT",
-            "title": "Bubee",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/457/999/87457999_1775107632813_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87457999",
-            "found_at": "2026-04-06 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
@@ -1195,15 +1177,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/829/412/87829412_1782900245112_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87829412",
             "found_at": "2026-07-04 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "KISS OF LIFE",
-            "title": "Who is she",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/462/340/87462340_1775207815736_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87462340",
-            "found_at": "2026-04-06 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
@@ -1456,15 +1429,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/530/279/87530279_1776757607292_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87530279",
             "found_at": "2026-04-22 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Solar",
-            "title": "우리는 매일매일 OST Part.7 – 나의 바람은",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/449/846/87449846_1775106589448_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87449846",
-            "found_at": "2026-04-06 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
