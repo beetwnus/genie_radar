@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-03 22:21:01",
+    "updated_at": "2026-10-04 02:41:44",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -826,15 +826,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/777/87602777_1779964265986_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87602777",
             "found_at": "2026-05-29 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "AKMU",
-            "title": "개화",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/471/134/87471134_1775454694305_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87471134",
-            "found_at": "2026-04-07 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
