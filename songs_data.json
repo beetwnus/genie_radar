@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-04 02:41:44",
+    "updated_at": "2026-10-04 22:47:49",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -127,6 +127,38 @@
         ]
     },
     "songs": [
+        {
+            "artist": "yama",
+            "title": "in the end",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/252/305/88252305_1791092871531_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88252305",
+            "found_at": "2026-10-02 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "yama",
+            "title": "note",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/253/512/88253512_1791114691331_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88253512",
+            "found_at": "2026-10-02 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "yama",
+            "title": "seismic resistance",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/253/513/88253513_1791114694958_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88253513",
+            "found_at": "2026-10-02 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "yama",
+            "title": "after the rain",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/253/519/88253519_1791114712832_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88253519",
+            "found_at": "2026-10-02 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "BIBI",
             "title": "Yochi! (TV TOKYO '마메와 무기' OP Theme)",
