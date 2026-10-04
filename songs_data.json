@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-04 22:47:49",
+    "updated_at": "2026-10-05 02:39:06",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -1393,15 +1393,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "RESCENE",
-            "title": "Runaway",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/458/490/87458490_1775115096303_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87458490",
-            "found_at": "2026-04-08 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "Rothy",
             "title": "First Train",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/571/87922571_1784792201402_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1735,15 +1726,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "Faulieu",
-            "title": "MiX",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/404/87448404_1775613644589_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87448404",
-            "found_at": "2026-04-08 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "LiSA",
             "title": "AzukiArai",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/780/400/87780400_1781783206257_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1965,15 +1947,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/718/977/87718977_1780881387496_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87718977",
             "found_at": "2026-06-08 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Yuika",
-            "title": "Triangle Game",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/470/753/87470753_1775611590399_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87470753",
-            "found_at": "2026-04-08 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
