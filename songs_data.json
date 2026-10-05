@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-05 02:39:06",
+    "updated_at": "2026-10-06 02:21:29",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -127,6 +127,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Hearts2Hearts",
+            "title": "ICONIC HEART (Korean Ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/238/255/88238255_1790839025123_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88238255",
+            "found_at": "2026-10-05 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "yama",
             "title": "in the end",
@@ -1060,15 +1068,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "HwaSa",
-            "title": "So Cute",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/481/426/87481426_1775649113805_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87481426",
-            "found_at": "2026-04-09 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "i-dle",
             "title": "We made",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/602/87745602_1783138959792_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1749,15 +1748,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/459/148/87459148_1775130110329_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87459148",
             "found_at": "2026-04-15 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Majiko",
-            "title": "Kuraikurai",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/395/576/87395576_1773815216545_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87395576",
-            "found_at": "2026-04-09 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
