@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-06 02:21:29",
+    "updated_at": "2026-10-06 23:53:34",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -127,6 +127,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "tripleS",
+            "title": "Welcome to Heaven",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/209/251/88209251_1790269645623_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88209251",
+            "found_at": "2026-10-01 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "yama",
+            "title": "Sayonara wa iwanai",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/209/427/88209427_1790271701961_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88209427",
+            "found_at": "2026-10-07 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Hearts2Hearts",
             "title": "ICONIC HEART (Korean Ver.)",
