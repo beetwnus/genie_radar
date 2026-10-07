@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-06 23:53:34",
+    "updated_at": "2026-10-08 00:23:21",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -940,15 +940,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "BIBI",
-            "title": "21세기 대군부인 OST Part.1",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/806/87484806_1775713300842_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87484806",
-            "found_at": "2026-04-10 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "Billlie",
             "title": "the collective soul and unconscious: chapter two",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/570/747/87570747_1777876701801_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1197,15 +1188,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/660/87922660_1784793410845_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922660",
             "found_at": "2026-07-24 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "KiiiKiii",
-            "title": "21세기 대군부인 OST Part.2",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/811/87484811_1775713596338_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87484811",
-            "found_at": "2026-04-11 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
