@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-08 00:23:21",
+    "updated_at": "2026-10-09 00:26:19",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -127,6 +127,38 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Gyubin",
+            "title": "Everybody!!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/191/892/88191892_1789977464190_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88191892",
+            "found_at": "2026-10-09 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Rothy",
+            "title": "FLAT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/261/297/88261297_1791277342227_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88261297",
+            "found_at": "2026-10-08 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Yuqi",
+            "title": "二十七 (27)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/226/291/88226291_1791361042629_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88226291",
+            "found_at": "2026-10-08 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "ZUTOMAYO",
+            "title": "akanesasu",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/262/022/88262022_1791474707976_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88262022",
+            "found_at": "2026-10-08 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "tripleS",
             "title": "Welcome to Heaven",
