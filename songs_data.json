@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-09 00:26:19",
+    "updated_at": "2026-10-10 00:09:30",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -127,6 +127,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Yuika",
+            "title": "Kawaikunai",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/266/578/88266578_1791510393209_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88266578",
+            "found_at": "2026-10-09 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Gyubin",
             "title": "Everybody!!",
@@ -1143,15 +1151,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "ILLIT",
-            "title": "Bubee (Korean Ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/169/87498169_1776045101740_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87498169",
-            "found_at": "2026-04-13 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "ITZY",
             "title": "Motto (Remixes)",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/650/969/87650969_1779247305789_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1337,15 +1336,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/700/556/87700556_1780390075897_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87700556",
             "found_at": "2026-06-04 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Miyeon",
-            "title": "Bloom Again (Prod by Yoon Ilsang)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/487/929/87487929_1775784715132_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87487929",
-            "found_at": "2026-04-13 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
