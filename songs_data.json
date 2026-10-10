@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-10 00:09:30",
+    "updated_at": "2026-10-10 23:17:25",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -127,6 +127,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Hearts2Hearts",
+            "title": "Candy Box Lover",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/267/393/88267393_1791371207664_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88267393",
+            "found_at": "2026-10-11 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Yuika",
             "title": "Kawaikunai",
