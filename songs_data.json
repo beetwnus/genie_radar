@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-10 23:17:25",
+    "updated_at": "2026-10-11 23:36:50",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -127,6 +127,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "aimyon",
+            "title": "Almost Lonely",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/276/405/88276405_1791538122499_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88276405",
+            "found_at": "2026-10-12 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Hearts2Hearts",
             "title": "Candy Box Lover",
