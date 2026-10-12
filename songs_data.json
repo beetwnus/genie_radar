@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-11 23:36:50",
+    "updated_at": "2026-10-13 02:58:00",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -293,14 +293,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/811/836/87811836_1782364600663_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87811836",
             "found_at": "2026-06-26 00:00",
-            "is_tracked": true
-        },
-        {
-            "artist": "HITGS",
-            "title": "Things We Dream: Vol.1",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/173/87503173_1776149202928_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87503173",
-            "found_at": "2026-04-15 00:00",
             "is_tracked": true
         },
         {
@@ -1536,15 +1528,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "Wheein",
-            "title": "adagio",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/502/088/87502088_1776132716332_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87502088",
-            "found_at": "2026-04-16 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "WOOAH",
             "title": "Wish With W : Vol.3",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/861/952/87861952_1783492299503_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1775,15 +1758,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/818/87524818_1776674516980_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87524818",
             "found_at": "2026-05-08 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "LiSA",
-            "title": "LACE UP",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/459/148/87459148_1775130110329_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87459148",
-            "found_at": "2026-04-15 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
