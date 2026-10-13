@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-13 02:58:00",
+    "updated_at": "2026-10-14 00:56:57",
     "tracked_artists": {
         "KR": [
             "aespa",
@@ -127,6 +127,30 @@
         ]
     },
     "songs": [
+        {
+            "artist": "chilldspot",
+            "title": "lost child",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/236/981/88236981_1791857045405_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88236981",
+            "found_at": "2026-10-14 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "YOASOBI",
+            "title": "咲き誇れ",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/253/394/88253394_1791113284343_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88253394",
+            "found_at": "2026-10-14 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Yorushika",
+            "title": "Beyond the Clouds, Only Me Downwind",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/289/412/88289412_1791772591241_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88289412",
+            "found_at": "2026-10-14 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "aimyon",
             "title": "Almost Lonely",
@@ -1083,15 +1107,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/669/973/87669973_1779701809748_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87669973",
             "found_at": "2026-06-12 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Gyubin",
-            "title": "Flower (한류 시작 20th 프로젝트 Part.7)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/330/87512330_1776327725619_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87512330",
-            "found_at": "2026-04-17 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
