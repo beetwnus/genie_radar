@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-14 11:18:40",
+    "updated_at": "2026-10-14 22:30:28",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -128,6 +128,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Yuju",
+            "title": "file. 07",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/242/620/88242620_1791876600434_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88242620",
+            "found_at": "2026-10-14 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Ai Tomioka",
             "title": "dream catcher",
