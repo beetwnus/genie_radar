@@ -1,7 +1,8 @@
 {
-    "updated_at": "2026-10-14 00:56:57",
+    "updated_at": "2026-10-14 11:18:40",
     "tracked_artists": {
         "KR": [
+            "A2O LITE",
             "aespa",
             "AKMU",
             "Apink",
@@ -127,6 +128,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Ai Tomioka",
+            "title": "dream catcher",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/295/100/88295100_1791874914834_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88295100",
+            "found_at": "2026-10-14 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "chilldspot",
             "title": "lost child",
