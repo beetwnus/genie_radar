@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-15 22:09:25",
+    "updated_at": "2026-10-16 03:05:32",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -128,6 +128,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Ado",
+            "title": "Raven Sky",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/296/944/88296944_1792081102909_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88296944",
+            "found_at": "2026-10-16 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Yuju",
             "title": "file. 07",
@@ -971,15 +979,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/777/87602777_1779964265986_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87602777",
             "found_at": "2026-05-29 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Apink",
-            "title": "15th Season",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/716/87503716_1776155508884_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87503716",
-            "found_at": "2026-04-19 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
