@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-16 03:05:32",
+    "updated_at": "2026-10-16 21:57:47",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -128,6 +128,30 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Hearts2Hearts",
+            "title": "Next Chapter",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/306/353/88306353_1792050728667_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88306353",
+            "found_at": "2026-10-16 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "tripleS",
+            "title": "＜LOVE&POP＞ pt.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/306/191/88306191_1792049255797_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88306191",
+            "found_at": "2026-10-16 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "TWICE",
+            "title": "＜THIS IS FOR＞ WORLD TOUR FINALE in SEOUL - LIVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/305/371/88305371_1792035412185_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88305371",
+            "found_at": "2026-10-16 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Ado",
             "title": "Raven Sky",
