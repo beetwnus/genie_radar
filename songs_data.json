@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-17 02:48:19",
+    "updated_at": "2026-10-17 20:58:11",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -128,6 +128,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "yama",
+            "title": "tidying up",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/315/782/88315782_1792197133855_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88315782",
+            "found_at": "2026-10-13 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "yama",
+            "title": "spanish mackerel",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/316/318/88316318_1792205831240_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88316318",
+            "found_at": "2026-10-13 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Hearts2Hearts",
             "title": "Next Chapter",
