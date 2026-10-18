@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-18 21:13:33",
+    "updated_at": "2026-10-19 02:04:20",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -1103,15 +1103,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "BOL4",
-            "title": "Find You",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/530/293/87530293_1776757904419_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87530293",
-            "found_at": "2026-04-22 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "Choi Yoo jung",
             "title": "Perfect Target",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/826/540/87826540_1782722206362_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1207,15 +1198,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/602/87745602_1783138959792_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87745602",
             "found_at": "2026-07-06 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "i-dle",
-            "title": "HIDE AND SEEK",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/520/022/87520022_1776527190718_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87520022",
-            "found_at": "2026-04-22 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
@@ -1535,24 +1517,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "Saebit",
-            "title": "지고 피다",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/390/87524390_1776739145535_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87524390",
-            "found_at": "2026-04-22 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Solar",
-            "title": "總有一顆屬於你的星球 (Your Own Star)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/530/279/87530279_1776757607292_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87530279",
-            "found_at": "2026-04-22 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "STAYC",
             "title": "2:LOVE",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/392/87763392_1781508391064_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1702,15 +1666,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/607/350/87607350_1778516490572_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87607350",
             "found_at": "2026-05-12 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Ado",
-            "title": "KIRA",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/522/553/87522553_1776788490416_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87522553",
-            "found_at": "2026-04-22 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
@@ -2008,15 +1963,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/532/830/87532830_1776802620119_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87532830",
             "found_at": "2026-04-24 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Yorushika",
-            "title": "Bubble",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/523/479/87523479_1776820922170_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87523479",
-            "found_at": "2026-04-22 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
