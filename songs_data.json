@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-20 22:17:51",
+    "updated_at": "2026-10-21 03:11:42",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -1970,15 +1970,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/707/194/87707194_1780916248869_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87707194",
             "found_at": "2026-06-26 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "YOASOBI",
-            "title": "E-SIDE 4",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/532/830/87532830_1776802620119_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87532830",
-            "found_at": "2026-04-24 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
