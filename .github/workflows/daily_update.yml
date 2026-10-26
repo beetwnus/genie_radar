@@ -22,12 +22,12 @@ jobs:
 
     steps:
       - name: Checkout code (下載程式碼)
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python (設定 Python 環境)
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.12'
 
       - name: Install dependencies (安裝必要套件)
         run: |
