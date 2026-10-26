@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-22 03:17:07",
+    "updated_at": "2026-10-26 18:00:14",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -128,6 +128,94 @@
         ]
     },
     "songs": [
+        {
+            "artist": "BABYMONSTER",
+            "title": "DESERVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/345/223/88345223_1792710694475_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88345223",
+            "found_at": "2026-10-23 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "BOL4",
+            "title": "October Archive",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/326/378/88326378_1792402644496_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88326378",
+            "found_at": "2026-10-22 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "ILLIT",
+            "title": "BREAK EVEN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/347/777/88347777_1792747905985_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88347777",
+            "found_at": "2026-10-26 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Lisa",
+            "title": "PRESS PLAY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/339/234/88339234_1792609921863_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88339234",
+            "found_at": "2026-10-23 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Minnie",
+            "title": "i love you to the moon and back",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/342/012/88342012_1792654918751_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88342012",
+            "found_at": "2026-10-23 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Saebit",
+            "title": "영원에게 안녕 (Re:letter Original Soundtrack)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/325/175/88325175_1792734322654_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88325175",
+            "found_at": "2026-10-24 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Ado",
+            "title": "Patient A",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/343/155/88343155_1792844234190_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88343155",
+            "found_at": "2026-10-24 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "yama",
+            "title": "newcomer",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/356/079/88356079_1792876312757_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88356079",
+            "found_at": "2026-10-23 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "yama",
+            "title": "humidifying device",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/356/085/88356085_1792876322649_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88356085",
+            "found_at": "2026-10-23 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "yama",
+            "title": "barbarian",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/356/177/88356177_1792877497325_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88356177",
+            "found_at": "2026-10-23 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "yama",
+            "title": "zanthoxylum fruit",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/356/180/88356180_1792877507540_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88356180",
+            "found_at": "2026-10-23 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "IVE",
             "title": "Looks Can Kill",
@@ -1389,15 +1477,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "LEE CHAE YEON",
-            "title": "Till I Die",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/554/586/87554586_1777253190589_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87554586",
-            "found_at": "2026-04-28 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "LEE HI",
             "title": "2 EASY 2 BE HON2ST",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/562/117/87562117_1777372968349_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1470,15 +1549,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "QWER",
-            "title": "4th Mini Album 'CEREMONY'",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/540/872/87540872_1776931301386_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87540872",
-            "found_at": "2026-04-27 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "RESCENE",
             "title": "Pretty Girl - Special Single",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/826/104/87826104_1782713508473_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1542,15 +1612,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "Taeyeon",
-            "title": "모두가 자신의 무가치함과 싸우고 있다 OST Part.3",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/545/008/87545008_1776999110650_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87545008",
-            "found_at": "2026-04-26 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "tripleS",
             "title": "＜Baby Flower City Remixes＞",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/716/242/87716242_1780649502006_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1596,29 +1657,11 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "WOOAH",
-            "title": "하염없이 너만",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/540/619/87540619_1777354012314_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87540619",
-            "found_at": "2026-04-28 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "YENA",
             "title": "ミラミラ(Mirror Mirror) / STAR! (feat. Hatsune Miku)",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/214/87726214_1780897293938_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87726214",
             "found_at": "2026-06-10 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "YENA",
-            "title": "ミラミラ(Mirror Mirror)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/561/193/87561193_1777363619593_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87561193",
-            "found_at": "2026-04-29 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
@@ -1637,15 +1680,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/624/987/87624987_1778664692424_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87624987",
             "found_at": "2026-05-14 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Yuju",
-            "title": "첫사랑은 저주다",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/529/962/87529962_1777373271477_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87529962",
-            "found_at": "2026-04-29 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
