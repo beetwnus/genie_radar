@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-26 18:00:14",
+    "updated_at": "2026-10-27 04:24:59",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -1311,15 +1311,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/926/794/87926794_1784861614662_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87926794",
             "found_at": "2026-07-26 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "ILLIT",
-            "title": "MAMIHLAPINATAPAI",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/567/808/87567808_1777456326075_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87567808",
-            "found_at": "2026-04-30 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
