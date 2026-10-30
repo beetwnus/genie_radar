@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-30 00:00:43",
+    "updated_at": "2026-10-30 23:45:33",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -128,6 +128,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "JISOO",
+            "title": "ADDICTED",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/375/858/88375858_1793236612232_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88375858",
+            "found_at": "2026-10-30 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Yunsae",
+            "title": "Deja Vu",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/352/087/88352087_1792820198014_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88352087",
+            "found_at": "2026-10-30 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "HANA",
             "title": "Slidin",
