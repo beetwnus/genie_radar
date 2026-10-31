@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-30 23:45:33",
+    "updated_at": "2026-10-31 23:15:09",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -128,6 +128,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "IVE",
+            "title": "Looks Can Kill (Sped Up)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/382/307/88382307_1793338592254_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88382307",
+            "found_at": "2026-10-31 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "JISOO",
             "title": "ADDICTED",
@@ -1172,15 +1180,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/715/003/87715003_1780628491038_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87715003",
             "found_at": "2026-06-08 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "BABYMONSTER",
-            "title": "춤 (CHOOM)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/583/370/87583370_1777849894482_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87583370",
-            "found_at": "2026-05-04 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
