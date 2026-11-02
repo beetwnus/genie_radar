@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-01 23:56:20",
+    "updated_at": "2026-11-03 03:21:22",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -128,6 +128,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "LEE CHAE YEON",
+            "title": "My Voice",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/269/497/88269497_1791415642706_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88269497",
+            "found_at": "2026-10-08 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "tripleS",
+            "title": "See You",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/343/692/88343692_1792687930976_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88343692",
+            "found_at": "2026-11-01 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "ReoNa",
             "title": "Wake Me Up",
@@ -1219,29 +1235,11 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "Billlie",
-            "title": "the collective soul and unconscious: chapter two",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/570/747/87570747_1777876701801_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87570747",
-            "found_at": "2026-05-06 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "BOL4",
             "title": "여름아 부탁해",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/911/129/87911129_1784618796070_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87911129",
             "found_at": "2026-07-22 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "BOL4",
-            "title": "Someday (from 오늘도 매진했습니다 OST Part 6)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/565/581/87565581_1777425180094_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87565581",
-            "found_at": "2026-05-06 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
@@ -1534,15 +1532,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "NAYEON",
-            "title": "괜찮아 사랑이니까 (from 오늘도 매진했습니다 OST Part 7)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/592/626/87592626_1778031690839_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87592626",
-            "found_at": "2026-05-07 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "NMIXX",
             "title": "Heavy Serenade",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/559/009/87559009_1778234658689_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1764,15 +1753,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/652/615/87652615_1779275808710_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87652615",
             "found_at": "2026-06-03 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Aooo",
-            "title": "CALL",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/835/87524835_1776674819570_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87524835",
-            "found_at": "2026-05-06 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
