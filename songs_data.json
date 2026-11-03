@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-03 03:21:22",
+    "updated_at": "2026-11-03 19:46:52",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -128,6 +128,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "RESCENE",
+            "title": "PULSE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/360/964/88360964_1793683030966_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88360964",
+            "found_at": "2026-11-03 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "LEE CHAE YEON",
             "title": "My Voice",
