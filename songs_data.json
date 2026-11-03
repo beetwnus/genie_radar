@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-03 19:46:52",
+    "updated_at": "2026-11-04 00:57:07",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -128,6 +128,30 @@
         ]
     },
     "songs": [
+        {
+            "artist": "LiSA",
+            "title": "Kutabare My Darling",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/343/086/88343086_1792669405792_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88343086",
+            "found_at": "2026-11-04 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "yama",
+            "title": "dot",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/336/266/88336266_1792563139089_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88336266",
+            "found_at": "2026-11-04 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "YOASOBI",
+            "title": "YOASOBI 5th ANNIVERSARY DOME LIVE 2024 '超現実' at TOKYO DOME",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/396/849/88396849_1793556396141_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88396849",
+            "found_at": "2026-11-04 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "RESCENE",
             "title": "PULSE",
@@ -1824,15 +1848,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/780/400/87780400_1781783206257_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87780400",
             "found_at": "2026-07-01 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "LiSA",
-            "title": "YES",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/524/818/87524818_1776674516980_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87524818",
-            "found_at": "2026-05-08 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
