@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-04 00:57:07",
+    "updated_at": "2026-11-05 00:59:44",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -128,6 +128,14 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Baby DONT Cry",
+            "title": "Replay",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/405/793/88405793_1793690906929_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88405793",
+            "found_at": "2026-11-04 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "LiSA",
             "title": "Kutabare My Darling",
