@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-05 00:59:44",
+    "updated_at": "2026-11-06 01:16:24",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -128,6 +128,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "HITGS",
+            "title": "Things We Dream : Vol.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/411/780/88411780_1793779891914_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88411780",
+            "found_at": "2026-11-05 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Ado",
+            "title": "Shinka",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/407/208/88407208_1793895723571_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88407208",
+            "found_at": "2026-11-06 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Baby DONT Cry",
             "title": "Replay",
