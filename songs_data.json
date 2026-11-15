@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-14 23:42:40",
+    "updated_at": "2026-11-16 00:13:18",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -128,6 +128,38 @@
         ]
     },
     "songs": [
+        {
+            "artist": "yama",
+            "title": "I want to eat your smile",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/463/109/88463109_1794725570158_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88463109",
+            "found_at": "2026-11-13 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "yama",
+            "title": "cafe",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/463/834/88463834_1794741159883_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88463834",
+            "found_at": "2026-11-13 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "yama",
+            "title": "warmth",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/464/001/88464001_1794743250421_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88464001",
+            "found_at": "2026-11-13 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "yama",
+            "title": "steady",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/464/025/88464025_1794743795491_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88464025",
+            "found_at": "2026-11-13 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "H1-KEY",
             "title": "Unbelievable",
@@ -1370,15 +1402,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "BIBI",
-            "title": "BUMPA",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/662/87646662_1779180702235_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87646662",
-            "found_at": "2026-05-20 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "BOL4",
             "title": "여름아 부탁해",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/911/129/87911129_1784618796070_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1519,15 +1542,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/623/711/87623711_1778649102712_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87623711",
             "found_at": "2026-05-27 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "IVE",
-            "title": "LUCID DREAM",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/623/721/87623721_1778649105619_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87623721",
-            "found_at": "2026-05-20 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
@@ -1870,15 +1884,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/710/598/87710598_1780908212745_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87710598",
             "found_at": "2026-06-10 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "chilldspot",
-            "title": "prank call - remix #001",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/616/935/87616935_1779069233134_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87616935",
-            "found_at": "2026-05-20 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
