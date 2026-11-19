@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-19 01:57:09",
+    "updated_at": "2026-11-20 02:07:22",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -128,6 +128,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "aespa",
+            "title": "KISS N TELL (☆Taku Takahashi Remix)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/480/698/88480698_1795072058229_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88480698",
+            "found_at": "2026-11-20 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Saebit",
+            "title": "Unending Moderato (블루 아카이브)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/465/701/88465701_1794815209986_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88465701",
+            "found_at": "2026-11-19 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "LiSA",
             "title": "Leave With Me (Featured in Always Lalisa)",
