@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-22 00:43:30",
+    "updated_at": "2026-11-23 01:00:56",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -1576,15 +1576,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "IVE",
-            "title": "LUCID DREAM",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/623/711/87623711_1778649102712_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87623711",
-            "found_at": "2026-05-27 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "izna",
             "title": "SET THE TEMPO",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/714/869/87714869_1780626721646_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1828,15 +1819,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "Ai Tomioka",
-            "title": "soulmate",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/447/87674447_1779784937603_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87674447",
-            "found_at": "2026-05-27 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "Aimer",
             "title": "Live to Survive",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/780/374/87780374_1781782909090_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1896,15 +1878,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/710/598/87710598_1780908212745_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87710598",
             "found_at": "2026-06-10 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "Chilli Beans",
-            "title": "breath",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/578/844/87578844_1777690346286_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87578844",
-            "found_at": "2026-05-27 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
@@ -1995,15 +1968,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/743/87726743_1780913606629_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87726743",
             "found_at": "2026-06-22 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "tuki.",
-            "title": "15 - Live Edition(NIPPON BUDOKAN)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/648/405/87648405_1779211301161_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87648405",
-            "found_at": "2026-05-27 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
