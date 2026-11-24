@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-24 05:02:42",
+    "updated_at": "2026-11-25 04:04:19",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -128,6 +128,38 @@
         ]
     },
     "songs": [
+        {
+            "artist": "RESCENE",
+            "title": "Magic (From 'Hexed'/Korean Single Version)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/495/959/88495959_1795361791152_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88495959",
+            "found_at": "2026-11-24 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "Younha",
+            "title": "전지적 독자 시점 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/498/238/88498238_1795417362994_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88498238",
+            "found_at": "2026-11-24 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "chilldspot",
+            "title": "Storm",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/465/521/88465521_1795486750930_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88465521",
+            "found_at": "2026-11-25 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "yama",
+            "title": "C.U.T Release Tour 'UKA' at Zepp Haneda",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/439/179/88439179_1794336440920_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88439179",
+            "found_at": "2026-11-25 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "Wendy",
             "title": "Gleam Hour",
@@ -1418,15 +1450,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/687/194/87687194_1780042215359_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87687194",
             "found_at": "2026-05-30 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "aespa",
-            "title": "LEMONADE - The 2nd Album",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/777/87602777_1779964265986_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87602777",
-            "found_at": "2026-05-29 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
