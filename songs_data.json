@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-25 04:04:19",
+    "updated_at": "2026-11-26 03:04:32",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -128,6 +128,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "izna",
+            "title": "IWALY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/503/144/88503144_1795504370190_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88503144",
+            "found_at": "2026-11-25 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "KISS OF LIFE",
+            "title": "Greedy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/503/360/88503360_1795506722867_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88503360",
+            "found_at": "2026-11-25 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "RESCENE",
             "title": "Magic (From 'Hexed'/Korean Single Version)",
@@ -1414,42 +1430,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/922/533/87922533_1784791965671_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87922533",
             "found_at": "2026-07-24 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "aespa",
-            "title": "LEMONADE - The 2nd Album (NINGNING Special Ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/687/177/87687177_1780041720886_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87687177",
-            "found_at": "2026-05-30 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "aespa",
-            "title": "LEMONADE - The 2nd Album (WINTER Special Ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/687/183/87687183_1780042012867_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87687183",
-            "found_at": "2026-05-30 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "aespa",
-            "title": "LEMONADE - The 2nd Album (GISELLE Special Ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/687/188/87687188_1780042024144_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87687188",
-            "found_at": "2026-05-30 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "aespa",
-            "title": "LEMONADE - The 2nd Album (KARINA Special Ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/687/194/87687194_1780042215359_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87687194",
-            "found_at": "2026-05-30 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
