@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-26 03:04:32",
+    "updated_at": "2026-11-27 02:56:24",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -1637,15 +1637,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/699/162/87699162_1780368692329_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87699162",
             "found_at": "2026-06-03 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "LE SSERAFIM",
-            "title": "CELEBRATION (Supergirl ver.)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/685/547/87685547_1780017118048_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87685547",
-            "found_at": "2026-05-31 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
