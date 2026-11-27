@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-27 02:56:24",
+    "updated_at": "2026-11-28 02:48:32",
     "tracked_artists": {
         "KR": [
             "A2O LITE",
@@ -128,6 +128,22 @@
         ]
     },
     "songs": [
+        {
+            "artist": "aespa",
+            "title": "KISS N TELL (English Ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/514/458/88514458_1795683993211_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88514458",
+            "found_at": "2026-11-27 00:00",
+            "is_tracked": true
+        },
+        {
+            "artist": "KyoungSeo",
+            "title": "HERE, HEART Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/088/466/501/88466501_1795683934919_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=88466501",
+            "found_at": "2026-11-27 00:00",
+            "is_tracked": true
+        },
         {
             "artist": "izna",
             "title": "IWALY",
@@ -1497,15 +1513,6 @@
             "genre": "장르별 차트"
         },
         {
-            "artist": "FIFTY FIFTY",
-            "title": "Imperfect-I'mperfect",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/021/87641021_1779073897320_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87641021",
-            "found_at": "2026-06-01 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
             "artist": "fromis_9",
             "title": "Glow ME",
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/906/990/87906990_1784526699588_1_140x140.JPG/dims/resize/Q_80,0",
@@ -1763,15 +1770,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/660/786/87660786_1779453991763_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87660786",
             "found_at": "2026-06-03 00:00",
-            "is_tracked": true,
-            "genre": "장르별 차트"
-        },
-        {
-            "artist": "tripleS",
-            "title": "＜LOVE&POP＞ pt.1",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/239/87679239_1779870391043_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87679239",
-            "found_at": "2026-06-01 00:00",
             "is_tracked": true,
             "genre": "장르별 차트"
         },
